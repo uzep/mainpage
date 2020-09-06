@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# Yükseköğretim Uzaktan Eğitim Platformu
 
-You can use the [editor on GitHub](https://github.com/portuz-org/mainpage/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Proje ile ülke çapında tüm yükseköğretim kurumlarının istifade edeceği bir uzaktan eğitim platformu geliştirilmesi planlanmıştır. Sistemin donanım alt yapısı ULAKBİM tarafından sağlanırken, yazılım komponentleri Sakarya Üniversitesi tarafından geliştirilmektedir. Geliştirilen sistem üniversite bilişim kaynakalarına ihtiyaç duymadığından, herhangi bir yükseköğretim kurumu için çok kısa sürede hizmete alınabilmektedir. <br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Projenin temel hedefleri:<br> 
+1. Yüksek performans ve Internet band genişliği isteyen servisler için bilişim kaynaklarının yükseköğretim kurumları arasında paylaşımı yoluyla maliyetlerin azaltılması. <br>
+2. Kişisel Verilerin Korunması Kanunu (KVKK) ile uyumlu olması. <br>
+3. Salgın veya doğal afet durumlarında yükseköğretim kurumlarında eğitimin sürekliliğinin sağlanması.<br>
 
-### Markdown
+Geliştirilen sistemin modeli **"Servis olarak Eğitim"** _(Education as a Service: EaaS)_ şeklinde bir bulut hizmeti olarak tanımlanabilir.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Sistemin bileşenleri:
+**1. Öğrenme Yönetim Sistemi (ÖYS) Modülü:** Haftalık sanal ders programlarının oluşturulmasını, uzaktan yürütülen eğitim faaliyetlerinin organize edilmesini ve yürütülmesini sağlayan modül.<br>
+**2. Sanal Sınıf Modülü:** Sanal sınıfların video dağıtımı için açık kaynak yazılımlardan yararlanılarak oluşturulan modül.<br>
+**3. Duyuru Modülü:** Öğrencilere çeşitli düzeylerde duyuru yapılabilmesini sağlayan modül.<br>
+**4. Çevrimiçi Sınav Modülü:** Çoktan seçmeli, ucu açık, doğru yanlış tarzda soruların hazırlanabildiği ve sınavların yürütülebildiği modül.<br>
+**5. Raporlama Modülü:** Öğrenci devamı, akademisyen/sanal ders yürütülme sayıları gibi raporların sistem üzerinden alınabildiği modül.<br>
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/portuz-org/mainpage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Proje çalışanları:
+- _Ahmet Özmen (Proje yürütücüsü):_ Sistemin  tasarımı ve proje yönetim faaliyetlerinden sorumlu.
+- _Mehmet Barış Horzum (Araştırmacı):_ Sistemin eğitim süreçleri ile uyumu ve geliştirme çalışmalarından sorumlu. 
+- _Baran Kaynak (Bursiyer - DevOps uzmanı):_ ÖYS ve sınav modülleri Sistemin tasarımı, kodlanması ve test süreçlerinden sorumlu.
+- _Uğur Özbek (Bursiyer - Video streaming uzmanı):_ Sanal sınıfların oluşturulması, video dağıtımve yük dengeleme süreçlerinden sorumlu. 
+- _Osman Tuna (Bursiyer - Full-stack uzmanı):_ Tüm modüllerin entegrasyonu ve kullanıcı arayüzlerinden sorumlu. 
+- _Ali Aksoy (Bursiyer - Full-stack uzmanı):_ Sanal sınıf entegrasyonu ve ÖYS arayüzlerinden sorumlu.
+- _Burak Göl (Bursiyer - Dokümantasyon):_ Kullanım kılavuzu ve yardım dokümanlarının hazırlanması. 
