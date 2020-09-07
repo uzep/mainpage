@@ -1,5 +1,8 @@
 @import "{{ site.theme }}";
 
+.inner {
+  display: none;
+}
 #forkme_banner {
   pointer-events: none;
   cursor: default;
