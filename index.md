@@ -28,22 +28,22 @@ Geliştirilen sistemin modeli **"Servis olarak Eğitim"** _(Education as a Servi
   </tr>
   <tr>
     <td><img src="http://fotograf.sabis.sakarya.edu.tr/Fotograf/edc1b6099551f8f1deb8947aa77e1175"></td>
-    <td style="text-align:left"><b>Baran Kaynak (Bursiyer - DevOps uzmanı):</b><br><br>ÖYS ve sınav modülleri ile sistemin tasarımı, kodlanması ve test süreçlerinden sorumlu.</td>
+    <td style="text-align:left; vertical-align:top"><b>Baran Kaynak (Bursiyer - DevOps uzmanı):</b><br><br>ÖYS ve sınav modülleri ile sistemin tasarımı, kodlanması ve test süreçlerinden sorumlu.</td>
   </tr>
   <tr>
     <td><img src="http://fotograf.sabis.sakarya.edu.tr/Fotograf/6da30b0ed9b5a3b5b2c5e415e90b2a86"></td>
-    <td style="text-align:left"><b>Uğur Özbek (Bursiyer - Video streaming uzmanı):</b><br><br>Sanal sınıfların oluşturulması, video dağıtımı ve yük dengeleme süreçlerinden sorumlu.</td>
+    <td style="text-align:left; vertical-align:top"><b>Uğur Özbek (Bursiyer - Video streaming uzmanı):</b><br><br>Sanal sınıfların oluşturulması, video dağıtımı ve yük dengeleme süreçlerinden sorumlu.</td>
   </tr>
   <tr>
     <td><img src="http://fotograf.sabis.sakarya.edu.tr/Fotograf/fb87e2218d31fd76fa61f3855c775f36"></td>
-    <td style="text-align:left"><b>Osman Tuna (Bursiyer - Full-stack uzmanı):</b><br><br>Tüm modüllerin entegrasyonu ve kullanıcı arayüzlerinden sorumlu.</td>
+    <td style="text-align:left; vertical-align:top"><b>Osman Tuna (Bursiyer - Full-stack uzmanı):</b><br><br>Tüm modüllerin entegrasyonu ve kullanıcı arayüzlerinden sorumlu.</td>
   </tr>
   <tr>
     <td><img src="http://fotograf.sabis.sakarya.edu.tr/Fotograf/256e739d6cc48bdbe22988354c7efa7b"></td>
-    <td style="text-align:left"><b>Ali Aksoy (Bursiyer - Full-stack uzmanı):</b><br><br>Sanal sınıf entegrasyonu ve ÖYS arayüzlerinden sorumlu.</td>
+    <td style="text-align:left; vertical-align:top"><b>Ali Aksoy (Bursiyer - Full-stack uzmanı):</b><br><br>Sanal sınıf entegrasyonu ve ÖYS arayüzlerinden sorumlu.</td>
   </tr>
   <tr>
     <td><img src="http://fotograf.sabis.sakarya.edu.tr/Fotograf/9930e971cee6ad63541b794662488558"></td>
-    <td style="text-align:left"><b>Burak Göl (Bursiyer - Dokümantasyon):<b><br><br>Kullanım kılavuzu ve yardım dokümanlarının hazırlanmasından sorumlu.</td>
+    <td style="text-align:left; vertical-align:top"><b>Burak Göl (Bursiyer - Dokümantasyon):<b><br><br>Kullanım kılavuzu ve yardım dokümanlarının hazırlanmasından sorumlu.</td>
   </tr>
  </table>
