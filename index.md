@@ -20,7 +20,7 @@ Geliştirilen sistemin modeli **"Servis olarak Eğitim"** _(Education as a Servi
 <table style="width:100%">
   <tr>
     <td><img src="http://fotograf.sabis.sakarya.edu.tr/Fotograf/91ec7cc107fcd02a0e6e0afb6dc8a454"></td>
-    <td style="text-align:left">Ahmet Özmen (Proje yürütücüsü):<br><br>Sistemin tasarımı ve proje yönetim faaliyetlerinden sorumlu.</td>
+    <td>Ahmet Özmen (Proje yürütücüsü):<br><br>Sistemin tasarımı ve proje yönetim faaliyetlerinden sorumlu.</td>
   </tr>
    <tr>
     <td><img src="http://fotograf.sabis.sakarya.edu.tr/Fotograf/238b0472bfe4b8703b63415eb7926ce3"></td>
