@@ -1,6 +1,9 @@
 @import "{{ site.theme }}";
 
-a.#forkme_banner {
-  visibility: hidden;
+#forkme_banner {
+  pointer-events: none;
+  cursor: default;
+  text-decoration: none;
+  color: black;
 }
 
