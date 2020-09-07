@@ -2,7 +2,8 @@
 ---
 @import "{{ site.theme }}";
 
-.inner {
+#forkme_banner {
+  visibility:hidden;
   display: none;
 }
 
