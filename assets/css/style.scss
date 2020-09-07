@@ -1,5 +1,9 @@
 @import "{{ site.theme }}";
 
+a {
+  display: none;
+}
+
 .inner {
   display: none;
 }
