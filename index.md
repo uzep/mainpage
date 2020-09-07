@@ -1,4 +1,4 @@
-# Yükseköğretim Uzaktan Eğitim Platformu
+# Projenin tanımı:
 
 Tübitak tarafından desteklenen proje ile ülke çapında tüm yükseköğretim kurumlarının istifade edeceği bir uzaktan eğitim platformu geliştirilmesi planlanmıştır (Proje no: 120K200). Sistemin donanım alt yapısı ULAKBİM tarafından sağlanırken, yazılım komponentleri Sakarya Üniversitesi tarafından geliştirilmektedir. Geliştirilen sistem üniversitelerin bilişim kaynakalarına ihtiyaç duymadığından, herhangi bir yükseköğretim kurumu için çok kısa sürede hizmete alınabilmektedir. <br>
 
