@@ -44,6 +44,6 @@ Geliştirilen sistemin modeli **"Servis olarak Eğitim"** _(Education as a Servi
   </tr>
   <tr>
     <td><img src="http://fotograf.sabis.sakarya.edu.tr/Fotograf/9930e971cee6ad63541b794662488558"></td>
-    <td style="text-align:left; vertical-align:top"><b>Burak Göl (Bursiyer - Dokümantasyon):<b><br><br>Kullanım kılavuzu ve yardım dokümanlarının hazırlanmasından sorumlu.</td>
+    <td style="text-align:left; vertical-align:top"><b>Burak Göl (Bursiyer - Dokümantasyon):</b><br><br>Kullanım kılavuzu ve yardım dokümanlarının hazırlanmasından sorumlu.</td>
   </tr>
  </table>
