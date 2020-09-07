@@ -2,13 +2,6 @@
 ---
 @import "{{ site.theme }}";
 
-header {
-  display: none;
-}
-
-.inner {
-  display: none;
-}
 #forkme_banner {
   pointer-events: none;
   cursor: default;
