@@ -17,12 +17,33 @@ Geliştirilen sistemin modeli **"Servis olarak Eğitim"** _(Education as a Servi
 **5. Raporlama Modülü:** Öğrenci devamı, akademisyen/sanal ders yürütülme sayıları gibi raporların sistem üzerinden alınabildiği modül.<br>
 
 ## Proje çalışanları:
-|Resim | İsim, görev |
-|------|------|
-|![ozmen](http://fotograf.sabis.sakarya.edu.tr/Fotograf/91ec7cc107fcd02a0e6e0afb6dc8a454) | _Ahmet Özmen (Proje yürütücüsü):_ <br><br>Sistemin  tasarımı ve proje yönetim faaliyetlerinden sorumlu.<br>
-|![horzum](http://fotograf.sabis.sakarya.edu.tr/Fotograf/238b0472bfe4b8703b63415eb7926ce3) | _Mehmet Barış Horzum (Araştırmacı):_ <br><br>Sistemin eğitim süreçleri ile uyumu ve geliştirme çalışmalarından sorumlu.<br> 
-|![kaynak](http://fotograf.sabis.sakarya.edu.tr/Fotograf/edc1b6099551f8f1deb8947aa77e1175) | _Baran Kaynak (Bursiyer - DevOps uzmanı):_ <br><br>ÖYS ve sınav modülleri ile sistemin tasarımı, kodlanması ve test süreçlerinden sorumlu.<br>
-|![ozbek](http://fotograf.sabis.sakarya.edu.tr/Fotograf/6da30b0ed9b5a3b5b2c5e415e90b2a86) | _Uğur Özbek (Bursiyer - Video streaming uzmanı):_ <br><br>Sanal sınıfların oluşturulması, video dağıtımı ve yük dengeleme süreçlerinden sorumlu. 
-|![tuna](http://fotograf.sabis.sakarya.edu.tr/Fotograf/fb87e2218d31fd76fa61f3855c775f36) | _Osman Tuna (Bursiyer - Full-stack uzmanı):_ <br><br>Tüm modüllerin entegrasyonu ve kullanıcı arayüzlerinden sorumlu. 
-|![aksoy](http://fotograf.sabis.sakarya.edu.tr/Fotograf/256e739d6cc48bdbe22988354c7efa7b) | _Ali Aksoy (Bursiyer - Full-stack uzmanı):_ <br><br>Sanal sınıf entegrasyonu ve ÖYS arayüzlerinden sorumlu.
-|![gol](http://fotograf.sabis.sakarya.edu.tr/Fotograf/9930e971cee6ad63541b794662488558) | _Burak Göl (Bursiyer - Dokümantasyon):_ <br><br>Kullanım kılavuzu ve yardım dokümanlarının hazırlanmasından sorumlu. 
+<table style="width:100%">
+  <tr>
+    <td><img src="http://fotograf.sabis.sakarya.edu.tr/Fotograf/91ec7cc107fcd02a0e6e0afb6dc8a454"></td>
+    <td style="text-align:left">Ahmet Özmen (Proje yürütücüsü):<br><br>Sistemin tasarımı ve proje yönetim faaliyetlerinden sorumlu.</th>
+  </tr>
+   <tr>
+    <td><img src="http://fotograf.sabis.sakarya.edu.tr/Fotograf/238b0472bfe4b8703b63415eb7926ce3"></td>
+    <td style="text-align:left">Mehmet Barış Horzum (Araştırmacı):<br><br>Sistemin eğitim süreçleri ile uyumu ve geliştirme çalışmalarından sorumlu.</td>
+  </tr>
+  <tr>
+    <td><img src="http://fotograf.sabis.sakarya.edu.tr/Fotograf/edc1b6099551f8f1deb8947aa77e1175"></td>
+    <td style="text-align:left">Baran Kaynak (Bursiyer - DevOps uzmanı):<br><br>ÖYS ve sınav modülleri ile sistemin tasarımı, kodlanması ve test süreçlerinden sorumlu.</td>
+    </tr>
+    <tr>
+      <td><img src="http://fotograf.sabis.sakarya.edu.tr/Fotograf/6da30b0ed9b5a3b5b2c5e415e90b2a86"></td>
+      <td style="text-align:left">Uğur Özbek (Bursiyer - Video streaming uzmanı):<br><br>Sanal sınıfların oluşturulması, video dağıtımı ve yük dengeleme süreçlerinden sorumlu.</td>
+    </tr>
+    <tr>
+      <td><img src="http://fotograf.sabis.sakarya.edu.tr/Fotograf/fb87e2218d31fd76fa61f3855c775f36"></td>
+      <td style="text-align:left">Osman Tuna (Bursiyer - Full-stack uzmanı): <br><br>Tüm modüllerin entegrasyonu ve kullanıcı arayüzlerinden sorumlu.</td>
+    </tr>
+    <tr>
+      <td><img src="http://fotograf.sabis.sakarya.edu.tr/Fotograf/256e739d6cc48bdbe22988354c7efa7b"></td>
+      <td style="text-align:left">Ali Aksoy (Bursiyer - Full-stack uzmanı):<br><br>Sanal sınıf entegrasyonu ve ÖYS arayüzlerinden sorumlu.</td>
+    </tr>
+    <tr>
+      <td><img src="http://fotograf.sabis.sakarya.edu.tr/Fotograf/9930e971cee6ad63541b794662488558"></td>
+      <td style="text-align:left">Burak Göl (Bursiyer - Dokümantasyon):<br><br>Kullanım kılavuzu ve yardım dokümanlarının hazırlanmasından sorumlu.</td>
+    </tr>
+ </table>
