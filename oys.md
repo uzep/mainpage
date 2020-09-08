@@ -14,7 +14,7 @@ UZEP üzerine üniversite bilgi sisteminden bilgi aktarımı iki şekilde yapıl
 Her iki yöntemde de üniversitelerimizin hassas verileri hiçbir süretle yabancı sunuculara yüklenmemektedir. Tüm veriler ülkemizde konuşlandırılmış ULAKBİM sunucularında saklanacaktır, bu verileri yükleme işlemleri üniversitelerin yetkil persoenlleri tarafından yapılacaktır. Eğitimler sırasında veri transferinin nasıl yapılacağı anlatılacak, ayrıca bu konuda kılavuz ve video yardım dokümanları bu siteye yüklenecektir.
 
 Veri aktarım kılavuzu için [tıklayınız.](assets/files/pdf/veriAktarim.pdf).<br>
-Veri aktarım yardım videosu için <iframe width="420" height="315" src="https://www.youtube.com/watch?v=kZTF7wIykk4" frameborder="0" allowfullscreen="allowfullscreen">tıklayınız.</iframe>
+Veri aktarım yardım videosu için <iframe width="420" height="315" src="https://www.youtube.com/watch?v=kZTF7wIykk4" frameborder="0">tıklayınız.</iframe>
 
 ### Haftalık sanal sınıfların oluşturulması:
 Haftalık sanal sınıf programları oluşturulmadan önce, sanal derslerin tüm üniversite içinde günlere ve gün içindeki saatlere dengeli dağılmasının gözetilmesi faydalı olacaktır. Sanal sınıflar merkezden UZEM tarafından haftalık olacak şekilde tüm üniversite için hazırlanabileceği gibi her bir öğretim elemanı kendi dersi için sistem üzerinden sanal sınıf oluşturabilecektir. Şekilde sanal sınıf oluşturma arayüzü görülmektedir.
