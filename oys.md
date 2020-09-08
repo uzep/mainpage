@@ -17,6 +17,7 @@ Veri aktarım kılavuzu için [tıklayınız.](assets/files/pdf/veriAktarim.pdf)
 
 Veri aktarım yardım videosu için {% youtube "https://www.youtube.com/watch?v=kZTF7wIykk4" %}
 <br>
+Veri aktarım yardım videosu için {% youtube kZTF7wIykk4 %} <br>
 
 Veri aktarım yardım videosu için <iframe width="420" height="315" src="https://www.youtube.com/watch?v=kZTF7wIykk4" frameborder="0">tıklayınız.</iframe> <br>
 
@@ -24,7 +25,7 @@ Veri aktarım yardım videosu için <iframe width="420" height="315" src="https:
 
 
 
-Veri aktarım yardım videosu için {% youtube kZTF7wIykk4 %} <br>
+
 
 
 ### Haftalık sanal sınıfların oluşturulması:
