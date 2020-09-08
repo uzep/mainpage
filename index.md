@@ -10,7 +10,7 @@ Tübitak tarafından desteklenen proje ile ülke çapında tüm yükseköğretim
 Geliştirilen sistemin modeli **"Servis olarak Eğitim"** _(Education as a Service: EaaS)_ şeklinde bir bulut hizmeti olarak tanımlanabilir.
 
 ## Sistemin bileşenleri:
-**1. Öğrenme Yönetim Sistemi (ÖYS) Modülü:** Haftalık sanal ders programlarının oluşturulmasını, uzaktan yürütülen eğitim faaliyetlerinin organize edilmesini ve yürütülmesini sağlayan modül.<br>
+**1. [Öğrenme Yönetim Sistemi (ÖYS) Modülü](/oys.html):** Haftalık sanal ders programlarının oluşturulmasını, uzaktan yürütülen eğitim faaliyetlerinin organize edilmesini ve yürütülmesini sağlayan modül.<br>
 **2. Sanal Sınıf Modülü:** Sanal sınıfların video dağıtımı için açık kaynak yazılımlardan yararlanılarak oluşturulan modül.<br>
 **3. Duyuru Modülü:** Öğrencilere çeşitli düzeylerde duyuru yapılabilmesini sağlayan modül.<br>
 **4. Çevrimiçi Sınav Modülü:** Çoktan seçmeli, ucu açık, doğru yanlış tarzda soruların hazırlanabildiği ve sınavların yürütülebildiği modül.<br>
