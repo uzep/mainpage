@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Öğrenme Yönetim Sistemi
+{% youtube VIDEO_ID %}
 ---
 
 # Öğrenme Yönetim Sistemi (LMS) Modülü
