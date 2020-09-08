@@ -32,7 +32,7 @@ Yakın zamanda sisteme **Ödev Modülü** de ilave edilecektir.
   </tr>
    <tr>
     <td><img src="//fotograf.sabis.sakarya.edu.tr/Fotograf/238b0472bfe4b8703b63415eb7926ce3"></td>
-    <td style="text-align:left; vertical-align:top"><b>Mehmet Barış Horzum (Araştırmacı):</b><br><br>Sistemin eğitim süreçleri ile uyumu ve geliştirme çalışmalarından sorumlu.<br><br>Mail: mhorzum@sakarya.edu.tr<br><br>Tel: (264) 295 5141</td>
+    <td style="text-align:left; vertical-align:top"><b>Mehmet Barış Horzum (Araştırmacı):</b><br><br>Sistemin eğitim süreçleri ile uyumu ve geliştirme çalışmalarından sorumlu.<br>Mail: mhorzum@sakarya.edu.tr<br>Tel: (264) 295 5141</td>
   </tr>
   <tr>
     <td><img src="//fotograf.sabis.sakarya.edu.tr/Fotograf/edc1b6099551f8f1deb8947aa77e1175"></td>
