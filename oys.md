@@ -13,7 +13,7 @@ UZEP üzerine üniversite bilgi sisteminden bilgi aktarımı iki şekilde yapıl
 
 Her iki yöntemde de üniversitelerimizin hassas verileri hiçbir süretle yabancı sunuculara yüklenmemektedir. Tüm veriler ülkemizde konuşlandırılmış ULAKBİM sunucularında saklanacaktır, bu verileri yükleme işlemleri üniversitelerin yetkil persoenlleri tarafından yapılacaktır. Eğitimler sırasında veri transferinin nasıl yapılacağı anlatılacak, ayrıca bu konuda kılavuz ve video yardım dokümanları bu siteye yüklenecektir.
 
-Veri aktarım kılavuzu için [tıklayınız]("https://uzep.org/assets/files/pdf/veriAktarim.pdf").
+Veri aktarım kılavuzu için [tıklayınız](assets/files/pdf/veriAktarim.pdf).<br>
 <a href="https://uzep.org/assets/files/pdf/veriAktarim.pdf"> Veri aktarım kılavuzu için tıklayınız </a>
 
 ### Haftalık sanal sınıfların oluşturulması:
