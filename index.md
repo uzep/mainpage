@@ -20,6 +20,8 @@ Geliştirilen sistemin modeli **"Servis olarak Eğitim"** _(Education as a Servi
 **4. [Çevrimiçi Sınav Modülü](/esinav.html):** Çoktan seçmeli, ucu açık, doğru yanlış tarzda soruların hazırlanabildiği ve sınavların yürütülebildiği modül.<br>
 **5. [Raporlama Modülü](/rapor.html):** Öğrenci devamı, akademisyen/sanal ders yürütülme sayıları gibi raporların sistem üzerinden alınabildiği modül.<br>
 
+<img src="images/uzep.png"/>
+
 Yakın zamanda sisteme **Ödev Modülü** de ilave edilecektir. 
 
 ## Proje çalışanları:
