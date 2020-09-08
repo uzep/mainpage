@@ -3,3 +3,4 @@ name: Sakarya Üniversitesi
 title: Yükseköğretim Uzaktan Eğitim Platformu (UZEP)
 github:
 is_project_page: false
+plugins: [jekyll-youtube]
