@@ -1,4 +1,6 @@
-# Projenin tanımı:
+---
+---
+# Projenin tanıtımı:
 
 Tübitak tarafından desteklenen proje ile ülke çapında tüm yükseköğretim kurumlarının istifade edeceği bir uzaktan eğitim platformu geliştirilmesi planlanmıştır (Proje no: 120K200). Sistemin donanım alt yapısı ULAKBİM tarafından sağlanırken, yazılım komponentleri Sakarya Üniversitesi tarafından geliştirilmektedir. Geliştirilen sistem üniversitelerin bilişim kaynakalarına ihtiyaç duymadığından, herhangi bir yükseköğretim kurumu için çok kısa sürede hizmete alınabilmektedir. <br>
 
@@ -15,6 +17,8 @@ Geliştirilen sistemin modeli **"Servis olarak Eğitim"** _(Education as a Servi
 **3. [Duyuru Modülü](/duyuru.html):** Öğrencilere çeşitli düzeylerde duyuru yapılabilmesini sağlayan modül.<br>
 **4. [Çevrimiçi Sınav Modülü](/esinav.html):** Çoktan seçmeli, ucu açık, doğru yanlış tarzda soruların hazırlanabildiği ve sınavların yürütülebildiği modül.<br>
 **5. [Raporlama Modülü](/rapor.html):** Öğrenci devamı, akademisyen/sanal ders yürütülme sayıları gibi raporların sistem üzerinden alınabildiği modül.<br>
+
+Yakın zamanda sisteme **Ödev Modülü** de ilave edilecektir. 
 
 ## Proje çalışanları:
 <table style="width:100%">
