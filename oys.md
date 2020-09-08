@@ -15,6 +15,8 @@ Her iki yöntemde de üniversitelerimizin hassas verileri hiçbir süretle yaban
 
 Veri aktarım kılavuzu için [tıklayınız.](assets/files/pdf/veriAktarim.pdf).<br>
 Veri aktarım yardım videosu için <iframe width="420" height="315" src="https://www.youtube.com/watch?v=kZTF7wIykk4" frameborder="0">tıklayınız.</iframe> <br>
+
+
 Veri aktarım yardım videosu için {% youtube kZTF7wIykk4 %}
 
 ### Haftalık sanal sınıfların oluşturulması:
