@@ -11,10 +11,10 @@ Geliştirilen sistemin modeli **"Servis olarak Eğitim"** _(Education as a Servi
 
 ## Sistemin bileşenleri:
 **1. [Öğrenme Yönetim Sistemi (ÖYS) Modülü](/oys.html):** Haftalık sanal ders programlarının oluşturulmasını, uzaktan yürütülen eğitim faaliyetlerinin organize edilmesini ve yürütülmesini sağlayan modül.<br>
-**2. Sanal Sınıf Modülü:** Sanal sınıfların video dağıtımı için açık kaynak yazılımlardan yararlanılarak oluşturulan modül.<br>
-**3. Duyuru Modülü:** Öğrencilere çeşitli düzeylerde duyuru yapılabilmesini sağlayan modül.<br>
-**4. Çevrimiçi Sınav Modülü:** Çoktan seçmeli, ucu açık, doğru yanlış tarzda soruların hazırlanabildiği ve sınavların yürütülebildiği modül.<br>
-**5. Raporlama Modülü:** Öğrenci devamı, akademisyen/sanal ders yürütülme sayıları gibi raporların sistem üzerinden alınabildiği modül.<br>
+**2. [Sanal Sınıf Modülü](/sanal.html):** Sanal sınıfların video dağıtımı için açık kaynak yazılımlardan yararlanılarak oluşturulan modül.<br>
+**3. [Duyuru Modülü](/duyuru.html):** Öğrencilere çeşitli düzeylerde duyuru yapılabilmesini sağlayan modül.<br>
+**4. [Çevrimiçi Sınav Modülü](/esinav.html):** Çoktan seçmeli, ucu açık, doğru yanlış tarzda soruların hazırlanabildiği ve sınavların yürütülebildiği modül.<br>
+**5. [Raporlama Modülü](/rapor.html):** Öğrenci devamı, akademisyen/sanal ders yürütülme sayıları gibi raporların sistem üzerinden alınabildiği modül.<br>
 
 ## Proje çalışanları:
 <table style="width:100%">
