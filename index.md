@@ -1,4 +1,6 @@
 ---
+layout: default
+title: Yükseköğretim Uzaktan Eğitim Platformu
 ---
 # Projenin tanıtımı:
 
