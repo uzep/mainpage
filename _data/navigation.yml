@@ -2,4 +2,12 @@
   link: /
 - name: About
   link: /about.html
+- name: OYS
+  link: /oys.html
+- name: Esinav
+  link: /esinav.html
+- name: Duyuru
+  link: /duyuru.html
+- name: Rapor
+  link: /rapor.html
   
