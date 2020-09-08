@@ -10,4 +10,6 @@
   link: /duyuru.html
 - name: Rapor
   link: /rapor.html
+  - name: Sanal
+    link: sanal.html
   
