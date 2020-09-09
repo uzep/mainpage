@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Yükseköğretim Uzaktan Eğitim Platformu
+author: ozmen
 ---
 # Projenin tanıtımı:
 
