@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Öğrenme Yönetim Sistemi
+author: ozmen
 ---
 
 # Öğrenme Yönetim Sistemi (LMS) Modülü
