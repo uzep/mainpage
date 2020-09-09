@@ -12,6 +12,7 @@ img {
   background: none;
 }
 
-tr td {
+tr, td {
+    cellpadding: 0;
     padding-top: 1em;
 }
