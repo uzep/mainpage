@@ -1,20 +1,21 @@
 ---
 layaout: default
-title: About
+title: Esinav Modülü
+Author: ozmen
 ---
-#E-Sınav Modülü
-Anlatılacak.
+# E-Sınav Modülü
 
-##Soru hazırlama:
 
-###Soru türleri
+## Soru hazırlama:
 
-###Eşdeğer sorular:
+### Soru türleri
 
-##Sınavların yürütülmesi:
+### Eşdeğer sorular:
 
-###Oturumların izlenmesi:
+## Sınavların yürütülmesi:
 
-###"Ek süre" veya "Sınav hakkı" verme:
+### Oturumların izlenmesi:
 
-##Sınav mazereti:
+### "Ek süre" veya "Sınav hakkı" verme:
+
+## Sınav mazereti:
