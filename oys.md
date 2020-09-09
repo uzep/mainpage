@@ -16,12 +16,10 @@ Her iki yöntemde de üniversitelerimizin hassas verileri hiçbir süretle yaban
 
 Veri aktarım kılavuzu için [tıklayınız.](assets/files/pdf/veriAktarim.pdf).<br>
 
-Veri aktarım yardım videosu için {% youtube "https://www.youtube.com/watch?v=kZTF7wIykk4" %}
-<br>
-Veri aktarım yardım videosu için {% youtube kZTF7wIykk4 %} <br>
+Veri aktarım yardım videosu için [![tıklayınız.](http://img.youtube.com/vi/kZTF7wIykk4/0.jpg)](http://www.youtube.com/watch?v=kZTF7wIykk4)
 
-Veri aktarım yardım videosu için <iframe width="420" height="315" src="https://www.youtube.com/watch?v=kZTF7wIykk4" frameborder="0">tıklayınız.</iframe> <br>
-
+<!-- {% youtube "https://www.youtube.com/watch?v=kZTF7wIykk4" %}<br>
+Veri aktarım yardım videosu için {% youtube kZTF7wIykk4 %} <br>Veri aktarım yardım videosu için <iframe width="420" height="315" src="https://www.youtube.com/watch?v=kZTF7wIykk4" frameborder="0">tıklayınız.</iframe> <br>-->
 
 
 
