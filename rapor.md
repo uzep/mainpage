@@ -1,6 +1,7 @@
 ---
 layaout: default
 title: Rapor
+author: ozmen
 ---
-#Raporlama modülü:
+# Raporlama modülü:
 Anlatılacak.
