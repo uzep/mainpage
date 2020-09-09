@@ -2,5 +2,5 @@
 layaout: default
 title: Sanal sınıflar
 ---
-#Sanal Sınıflar:
+# Sanal Sınıflar:
 Anlatılacak
