@@ -11,13 +11,13 @@ author: ozmen
 ## Soru hazırlama:
 Bir sınavın sorularını sisteme girmek için "Soru Bankası" içinde bir "Soru Havuzu" oluşturulması gerekir. Soru bankası içinde geçmişte hazırlanmış sınav soruları görülebilir, yeni bir havuz oluşturulabilir. Oluşturulan bir soru havuzu başka öğretim elemanları ile paylaşılabilir. Bu şekilde çok sayıda öğretim elemanı kollektiv olarak sınav sorularını siteme girebilir. Bazı sorular bir ortak metne dayalı olabilir, E-sınav modülü bu tarz soruların da oluşturulmasına imkan tanımaktadır.
 
-<img src="assets/images/souruHavuzu.png"/>
+<img src="assets/images/soruHavuzu.png"/>
 
 Sorular sisteme girilirken hem ana metinde ve hem de şıklarda resim, metin olabilir. Sorular için kısa isimlendirme yapılabilir, zorluk durumuna göre etiketlendirilebilir. Ayrıca sınavda çıkacak bir soru için eşdeğer sorular oluşturulabilir. Her soru için farklı puanlama yapılabilir. Sınav sırasında soruların ve şıkların her öğrenciye farklı düzende gelmesi sağlanabilir. Eşdeğer soru grupları ile öğrencilere farklı sorular çıkması da sağlanabilir.
 
-<img src="assets/images/souru1.png"/>
+<img src="assets/images/soru1.png"/>
 
-<img src="assets/images/souru2.png"/>
+<img src="assets/images/soru2.png"/>
 
 Bir sınav için hazırlanacak soruların sayısında bir kısıt yoktur. Öğretim elemanları dilerdiği zamanda sorularını hazırlayabilir, sisteme girdikleri zaman da sınav yürütülebilir. Örneğin, canlı yayın ders sırasında, ara verildiğinde istenirse bir kısa sınav yapılabilir. Bunun için ders başlamadan önce soru bankasında bir sınav oluşturulması ve sınav başlama saati uygın şekilde sisteme işlenmesi gerekir.
 
