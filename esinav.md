@@ -1,7 +1,7 @@
 ---
 layaout: default
 title: Esinav Modülü
-Author: ozmen
+author: ozmen
 ---
 # E-Sınav Modülü
 
@@ -15,7 +15,7 @@ Author: ozmen
 ## Sınavların yürütülmesi:
 
 ### Oturumların izlenmesi:
-
+	
 ### "Ek süre" veya "Sınav hakkı" verme:
 
 ## Sınav mazereti:
