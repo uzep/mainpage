@@ -33,26 +33,26 @@ Yakın zamanda sisteme **Ödev Modülü** de ilave edilecektir.
   </tr>
    <tr>
     <td><img src="//fotograf.sabis.sakarya.edu.tr/Fotograf/238b0472bfe4b8703b63415eb7926ce3"></td>
-    <td style="text-align:left; vertical-align:top"><b>Mehmet Barış Horzum (Araştırmacı):</b><br><br>Sistemin eğitim süreçleri ile uyumu ve geliştirme çalışmalarından sorumlu.<br><br>Mail: mhorzum@sakarya.edu.tr<br>Tel: (264) 295 5141</td>
+    <td style="text-align:left; vertical-align:top"><b><a href="http://mhorzum.sakarya.edu.tr/">Mehmet Barış Horzum</a> (Araştırmacı):</b><br><br>Sistemin eğitim süreçleri ile uyumu ve geliştirme çalışmalarından sorumlu.<br><br>Mail: mhorzum@sakarya.edu.tr<br>Tel: (264) 295 5141</td>
   </tr>
   <tr>
     <td><img src="//fotograf.sabis.sakarya.edu.tr/Fotograf/edc1b6099551f8f1deb8947aa77e1175"></td>
-    <td style="text-align:left; vertical-align:top"><b>Baran Kaynak (Bursiyer - DevOps uzmanı):</b><br><br>ÖYS ve sınav modülleri ile sistemin tasarımı, kodlanması ve test süreçlerinden sorumlu.</td>
+    <td style="text-align:left; vertical-align:top"><b><a href="http://kaynak.sakarya.edu.tr/">Baran Kaynak</a> (Bursiyer - DevOps uzmanı):</b><br><br>ÖYS ve sınav modülleri ile sistemin tasarımı, kodlanması ve test süreçlerinden sorumlu.</td>
   </tr>
   <tr>
     <td><img src="//fotograf.sabis.sakarya.edu.tr/Fotograf/6da30b0ed9b5a3b5b2c5e415e90b2a86"></td>
-    <td style="text-align:left; vertical-align:top"><b>Uğur Özbek (Bursiyer - Video streaming uzmanı):</b><br><br>Sanal sınıfların oluşturulması, video dağıtımı ve yük dengeleme süreçlerinden sorumlu.</td>
+    <td style="text-align:left; vertical-align:top"><b><a href="http://uozbek.sakarya.edu.tr/">Uğur Özbek</a> (Bursiyer - Video streaming uzmanı):</b><br><br>Sanal sınıfların oluşturulması, video dağıtımı ve yük dengeleme süreçlerinden sorumlu.</td>
   </tr>
   <tr>
     <td><img src="//fotograf.sabis.sakarya.edu.tr/Fotograf/fb87e2218d31fd76fa61f3855c775f36"></td>
-    <td style="text-align:left; vertical-align:top"><b>Osman Tuna (Bursiyer - Full-stack uzmanı):</b><br><br>Tüm modüllerin entegrasyonu ve kullanıcı arayüzlerinden sorumlu.</td>
+    <td style="text-align:left; vertical-align:top"><b><a href="http://osmantuna.sakarya.edu.tr/">Osman Tuna</a> (Bursiyer - Full-stack uzmanı):</b><br><br>Tüm modüllerin entegrasyonu ve kullanıcı arayüzlerinden sorumlu.</td>
   </tr>
   <tr>
     <td><img src="//fotograf.sabis.sakarya.edu.tr/Fotograf/256e739d6cc48bdbe22988354c7efa7b"></td>
-    <td style="text-align:left; vertical-align:top"><b>Ali Aksoy (Bursiyer - Full-stack uzmanı):</b><br><br>Sanal sınıf entegrasyonu ve ÖYS arayüzlerinden sorumlu.</td>
+    <td style="text-align:left; vertical-align:top"><b><a href="http://aliaksoy.sakarya.edu.tr/">Ali Aksoy</a> (Bursiyer - Full-stack uzmanı):</b><br><br>Sanal sınıf entegrasyonu ve ÖYS arayüzlerinden sorumlu.</td>
   </tr>
   <tr>
     <td><img src="//fotograf.sabis.sakarya.edu.tr/Fotograf/9930e971cee6ad63541b794662488558"></td>
-    <td style="text-align:left; vertical-align:top"><b>Burak Göl (Bursiyer - Dokümantasyon):</b><br><br>Kullanım kılavuzu ve yardım dokümanlarının hazırlanmasından sorumlu.</td>
+    <td style="text-align:left; vertical-align:top"><b><a href="http://bgol.sakarya.edu.tr/">Burak Göl</a> (Bursiyer - Dokümantasyon):</b><br><br>Kullanım kılavuzu ve yardım dokümanlarının hazırlanmasından sorumlu.</td>
   </tr>
  </table>
