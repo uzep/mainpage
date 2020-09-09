@@ -25,7 +25,7 @@ Haftalık sanal sınıf programları oluşturulmadan önce, sanal derslerin tüm
 Sanal sınıflar, ekran paylaşımı, uygulama pencersinin paylaşımı veya beyaz tahta paylaşımı şeklinde yürütülebilmektedir. 
 
 ### Öğrencilerin sanal sınıflara aktarılması:
-Üniversite bilgi sisteminden öğrenci kayıtları çekildiğinde, öğrencinin kişisel bilgileri yanında bulunduğu yarıyıl ve seçtiği dersler de bulunmaktadır. UZEP'e bu bilgi yüklendiğinde otomatik olarak öğrencilerin derslere yerleştirilmesi tamamlanmış olacaktır. Bunun dışında öğrenci ekleme veya çıkartmak için yönetici arayüzünde ilave seçenekler olacaktır. 
+Üniversite bilgi sisteminden öğrenci kayıtları çekildiğinde, öğrencinin kişisel bilgileri yanında bulunduğu yarıyıl ve seçtiği dersler de bulunmaktadır. UZEP'e bu bilgi yüklendiğinde otomatik olarak öğrencilerin derslere yerleştirilmesi tamamlanmış olacaktır. Bunun dışında öğrenci ekleme veya çıkartmak için yönetici arayüzünde ilave seçenekler bulunmaktadır. Öğrenciler kendi arayüzlerinden atandıkları sınıfları görürler, herhangi bir sanal ders saati gelmişse öğrenci açılan linke tıkladığında derse giriş yapabilir. Ders saati süresince katılım canlı olarak, ders saati sonrası katılım ise kayıt üzerinden izleme şeklindedir. 
 
 ### Öğretim elemanlarının sanal sınıflara tahsisi:
 Anlatılacak.
