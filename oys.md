@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Öğrenme Yönetim Sistemi
-{% youtube VIDEO_ID %}
 ---
 
 # Öğrenme Yönetim Sistemi (LMS) Modülü
@@ -16,16 +15,7 @@ Her iki yöntemde de üniversitelerimizin hassas verileri hiçbir süretle yaban
 
 Veri aktarım kılavuzu için [tıklayınız.](assets/files/pdf/veriAktarim.pdf).<br>
 
-Veri aktarım yardım videosu için [![tıklayınız.](http://img.youtube.com/vi/kZTF7wIykk4/0.jpg)](http://www.youtube.com/watch?v=kZTF7wIykk4)
-
-<!-- {% youtube "https://www.youtube.com/watch?v=kZTF7wIykk4" %}<br>
-Veri aktarım yardım videosu için {% youtube kZTF7wIykk4 %} <br>Veri aktarım yardım videosu için <iframe width="420" height="315" src="https://www.youtube.com/watch?v=kZTF7wIykk4" frameborder="0">tıklayınız.</iframe> <br>-->
-
-
-
-
-
-
+Veri aktarım yardım videosu için [![tıklayınız.](http://img.youtube.com/vi/kZTF7wIykk4/0.jpg)](http://www.youtube.com/watch?v=kZTF7wIykk4)<br>
 
 ### Haftalık sanal sınıfların oluşturulması:
 Haftalık sanal sınıf programları oluşturulmadan önce, sanal derslerin tüm üniversite içinde günlere ve gün içindeki saatlere dengeli dağılmasının gözetilmesi faydalı olacaktır. Sanal sınıflar merkezden UZEM tarafından haftalık olacak şekilde tüm üniversite için hazırlanabileceği gibi her bir öğretim elemanı kendi dersi için sistem üzerinden sanal sınıf oluşturabilecektir. Şekilde sanal sınıf oluşturma arayüzü görülmektedir.
