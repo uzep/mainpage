@@ -20,10 +20,10 @@
           <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
 
           {% if site.show_menu %}
-            <section id="menu">
-              <a class="home_link" href="/">Home</a>
-              <a class="kilavuz_link" href="kilavuz.html">Kılavuzlar (PDF)</a>
-              <a class="video_link" href="video.html">Videolar</a>
+            <section class="menu">
+              <a id="home_link" href="/">Home</a>
+              <a id="kilavuz_link" href="kilavuz.html">Kılavuzlar (PDF)</a>
+              <a id="video_link" href="video.html">Videolar</a>
             </section>
           {% endif %}
         </header>
