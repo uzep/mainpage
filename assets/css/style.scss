@@ -14,6 +14,7 @@ table {
   border-spacing: 0 15px;
 }
 
+/*
 menu {
   display: block;
   position: absolute;
@@ -28,7 +29,7 @@ menu {
   border-bottom-left-radius: 2px;
   border-bottom-right-radius: 2px;
 }
-/*
+
 #home_link {
   display: block;
   float: right;
@@ -45,8 +46,8 @@ menu {
   float: left;
   width: 90px;
   height:50px;
-  text-indent: -5000px;
-  overflow: hidden;
+  /* text-indent: -5000px;*/
+  /*overflow: hidden;*/
 
   padding: 10px 10px 10px 10px;
   color: #fff;
