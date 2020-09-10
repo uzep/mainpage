@@ -1,6 +1,6 @@
 theme: jekyll-theme-slate
 name: Sakarya Üniversitesi
 title: Yükseköğretim Uzaktan Eğitim Platformu (UZEP)
-github:
-  is_project_page: true
+# github:
+#  is_project_page: true
   
