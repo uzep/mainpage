@@ -43,16 +43,14 @@ menu {
 #home_link {
   display: block;
   
-  float: left;
+  float: center;
   width: 90px;
   height:50px;
-  /* text-indent: -5000px;*/
-  /*overflow: hidden;*/
 
   padding: 10px 10px 10px 10px;
   color: #fff;
   /*background: url('../images/blacktocat.png') #0090ff no-repeat 95% 50%;*/
-  background: linear-gradient(blue, steelblue);
+  background: linear-gradient(gray, steelblue);
   font-weight: 700;
   box-shadow: 0 0 10px rgba(0,0,0,.5);
   border-bottom-left-radius: 2px;
