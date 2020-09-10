@@ -44,11 +44,11 @@ menu {
   
   float: left;
   width: 90px;
-  height:70px;
+  height:50px;
   text-indent: -5000px;
   overflow: hidden;
 
-  padding: 10px 50px 10px 10px;
+  padding: 10px 10px 10px 10px;
   color: #fff;
   background: url('../images/blacktocat.png') #0090ff no-repeat 95% 50%;
   font-weight: 700;
@@ -56,4 +56,20 @@ menu {
   border-bottom-left-radius: 2px;
   border-bottom-right-radius: 2px;
 }
+#kilavuz_link {
+  display: block;
+  
+  float: left;
+  width: 90px;
+  height:50px;
+  text-indent: -5000px;
+  overflow: hidden;
 
+  padding: 10px 10px 10px 10px;
+  color: #fff;
+  background: url('../images/blacktocat.png') #0090ff no-repeat 95% 50%;
+  font-weight: 700;
+  box-shadow: 0 0 10px rgba(0,0,0,.5);
+  border-bottom-left-radius: 2px;
+  border-bottom-right-radius: 2px;
+}
