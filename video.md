@@ -1,3 +1,7 @@
+---
+layaout: default
+title: Video
+---
 # UZEP EĞİTİM VİDEOLARI
 
 Yükseköğretim Uzaktan Eğitim Sistemi kullanımı ile ilgil çok sayıda eğitim videosu hazırlanmış ve YouTube üzerine yüklenmiştir. Bu sayfada sistemin sağladığı servislere göre sınıflandırılmış eğitim videolarına kolaylıkla erişebilirisiniz.

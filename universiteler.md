@@ -1,3 +1,8 @@
+---
+layaout: default
+title: Üniversiteler
+---
+
 <br><br>
 <table id="unv">
   <br><br>

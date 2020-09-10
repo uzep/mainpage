@@ -1,3 +1,8 @@
+---
+layaout: default
+title: İletişim
+---
+
 Her türlü sorularınız için:<br>
 
 | **Email:** | ozmen@sakarya.edu.tr |
