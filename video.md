@@ -15,5 +15,6 @@ Yükseköğretim Zzaktan Eğitim Sistemi kullanımı ile ilgil çok sayıda eği
 ## Sanal Sınıf Videolarına Asenkron Erişim:
 
 ## E-sınav Modülüne Giriş:
+[![Tek ders sınavu](http://img.youtube.com/vi/eGssColzQ9o/0.jpg)](http://www.youtube.com/watch?v=eGssColzQ9o)
 
 ## E-sınav Modülünde Sınav Oluşturma:
