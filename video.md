@@ -1,18 +1,18 @@
 # UZEP EĞİTİM VİDEOLARI
 
-Yükseköğretim Zzaktan Eğitim Sistemi kullanımı ile ilgil çok sayıda eğitim videosu hazırlanmış ve YouTube üzerine yüklenmiştir. Bu sayfada sınıflandırılmış eğitim videolarına kolaylıkla erişebilirisiniz.
+Yükseköğretim Uzaktan Eğitim Sistemi kullanımı ile ilgil çok sayıda eğitim videosu hazırlanmış ve YouTube üzerine yüklenmiştir. Bu sayfada sistemin sağladığı servislere göre sınıflandırılmış eğitim videolarına kolaylıkla erişebilirisiniz.
 
-## Sisteme Giriş ve Sistemden Çıkış:
+### Sisteme Giriş ve Sistemden Çıkış (login/logout):
 
-## Üniversite Yönetim Sisteminden UZEP'e Veri Aktarımı:
+### Üniversite Yönetim Sisteminden UZEP'e Veri Aktarımı:
 
-## Sanal Sınıfların oluşturulması:
+### Sanal Sınıfların oluşturulması:
 
-## Sanal Sınıfların Özellikleri:
+### Sanal Sınıfların Özellikleri:
 
-## Öğrencilere Duyuru Gönderilmesi:
+### Öğrencilere Duyuru Gönderilmesi:
 
-## Sanal Sınıf Videolarına Asenkron Erişim:
+### Sanal Sınıf Videolarına Asenkron Erişim:
 
 ### E-sınav Modülüne Giriş:
 
@@ -25,7 +25,6 @@ Yükseköğretim Zzaktan Eğitim Sistemi kullanımı ile ilgil çok sayıda eği
 ### Soru Bankası nasıl oluşturulur:
 
 [![Soru Bankası](http://img.youtube.com/vi/yil-z9KnY4E/0.jpg)](http://www.youtube.com/watch?v=yil-z9KnY4E)
-
 
 ### Soru Türleri:
 
