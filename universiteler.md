@@ -1,4 +1,4 @@
-<table class="unv">
+<table id="unv">
   <br><br>
   <tr>
     <th>SAKARYA ÜNİVERSİTESİ</th>
