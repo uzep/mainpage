@@ -7,16 +7,16 @@ title: Üniversiteler
 <table id="unv">
   <br><br>
   <tr>
-    <th style="background-color: #0020C2; border=10px solid #FFFFFF">SAKARYA ÜNİVERSİTESİ</th>
-    <th style="background-color: #488AC7; border=10px solid #FFFFFF">AĞRI İBRAHİM ÇEÇEN ÜNİVERSİTESİ</th>
-    <th style="background-color: #008080; border=10px solid #FFFFFF">ARTVİN ÇORUH ÜNİVERSİTESİ</th>
-    <th style="background-color: #3B9C9C; border=10px solid #FFFFFF">BATMAN ÜNİVERSİTESİ</th>
+    <th style="background-color: #0020C2; border: 10px solid #FFFFFF">SAKARYA ÜNİVERSİTESİ</th>
+    <th style="background-color: #488AC7; border: 10px solid #FFFFFF">AĞRI İBRAHİM ÇEÇEN ÜNİVERSİTESİ</th>
+    <th style="background-color: #008080; border: 10px solid #FFFFFF">ARTVİN ÇORUH ÜNİVERSİTESİ</th>
+    <th style="background-color: #3B9C9C; border: 10px solid #FFFFFF">BATMAN ÜNİVERSİTESİ</th>
   </tr>
   <tr>
-    <th>BAYBURT ÜNİVERSİTESİ</th>
-    <th>BİNGÖL ÜNİVERSİTESİ</th>
-    <th>BİTLİS EREN ÜNİVERSİTESİ</th>
-    <th>GÜMÜŞHANE ÜNİVERSİTESİ</th>
+    <th style="background-color: #48CCCD; border: 10px solid #FFFFFF">BAYBURT ÜNİVERSİTESİ</th>
+    <th style="background-color: #EDDA74; border: 10px solid #FFFFFF">BİNGÖL ÜNİVERSİTESİ</th>
+    <th style="background-color: #EDDA74; border: 10px solid #FFFFFF">BİTLİS EREN ÜNİVERSİTESİ</th>
+    <th style="background-color: #EDDA74; border: 10px solid #FF0000">GÜMÜŞHANE ÜNİVERSİTESİ</th>
   </tr>
   <tr>
     <th>HAKKARİ ÜNİVERSİTESİ</th>
