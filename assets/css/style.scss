@@ -107,18 +107,21 @@ table {
   border-bottom-right-radius: 2px;
 }
 
-/*
+
 #unv {
+  table-layout: fixed;
+  /*
   color: white;
   background-color: blue;
+  */
 }
-*/
+
 #project_title {
   text-align: center;
 }
 
 #unv th {
-    height: 20px;
+    height: 30px;
     overflow: hidden;
     width: 25%;
 }
