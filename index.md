@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Yükseköğretim Uzaktan Eğitim Platformu
+title: Uzaktan Eğitim Platformu (UZEP)
 author: ozmen
 ---
 # Projenin tanıtımı:
