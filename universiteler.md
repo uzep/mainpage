@@ -25,9 +25,9 @@ title: Üniversiteler
     <th style="background-color: #46C7C7; border: 10px solid #FFFFFF">MUNZUR ÜNİVERSİTESİ</th>
   </tr>
   <tr>
-    <th style="background-color: #FFFF00; border: 10px solid #FFFFFF">MUŞ ALPARSLAN ÜNİVERSİTESİ</th>
+    <th style="background-color: #4E9258; border: 10px solid #FFFFFF">MUŞ ALPARSLAN ÜNİVERSİTESİ</th>
     <th style="background-color: #ADD8E6; border: 10px solid #FFFFFF">SİİRT ÜNİVERSİTESİ</th>
-    <th style="background-color: #00FF00; border: 10px solid #FFFFFF">ŞIRNAK ÜNİVERSİTESİ</th>
+    <th style="background-color: #914D87; border: 10px solid #FFFFFF">ŞIRNAK ÜNİVERSİTESİ</th>
     <th style="background-color: #800080; border: 10px solid #FFFFFF">OSMANİYE KORKUT ATA ÜNİVERSİTESİ</th>
   </tr>
 </table>
