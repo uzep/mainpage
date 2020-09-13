@@ -3,11 +3,10 @@ layaout: default
 title: Üniversiteler
 ---
 
-<br><br>
+<br>
 <table class="unv">
-  <br>
   <tr>
-    <th style="background-color: #0020C2; border: 10px solid #FFFFFF">SAKARYA ÜNİVERSİTESİ</th>
+    <th style="background-color: #0020C2; border: 10px solid #FFFFFF"><a href="https://uzep.org">SAKARYA ÜNİVERSİTESİ</a></th>
     <th style="background-color: #488AC7; border: 10px solid #FFFFFF">AĞRI İBRAHİM ÇEÇEN ÜNİVERSİTESİ</th>
     <th style="background-color: #008080; border: 10px solid #FFFFFF">ARTVİN ÇORUH ÜNİVERSİTESİ</th>
     <th style="background-color: #3B9C9C; border: 10px solid #FFFFFF">BATMAN ÜNİVERSİTESİ</th>
