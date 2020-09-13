@@ -111,12 +111,14 @@ table {
   text-align: center;
 }
 
+/*
 table.unv {
   table-layout: fixed;
 }
-
+*/
 table.unv th {
     height: 40px;
+    vertical-align: middle;
     overflow: hidden;
     width: 25%;
 }
