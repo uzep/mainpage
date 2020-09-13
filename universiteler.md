@@ -4,8 +4,8 @@ title: Üniversiteler
 ---
 
 <br><br>
-<table id="unv">
-  <br><br>
+<table class="unv">
+  <br>
   <tr>
     <th style="background-color: #0020C2; border: 10px solid #FFFFFF">SAKARYA ÜNİVERSİTESİ</th>
     <th style="background-color: #488AC7; border: 10px solid #FFFFFF">AĞRI İBRAHİM ÇEÇEN ÜNİVERSİTESİ</th>

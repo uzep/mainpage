@@ -107,20 +107,15 @@ table {
   border-bottom-right-radius: 2px;
 }
 
-
-#unv {
-  table-layout: fixed;
-  /*
-  color: white;
-  background-color: blue;
-  */
-}
-
 #project_title {
   text-align: center;
 }
 
-#unv th {
+table.unv {
+  table-layout: fixed;
+}
+
+table.unv th {
     height: 40px;
     overflow: hidden;
     width: 25%;
