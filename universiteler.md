@@ -1,6 +1,7 @@
 ---
 layaout: default
 title: Üniversiteler
+author: ozmen
 ---
 
 <br>

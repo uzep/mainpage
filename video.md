@@ -1,6 +1,7 @@
 ---
 layaout: default
 title: Video
+author: ozmen
 ---
 # UZEP EĞİTİM VİDEOLARI
 
