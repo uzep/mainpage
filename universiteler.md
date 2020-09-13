@@ -15,7 +15,7 @@ title: Üniversiteler
     <th style="background-color: #48CCCD; border: 10px solid #FFFFFF"><a href="https://uzep.org">BAYBURT ÜNİVERSİTESİ/a></th>
     <th style="background-color: #EDDA74; border: 10px solid #FFFFFF"><a href="https://uzep.org">BİNGÖL ÜNİVERSİTESİ</a></th>
     <th style="background-color: #43C6DB; border: 10px solid #FFFFFF"><a href="https://uzep.org">BİTLİS EREN ÜNİVERSİTESİ</a></th>
-    <th style="background-color: #FF0000; border: 10px solid #FFFFFF"><a href="https://uzep.org">GÜMÜŞHANE ÜNİVERSİTESİ/a></th>
+    <th style="background-color: #FF0000; border: 10px solid #FFFFFF"><a href="https://uzep.org">GÜMÜŞHANE ÜNİVERSİTESİ</a></th>
   </tr>
   <tr>
     <th style="background-color: #56A5EC; border: 10px solid #FFFFFF"><a href="https://uzep.org">HAKKARİ ÜNİVERSİTESİ</a></th>
