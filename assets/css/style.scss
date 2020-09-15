@@ -121,3 +121,11 @@ table.unv th {
 table a {
   color: white;
 }
+.logo {
+  width: 150px;
+  height: 100px;
+  background-image: url("../images/logo.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  }
