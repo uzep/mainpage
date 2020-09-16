@@ -5,7 +5,7 @@ author: ozmen
 ---
 # Uzaktan Eğitim Platformu
 
-Tübitak tarafından desteklenen proje ile ülke çapında tüm yükseköğretim kurumlarının istifade edeceği bir uzaktan eğitim platformu geliştirilmesi planlanmıştır (Proje no: 120K200). Sistemin donanım alt yapısı ULAKBİM tarafından sağlanırken, yazılım komponentleri Sakarya Üniversitesi tarafından geliştirilmektedir. Geliştirilen sistem üniversitelerin bilişim kaynakalarına ihtiyaç duymadığından, herhangi bir yükseköğretim kurumu için çok kısa sürede hizmete alınabilmektedir. <br>
+Tübitak tarafından desteklenen proje ile ülke çapında tüm yükseköğretim kurumlarının istifade edeceği bir uzaktan eğitim platformu geliştirilmesi planlanmıştır (Proje no: 120K200). Sistemin donanım alt yapısı ULAKBİM tarafından sağlanırken, yazılım komponentleri Sakarya Üniversitesi tarafından geliştirilmektedir. Geliştirilen sistem üniversitelerin bilişim kaynaklarına ihtiyaç duymadığından, herhangi bir yükseköğretim kurumu için çok kısa sürede hizmete alınabilmektedir. <br>
 
 ### Projenin temel hedefleri:<br> 
 1. Yüksek performans ve Internet band genişliği isteyen servisler için bilişim kaynaklarının yükseköğretim kurumları arasında paylaşımı yoluyla maliyetlerin azaltılması. <br>
@@ -18,7 +18,7 @@ Geliştirilen sistemin modeli **"Servis olarak Eğitim"** _(Education as a Servi
 **1. [Öğrenme Yönetim Sistemi (ÖYS) Modülü](/oys.html):** Haftalık sanal ders programlarının oluşturulmasını, uzaktan yürütülen eğitim faaliyetlerinin organize edilmesini ve yürütülmesini sağlayan modül.<br>
 **2. [Sanal Sınıf Modülü](/sanal.html):** Sanal sınıfların video dağıtımını sağlayan ve açık kaynak yazılımlardan yararlanılarak oluşturulmuş modül.<br>
 **3. [Duyuru Modülü](/duyuru.html):** Öğrencilere çeşitli düzeylerde duyuru yapılabilmesini sağlayan modül.<br>
-**4. [Çevrimiçi Sınav Modülü](/esinav.html):** Çoktan seçmeli, ucu açık, doğru yanlış tarzda soruların hazırlanabildiği ve sınavların yürütülebildiği modül.<br>
+**4. [Çevrimiçi Sınav Modülü](/esinav.html):** Çoktan seçmeli, ucu açık, doğru yanlış tarzda soruların hazırlanabileceği ve sınavların yürütülebileceği modül.<br>
 **5. [Raporlama Modülü](/rapor.html):** Öğrenci devamı, akademisyen/sanal ders yürütülme sayıları gibi raporların sistem üzerinden alınabildiği modül.<br>
 
 <img src="assets/images/uzep.png" border="2"/>
