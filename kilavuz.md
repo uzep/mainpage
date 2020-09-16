@@ -16,4 +16,5 @@ UZEP üzerinde çevrim içi ders yapabilmek için sanal sınıf tanımlanması g
 </p>
 **3. Duyuru gönderme:**
 <p>
-Öğretim elemanları veya sistem yöneticileri UZEP üzerinden öğrencilere duyuru gönderebilirler.
+Öğretim elemanları veya sistem yöneticileri UZEP üzerinden öğrencilere duyuru gönderebilirler. Duyurular başlık ve gövdesi olan metin tabanlı mesajlardır. Duyurulara resim konulamaz. Öğrenciler güncel duyuralı genel ve ders duyurusu pencerelerinde sisteme ilk girdiklerinde başlık ve özet bilgi olarak görürler. Detaylarını görmek için üzerine tıklamaları yeterlidir. Duyuru gönderme ile ilgili yardım kılavuzuna erişmek için [tıklayınız](assets/files/pdf/uzepDuyuru.pdf).
+</p>
