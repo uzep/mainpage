@@ -3,7 +3,7 @@ layout: default
 title: Uzaktan Eğitim Platformu (UZEP)
 author: ozmen
 ---
-# Uzaktan Eğitim Platformu
+<!--# Uzaktan Eğitim Platformu -->
 
 Tübitak tarafından desteklenen proje ile ülke çapında tüm yükseköğretim kurumlarının istifade edeceği bir uzaktan eğitim platformu geliştirilmesi planlanmıştır (Proje no: 120K200). Sistemin donanım alt yapısı ULAKBİM tarafından sağlanırken, yazılım komponentleri Sakarya Üniversitesi tarafından geliştirilmektedir. Geliştirilen sistem üniversitelerin bilişim kaynaklarına ihtiyaç duymadığından, herhangi bir yükseköğretim kurumu için çok kısa sürede hizmete alınabilmektedir. <br>
 
