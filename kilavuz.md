@@ -10,15 +10,11 @@ author: ozmen
 
 Öğrenciler, öğretim elemanları ve diğer yönetici düzeyindeki kullanıcıların sisteme giriş/çıkış yapabilmeleri için UZEP üzerinde hesap açılması gerekmektedir. Kullanıcı hesapları topluca açılabileceği gibi tekil olarak da açılabilir ve silinebilir. Her kullanıcı sisteme tanımlandığında bir rol ile ilişkilendirilir, kullanıcı sisteme giriş yaptığında tanımlı rolüne uygun olarak sistem üzerindeki sayfalara, verilere erişebilir. Kullanıcıların rol değişim işlemleri sistem yöneticileri tarafından yapılabilmektedir. UZEP'e giriş ve çıkış işlemlerin anlatıldığı kılavuza erişmek için <a href="/uzepLogin.html">tıklayınız</a>.
 
-**2. [Ana sayfa](/anaSayfa.html):**
+**2. [Ana sayfa](/anasayfa.html):**
 
 UZEP'e öğretim elemanı rolü ile giriş yapıldığında menüde **Dersler** ve **Takvim** görülür. Ön tanımlı olarak **Dersler** menüsü seçilmiştir ve ana çerçevede öğretim elemanın yürüteceği dersler ve detayları (dersin kodu, adı, Fakülte/MYO ve Bölüm bilgileri) görülür. Bir ders seçilip tıklandığında, sol üst köşede ders tanıtım bilgileri (Dersin adı, bölümü, öğretim elemanlarının adları) görülür. Ders bilgileri altında **Takvim** bölümü yer alır. Burada henüz vakti gelmemiş ve tamamlanmış sanal sınıflar görülür. Sayfa üzerindeki butonlar kullanılarak canlı derse katılabilir veya tekrar izleme yapılabilir.  
 
-<img style="border:1px solid black" src="assets/images/ders.png"/> <br>
-
-**Takvim** seçildiğinde günlük, haftalık veya aylık ölçekte planlanmış faaliyetler görülür. **Takvim**e faaliyetler yöneticiler tarafından işlenir.
-
-<img style="border:1px solid black" src="assets/images/takvim.png"/> <br> 
+Ders detaylarının anlatıldığı kılavuz için <a href="/anasayfa.html">tıklayınız</a>.
 
 
 **3. [Sanal sınıf oluşturma](/uzepSanalSinif.html):**
