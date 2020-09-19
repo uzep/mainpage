@@ -19,7 +19,7 @@ Ders detaylarının anlatıldığı kılavuz için <a href="/anasayfa.html">tık
 
 **3. [Takvim](/takvim.html):**
 
-UZEP'te yürütülecek sanal sınıf aktiviteleri kronolik sıraya göre önce **Takvim**e işlenmelidir. **Takvim** hakkında detaylar için <a href="/takvim.html">tıklayınız</a>.
+UZEP'te yürütülecek sanal sınıf aktiviteleri kronolojik sıraya göre önce **Takvim**e işlenmelidir. **Takvim** hakkında detaylar için <a href="/takvim.html">tıklayınız</a>.
 
 **4. [Sanal sınıf oluşturma](/uzepSanalSinif.html):**
 
