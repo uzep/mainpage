@@ -1,3 +1,8 @@
+---
+layaout: default
+title: Login/Logout Kılavuzu
+author: ozmen
+---
 # UZEP LOGIN / LOGOUT KILAVUZU
 
 1. UZEP'e sıkça kullanılan Chrome, Internet Explorer, Firefox, Opera, Safari gibi web tarayıcıları ile girilebilir. UZEP'e cep telefonundaki tarayıcılardan da girilebilir.  

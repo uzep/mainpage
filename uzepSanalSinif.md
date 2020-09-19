@@ -1,3 +1,8 @@
+---
+layaout: default
+title: Sanal Sınıf Kılavuzu
+author: ozmen
+---
 # Sanal Sınıf Oluşturma, Düzenleme ve Silme Kılavuzu
 
 1. Ana syafada menü üzerinden **Takvim** seçilir.

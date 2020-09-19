@@ -15,7 +15,10 @@ author: ozmen
 **2. Sanal sınıf oluşturma:**
 
 <p>
-UZEP üzerinde çevrim içi ders yapabilmek için önce "Takvim" üzerinde "Sanal Sınıf" takvimi girilmelidir. Daha sonra sanal sınıf tanımlanması yapılırken Takvim'de tanımlı aktivite ile ilişkilendirilir. Takvim aktiviteleri sistem yöneticileri tarafından dönemlik (14 hafta için) veya tekil olarak oluşturulabilir. Öğretim elemanları sanal sınıf oluştururken takvimde belirlenmiş aktivite ile ilşkilendirmesi gerekmektedir. Takvim sekmesinde girilen aktivite başlangıç ve bitiş süreleri sanal sınıf için aynı olması iyi bir pratik olmakla beraber zorunlu değildir. Ders altında görülen sanal sınıf linkine tıklayarak, canlı yayın dersi yürütülebilir. Başlama saati geçmiş sanal sınıflara da katılmak mümkündür, eksik kalan kısımlar daha sonra oluşturulan ilave sanal sınıflar ile telafi edilebilir. Telafi derslerinin, asıl ders takvimine ilişkilendirilmesi ile hangi dersin telafisinin yapıldığının kolaylıkla anlaşılması sağlanır.
+UZEP üzerinde çevrim içi ders tanımlamak iki aşamalıdır. Birinci aşamada **Takvim** üzerinde aktivite tanımlanır, ikinci aşamda ise **Sanal Sınıf** oluşturulur. Bu şekilde takvimde tanımlı bir aktiviteye birden fazla sanal sınıf ilişkilendirmek mümkündür. Takvimdeki aktiviteler yöneticiler tarafından haftalık ders programı olarak sisteme dönem başında (örneğin 14 hafta için) işlenebilir. Ders öğretim elemanı Sanal sınıflarını bu takvime uygun organize edebilir veya değişiklik yapabilir. **Takvim** sekmesinde girilen aktivite başlangıç ve bitiş süreleri **Sanal Sınıf** için aynı olması iyi bir pratik olmakla beraber zorunlu değildir. Bireysel olarak sanal sınıf oluşturmak için önce **Takvim** üzerinde aktivite zamanı girilmelidir. Daha sonra **Takvim**de tanımlı bu aktivite **Sanal Sınıf** ile ilişkilendirilmelidir. 
+</p>
+<p>
+Ders altında görülen sanal sınıf linkine tıklayarak, canlı yayın dersi yürütülebilir. Başlama saati geçmiş sanal sınıflara da katılmak mümkündür, eksik kalan kısımlar daha sonra oluşturulan ilave sanal sınıflar ile telafi edilebilir. Telafi derslerinin, asıl ders takvimine ilişkilendirilmesi ile hangi dersin telafisinin yapıldığının kolaylıkla anlaşılması sağlanır.
 
 Sanal sınıf oluşturma, silme ve güncelleme işlemlerinin anlatıldığı kılavuz için <a href="/uzepSanalSinif.html">tıklayınız</a>.
 </p>
@@ -23,5 +26,12 @@ Sanal sınıf oluşturma, silme ve güncelleme işlemlerinin anlatıldığı kı
 **3. Duyuru gönderme:**
 
 <p>
-Öğretim elemanları veya sistem yöneticileri UZEP üzerinden öğrencilere duyuru gönderebilirler. Duyurular başlık ve gövdesi olan metin tabanlı mesajlardır. Duyurulara resim konulamaz. Öğrenciler güncel duyuralı genel ve ders duyurusu pencerelerinde sisteme ilk girdiklerinde başlık ve özet bilgi olarak görürler. Detaylarını görmek için üzerine tıklamaları yeterlidir. Duyuru gönderme ile ilgili yardım kılavuzuna erişmek için [tıklayınız](/uzepDuyuru.html).
+Öğretim elemanları veya sistem yöneticileri UZEP üzerinden öğrencilere duyuru gönderebilirler. Duyurular başlık ve gövdesi olan metin tabanlı mesajlardır. Duyurulara resim konulamaz. Öğrenciler güncel duyuralı genel ve ders duyurusu pencerelerinde sisteme ilk girdiklerinde başlık ve özet bilgi olarak görürler. Detaylarını görmek için üzerine tıklamaları yeterlidir. Duyuru gönderme ile ilgili yardım kılavuzuna erişmek için <a href="/uzepDuyuru.html">tıklayınız</a>.
+</p>
+
+**4. Materyal paylaşımı:**
+
+<p>
+UZEP üzerinden her türlü (doc, pdf, ppt, mp4 vb.) dijital materyal paylaşımı mümkündür. Ders öğretim elemanı kendi bilgisayarında hazırladığı dokümanı sisteme aşağıda gösterilen arayüz üzerinden yükleyebilir. 
+Materyal paylaşımı ile ilgili yardım kılavuzuna erişmek için <a href="/uzepMateryal.html">tıklayınız</a>.
 </p>
