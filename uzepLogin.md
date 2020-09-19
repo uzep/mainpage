@@ -1,7 +1,7 @@
 # UZEP LOGIN / LOGOUT KILAVUZU
 
 1. Web tarayıcısı adres çubuğuna _https://\*.uzep.org_ yazılır. '\*' yerine üniversitenin kısa adı yazılmalıdır, örneğin "Sakarya Üniversitesi" için _"https://sakarya.uzep.org"_ gibi. <br>
-<img src="assets/images/uzepLogin.png" border="2"/> <br>
+<img style="border:1px solid black" src="assets/images/uzepLogin.png"/> <br>
 2. Açılan sayfada **Kullanıcı adı** yerine tanımlı kullanıcı adı girilir. Genel olarak üniversite bilgi sistemine kayıtlı kullanıcı adı UZEP için de tanımlanmaktadır. Kullanıcı adı büyük/küçük harf duyarlıdır.
 3. **Şifre** penceresine tanımlı şifrenizi girebilirsiniz Sistem tarafından tanımlı şifreler ilk girişte değiştirilmelidir.
 4. **Giriş Yap** butonuna basılarak giriş yapılır.
