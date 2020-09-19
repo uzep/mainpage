@@ -14,28 +14,35 @@ UZEP üzerine üniversite bilgi sisteminden bilgi aktarımı iki şekilde yapıl
 
 Her iki yöntemde de üniversitelerimizin hassas verileri hiçbir süretle yabancı sunuculara yüklenmemektedir. Tüm veriler ülkemizde konuşlandırılmış ULAKBİM sunucularında saklanacaktır, bu verileri yükleme işlemleri üniversitelerin yetkil persoenlleri tarafından yapılacaktır. Eğitimler sırasında veri transferinin nasıl yapılacağı anlatılacak, ayrıca bu konuda kılavuz ve video yardım dokümanları bu siteye yüklenecektir.
 
-Veri aktarım kılavuzu için [tıklayınız.](assets/files/pdf/veriAktarim.pdf).<br>
+Veri aktarım kılavuzu için [tıklayınız.](/veriAktarim.html).<br>
 
 [![Veri aktarım yardım videosu](http://img.youtube.com/vi/kZTF7wIykk4/0.jpg)](http://www.youtube.com/watch?v=kZTF7wIykk4)<br>
 
 ### Haftalık sanal sınıfların oluşturulması:
-Haftalık sanal sınıf programları oluşturulmadan önce, sanal derslerin tüm üniversite içinde günlere ve gün içindeki saatlere dengeli dağılmasının gözetilmesi faydalı olacaktır. Sanal sınıflar merkezden UZEM tarafından haftalık olacak şekilde tüm üniversite için hazırlanabileceği gibi her bir öğretim elemanı kendi dersi için sistem üzerinden sanal sınıf oluşturabilecektir. Şekilde sanal sınıf oluşturma arayüzü görülmektedir.
+Haftalık sanal sınıf programları oluşturulmadan önce, sanal derslerin tüm üniversite içinde günlere ve gün içindeki saatlere dengeli dağılmasının gözetilmesi faydalı olacaktır. Sanal sınıflar merkezden UZEM tarafından haftalık olacak şekilde tüm üniversite için hazırlanabileceği gibi her bir öğretim elemanı kendi dersi için sistem üzerinden sanal sınıf oluşturabilecektir. Sanal sınıflar, ekran paylaşımı, uygulama pencersinin paylaşımı veya beyaz tahta paylaşımı şeklinde yürütülebilmektedir. 
 
-<img src="assets/images/sanalSinif.png"/><br>
+UZEP üzerinde **Sanal Sınıf Oluşturma** kılavuzu için [tıklayınız.](/uzepSanalSinif.html).
+<!--Şekilde sanal sınıf oluşturma arayüzü görülmektedir.-->
 
-<img src="assets/images/sanalSiniflar.png"/>
+<!--img src="assets/images/sanalSinif.png"/><br-->
 
-Sanal sınıflar, ekran paylaşımı, uygulama pencersinin paylaşımı veya beyaz tahta paylaşımı şeklinde yürütülebilmektedir. 
+<!--img src="assets/images/sanalSiniflar.png"/-->
+
+
 
 ### Öğrencilerin sanal sınıflara aktarılması:
-Üniversite bilgi sisteminden öğrenci kayıtları çekildiğinde, öğrencinin kişisel bilgileri yanında bulunduğu yarıyıl ve seçtiği dersler de bulunmaktadır. UZEP'e bu bilgi yüklendiğinde otomatik olarak öğrencilerin derslere yerleştirilmesi tamamlanmış olacaktır. Bunun dışında öğrenci ekleme veya çıkartmak için yönetici arayüzünde ilave seçenekler bulunmaktadır. Öğrenciler kendi arayüzlerinden atandıkları sınıfları görürler, herhangi bir sanal ders saati gelmişse öğrenci açılan linke tıkladığında derse giriş yapabilir. Ders saati süresince katılım canlı olarak, ders saati sonrası katılım ise kayıt üzerinden izleme şeklindedir. 
+Üniversite bilgi sisteminden öğrenci kayıtları çekildiğinde, öğrencinin kişisel bilgileri yanında, bulunduğu yarıyıl ve seçtiği dersler de bulunmaktadır. Veri aktarımı ile bu bilgiler UZEP'e yüklendiğinde otomatik olarak öğrencilerin derslere yerleştirilmesi tamamlanmış olacaktır. Bunun dışında öğrenci ekleme veya çıkartmak için yönetici arayüzünde ilave seçenekler bulunmaktadır. Öğrenciler kendi arayüzlerinden atandıkları sınıfları görürler, herhangi bir sanal ders saati gelmişse öğrenci açılan linke tıkladığında derse giriş yapabilir. Ders saati süresince katılım canlı olarak, ders saati sonrası katılım ise kayıt üzerinden izleme şeklindedir. 
+
+UZEP'e veri aktarım işlemleri detaylarına erişmek için [tıklayınız.](/veriAktarim.html).
 
 ### Öğretim elemanlarının sanal sınıflara tahsisi:
-Öğrenci kayıtlarının çekilmesi gibi öğretim elemanlarının bilgileri de üniversite bilgi sisteminden çekilir. Çekilen veri içinde öğretim elemanınlarının dönemsel eğitim görevlendirme bilgileri de bulunmaktadır. Bu bilgiler UZEP tarafından otomatik olarak sınıflarla eşleştirilir. Dönem içi değişiklikler için sistem üzerinde atame değişikliği için arayüzler bulunmaktadır. Dersin öğretim elemanı sisteme girdiğinde, görevli olduğu dersleri otomatik olarak kendi arayüzünde görmektedir. Derslere tıkladığında, eğitim faaliyetleri ve ölçme değerlendirme için butonlar bulunmaktadır. Aşağıdaki şekillerde örnek arayüzler gösterilmiştir.
+Öğrenci kayıtlarının çekilmesi gibi öğretim elemanlarının bilgileri de üniversite bilgi sisteminden çekilir. Çekilen veri içinde öğretim elemanınlarının dönemsel eğitim görevlendirme bilgileri de bulunmaktadır. Bu bilgiler UZEP tarafından otomatik olarak sınıflarla eşleştirilir. Dönem içi değişiklikler için sistem üzerinde atama değişikliği için arayüzler bulunmaktadır. Dersin öğretim elemanı sisteme girdiğinde, o dönem yürüteceği dersleri otomatik olarak kendi arayüzünde görür. Derslere tıkladığında, ders ile ilgili sanal sınıflara ve duyurulara erişmek için butonlar bulunmaktadır. 
 
-<img src="assets/images/ogrElemArayuz.png"/><br>
+Bir dersin arayüzü ile ilgili detaylara erişmek için [tıklayınız.](/anasayfa.html).
 
-<img src="assets/images/faaliyetler.png"/>
+<!--img src="assets/images/ogrElemArayuz.png"/><br-->
+
+<!--img src="assets/images/faaliyetler.png"/-->
 
 
 ### Sanal sınıf aktivitelerinin izlenmesi:
