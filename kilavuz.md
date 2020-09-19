@@ -10,10 +10,21 @@ author: ozmen
 
 Öğrenciler, öğretim elemanları ve diğer yönetici düzeyindeki kullanıcıların sisteme giriş/çıkış yapabilmeleri için UZEP üzerinde hesap açılması gerekmektedir. Kullanıcı hesapları topluca açılabileceği gibi tekil olarak da açılabilir ve silinebilir. Her kullanıcı sisteme tanımlandığında bir rol ile ilişkilendirilir, kullanıcı sisteme giriş yaptığında tanımlı rolüne uygun olarak sistem üzerindeki sayfalara, verilere erişebilir. Kullanıcıların rol değişim işlemleri sistem yöneticileri tarafından yapılabilmektedir. UZEP'e giriş ve çıkış işlemlerin anlatıldığı kılavuza erişmek için <a href="/uzepLogin.html">tıklayınız</a>.
 
-**2. [Sanal sınıf oluşturma](/uzepSanalSinif.html):**
+**2. [Ana sayfa](/anaSayfa.html):**
+
+UZEP'e öğretim elemanı rolü ile giriş yapıldığında menüde **Dersler** ve **Takvim** görülür. Ön tanımlı olarak **Dersler** menüsü seçilmiştir ve ana çerçevede öğretim elemanın yürüteceği dersler ve detayları (dersin kodu, adı, Fakülte/MYO ve Bölüm bilgileri) görülür. Bir ders seçilip tıklandığında, sol üst köşede ders tanıtım bilgileri (Dersin adı, bölümü, öğretim elemanlarının adları) görülür. Ders bilgileri altında **Takvim** bölümü yer alır. Burada henüz vakti gelmemiş ve tamamlanmış sanal sınıflar görülür. Sayfa üzerindeki butonlar kullanılarak canlı derse katılabilir veya tekrar izleme yapılabilir.  
+
+<img style="border:1px solid black" src="assets/images/ders.png"/> <br>
+
+**Takvim** seçildiğinde günlük, haftalık veya aylık ölçekte planlanmış faaliyetler görülür. **Takvim**e faaliyetler yöneticiler tarafından işlenir.
+
+<img style="border:1px solid black" src="assets/images/takvim.png"/> <br> 
 
 
-UZEP üzerinde sanl sınıf oluşturmak iki aşamalıdır. Birinci aşamada **Takvim** üzerinde aktivite tanımlanır, ikinci aşamda ise **Sanal Sınıf** oluşturulur. Bu şekilde takvimde tanımlı bir aktiviteye birden fazla sanal sınıf ilişkilendirmek mümkündür. Takvimdeki aktiviteler yöneticiler tarafından haftalık ders programı olarak sisteme dönem başında (örneğin 14 hafta için) işlenebilir. Ders öğretim elemanı Sanal sınıflarını bu takvime uygun organize edebilir veya değişiklik yapabilir. **Takvim** sekmesinde girilen aktivite başlangıç ve bitiş süreleri **Sanal Sınıf** için aynı olması iyi bir pratik olmakla beraber zorunlu değildir. Bireysel olarak sanal sınıf oluşturmak için önce **Takvim** üzerinde aktivite zamanı girilmelidir. Daha sonra **Takvim**de tanımlı bu aktivite **Sanal Sınıf** ile ilişkilendirilmelidir. 
+**3. [Sanal sınıf oluşturma](/uzepSanalSinif.html):**
+
+
+UZEP üzerinde sanal sınıf oluşturmak iki aşamalıdır. Birinci aşamada **Takvim** üzerinde aktivite tanımlanır, ikinci aşamda ise **Sanal Sınıf** oluşturulur. Bu şekilde takvimde tanımlı bir aktiviteye birden fazla sanal sınıf ilişkilendirmek mümkündür. Takvimdeki aktiviteler yöneticiler tarafından haftalık ders programı olarak sisteme dönem başında (örneğin 14 hafta için) işlenebilir. Ders öğretim elemanı Sanal sınıflarını bu takvime uygun organize edebilir veya değişiklik yapabilir. **Takvim** sekmesinde girilen aktivite başlangıç ve bitiş süreleri **Sanal Sınıf** için aynı olması iyi bir pratik olmakla beraber zorunlu değildir. Bireysel olarak sanal sınıf oluşturmak için önce **Takvim** üzerinde aktivite zamanı girilmelidir. Daha sonra **Takvim**de tanımlı bu aktivite **Sanal Sınıf** ile ilişkilendirilmelidir. 
 
 Ders altında görülen sanal sınıf linkine tıklayarak, canlı yayın dersi yürütülebilir. Başlama saati geçmiş sanal sınıflara da katılmak mümkündür, eksik kalan kısımlar daha sonra oluşturulan ilave sanal sınıflar ile telafi edilebilir. Telafi derslerinin, asıl ders takvimine ilişkilendirilmesi ile hangi dersin telafisinin yapıldığının kolaylıkla anlaşılması sağlanır.
 
