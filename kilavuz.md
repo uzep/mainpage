@@ -9,7 +9,7 @@ author: ozmen
 **1. Sisteme giriş/çıkış:**
 
 <p>
-Öğrenciler, öğretim elemanları ve diğer yönetici düzeyindeki kullanıcıların sisteme giriş/çıkış yapabilmeleri için UZEP üzerinde hesap açılması gerekmektedir. Kullanıcı hesapları topluca açılabileceği gibi tekil olarak da açılabilir ve silinebilir. Her kullanıcı sisteme tanımlandığında bir rol ile ilişkilendirilir, kullanıcı sisteme giriş yaptığında tanımlı rolüne uygun olarak sistem üzerindeki sayfalara, verilere erişebilir. Kullanıcıların rol değişim işlemleri sistem yöneticileri tarafından yapılabilmektedir. UZEP\'e giriş ve çıkış işlemlerin anlatıldığı kılavuza erişmek için [tıklayınız](/uzepLogin.html "Uzep Login").
+Öğrenciler, öğretim elemanları ve diğer yönetici düzeyindeki kullanıcıların sisteme giriş/çıkış yapabilmeleri için UZEP üzerinde hesap açılması gerekmektedir. Kullanıcı hesapları topluca açılabileceği gibi tekil olarak da açılabilir ve silinebilir. Her kullanıcı sisteme tanımlandığında bir rol ile ilişkilendirilir, kullanıcı sisteme giriş yaptığında tanımlı rolüne uygun olarak sistem üzerindeki sayfalara, verilere erişebilir. Kullanıcıların rol değişim işlemleri sistem yöneticileri tarafından yapılabilmektedir. UZEP'e giriş ve çıkış işlemlerin anlatıldığı kılavuza erişmek için <a href="/uzepLogin.html">tıklayınız</a>.
 </p>
 
 **2. Sanal sınıf oluşturma:**
