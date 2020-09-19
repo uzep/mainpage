@@ -3,7 +3,7 @@ layaout: default
 title: Sanal Sınıf Kılavuzu
 author: ozmen
 ---
-# Sanal Sınıf Oluşturma, Düzenleme ve Silme Kılavuzu
+# Sanal Sınıf Oluşturma, Düzenleme ve Silme
 
 1. Ana syafada menü üzerinden **Takvim** seçilir.
 2. Sanal sınıfın planlandığı **Tarih**, **Başlangıç** ve **Bitiş** saatleri sayfa üzerindeki pencerelere girilir.

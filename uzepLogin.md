@@ -1,9 +1,9 @@
 ---
 layaout: default
-title: Login/Logout Kılavuzu
+title: Login/Logout
 author: ozmen
 ---
-# UZEP LOGIN / LOGOUT KILAVUZU
+# UZEP Login / Logout
 
 1. UZEP'e sıkça kullanılan Chrome, Internet Explorer, Firefox, Opera, Safari gibi web tarayıcıları ile girilebilir. UZEP'e cep telefonundaki tarayıcılardan da girilebilir.  
 2. Web tarayıcısı adres çubuğuna _https://\*.uzep.org_ yazılır. '\*' yerine üniversitenin kısa adı yazılmalıdır, örneğin "Sakarya Üniversitesi" için _"https://sakarya.uzep.org"_ gibi. <br>
