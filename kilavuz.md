@@ -9,7 +9,7 @@ author: ozmen
 **1. Sisteme giriş/çıkış:**
 
 <p>
-Öğrenciler, öğretim elemanları ve diğer yönetici düzeyindeki kullanıcıların sisteme giriş/çıkış yapabilmeleri için UZEP üzerinde hesap açılması gerekmektedir. Kullanıcı hesapları topluca açılabileceği gibi tekil olarak da açılabilir ve silinebilir. Her kullanıcı sisteme tanımlandığında bir rol ile ilişkilendirilir, kullanıcı sisteme giriş yaptığında tanımlı rolüne uygun olarak sistem üzerindeki sayfalara, verilere erişebilir. Kullanıcıların rol değişim işlemleri sistem yöneticileri tarafından yapılabilmektedir. UZEP'e giriş ve çıkış işlemlerin anlatıldığı kılavuza erişmek için [tıklayınız](/uzepLogin.html).
+Öğrenciler, öğretim elemanları ve diğer yönetici düzeyindeki kullanıcıların sisteme giriş/çıkış yapabilmeleri için UZEP üzerinde hesap açılması gerekmektedir. Kullanıcı hesapları topluca açılabileceği gibi tekil olarak da açılabilir ve silinebilir. Her kullanıcı sisteme tanımlandığında bir rol ile ilişkilendirilir, kullanıcı sisteme giriş yaptığında tanımlı rolüne uygun olarak sistem üzerindeki sayfalara, verilere erişebilir. Kullanıcıların rol değişim işlemleri sistem yöneticileri tarafından yapılabilmektedir. UZEP\'e giriş ve çıkış işlemlerin anlatıldığı kılavuza erişmek için [tıklayınız](/uzepLogin.html "Uzep Login").
 </p>
 
 **2. Sanal sınıf oluşturma:**
@@ -17,7 +17,7 @@ author: ozmen
 <p>
 UZEP üzerinde çevrim içi ders yapabilmek için önce "Takvim" üzerinde "Sanal Sınıf" takvimi girilmelidir. Daha sonra sanal sınıf tanımlanması yapılırken Takvim'de tanımlı aktivite ile ilişkilendirilir. Takvim aktiviteleri sistem yöneticileri tarafından dönemlik (14 hafta için) veya tekil olarak oluşturulabilir. Öğretim elemanları sanal sınıf oluştururken takvimde belirlenmiş aktivite ile ilşkilendirmesi gerekmektedir. Takvim sekmesinde girilen aktivite başlangıç ve bitiş süreleri sanal sınıf için aynı olması iyi bir pratik olmakla beraber zorunlu değildir. Ders altında görülen sanal sınıf linkine tıklayarak, canlı yayın dersi yürütülebilir. Başlama saati geçmiş sanal sınıflara da katılmak mümkündür, eksik kalan kısımlar daha sonra oluşturulan ilave sanal sınıflar ile telafi edilebilir. Telafi derslerinin, asıl ders takvimine ilişkilendirilmesi ile hangi dersin telafisinin yapıldığının kolaylıkla anlaşılması sağlanır.
 
-Sanal sınıf oluşturma, silme ve güncelleme işlemlerinin anlatıldığı kılavuz için [tıklayınız](/uzepSanalSinif.html).
+Sanal sınıf oluşturma, silme ve güncelleme işlemlerinin anlatıldığı kılavuz için [tıklayınız](/uzepSanalSinif.html "Uzep Sanal Sınıf").
 </p>
 
 **3. Duyuru gönderme:**
