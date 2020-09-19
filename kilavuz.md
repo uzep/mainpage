@@ -14,9 +14,9 @@ author: ozmen
 
 **2. Sanal sınıf oluşturma:**
 
-<p>
+
 UZEP üzerinde çevrim içi ders tanımlamak iki aşamalıdır. Birinci aşamada **Takvim** üzerinde aktivite tanımlanır, ikinci aşamda ise **Sanal Sınıf** oluşturulur. Bu şekilde takvimde tanımlı bir aktiviteye birden fazla sanal sınıf ilişkilendirmek mümkündür. Takvimdeki aktiviteler yöneticiler tarafından haftalık ders programı olarak sisteme dönem başında (örneğin 14 hafta için) işlenebilir. Ders öğretim elemanı Sanal sınıflarını bu takvime uygun organize edebilir veya değişiklik yapabilir. **Takvim** sekmesinde girilen aktivite başlangıç ve bitiş süreleri **Sanal Sınıf** için aynı olması iyi bir pratik olmakla beraber zorunlu değildir. Bireysel olarak sanal sınıf oluşturmak için önce **Takvim** üzerinde aktivite zamanı girilmelidir. Daha sonra **Takvim**de tanımlı bu aktivite **Sanal Sınıf** ile ilişkilendirilmelidir. 
-</p>
+
 <p>
 Ders altında görülen sanal sınıf linkine tıklayarak, canlı yayın dersi yürütülebilir. Başlama saati geçmiş sanal sınıflara da katılmak mümkündür, eksik kalan kısımlar daha sonra oluşturulan ilave sanal sınıflar ile telafi edilebilir. Telafi derslerinin, asıl ders takvimine ilişkilendirilmesi ile hangi dersin telafisinin yapıldığının kolaylıkla anlaşılması sağlanır.
 
