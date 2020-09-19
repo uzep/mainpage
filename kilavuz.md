@@ -39,6 +39,6 @@ Materyal paylaşımı ile ilgili yardım kılavuzuna erişmek için <a href="/uz
 
 **7. [Veri aktarımı](/veriAktarim.html):**
 
-Üniversite Yönetim Sistemlerinde var olan bazı verilerin UZEP'e aktarılması gerekmektedir. Bunlar sırasıyla: 1) Birimler, 2) Dersler, 3) Kullanıcılar (Öğrenci ve Öğretim elemanları), 4) Ders programları, 5) Derse katılımcıları.
+Üniversite Yönetim Sistemlerinde var olan bazı verilerin UZEP'e aktarılması gerekmektedir. Bunlar sırasıyla: 1) Birimler, 2) Dersler, 3) Kullanıcılar (Öğrenci ve Öğretim elemanları), 4) Ders programları, 5) Ders katılımcıları.
 
 Veri aktarımı ile ilgili detaylara erişmek için <a href="/veriAktarim.html">tıklayınız</a>.
