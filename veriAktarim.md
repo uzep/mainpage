@@ -10,7 +10,7 @@ UZEP'te sanal sınıfların oluşturulabilmesi için beş farklı veriye ihtiya�
 3. Ders takvimi (Haftalık ders programları),
 <br><img style="border:1px solid black" src="assets/images/hprog.png"/> <br> 
 4. Kullanıcılar (Öğretim elemanları ve öğrenciler),
-<br><img style="border:1px solid black" src="assets/images/kullanici.png"/> <br>
+<br><img style="border:1px solid black" src="assets/images/kullanicilar.png"/> <br>
 5. Dersin katılımcıları (Derslere atanmış veya tahsis edilmiş öğrenciler, öğretim elemanları).
 <br><img style="border:1px solid black" src="assets/images/dersKullanici.png"/> <br>
 
