@@ -5,20 +5,18 @@ author: ozmen
 ---
 # Duyuru
 
-Dersin öğretim elemanı derse kayıtlı öğrencilere duyuru gönderebilir. 
+Öğretim elemanı dersine kayıtlı öğrencilere metin tabanlı duyuru gönderebilir. 
 
 <img src="assets/images/duyuru.png"/><br>
 
 **İşlemler:**
-1. Sisteme öğretim elemanı rolü ile girilir.
-2. Orta pencerede duyuru gönderilmek istenen ders seçilir.
-3. **Ders** arayüzünde, sağ üst tarafta gönderilecek duyurunun **Başlığı** ve **Gövde metni** girilir.
-4. **Gönder** butonuna basılır.
-5. Duyuru dersi alan tüm öğrencilere gider.
+1. Ana sayfada menü üzerinden **Dersler** seçilir.<br>
+2. Panelde duyuru gönderilmek istenen ders seçilir (Örneğin Mat101 Matematik).<br>
+3. Sağ üst taraftaki panelde duyurunun **Başlığı** ve **Gövde metni** girilir.
+4. **Gönder** butonuna basılır.<br> 
+5. Duyuru derse kayıtlı tüm öğrencilere gider.
 
 **Not:** Duyuruya dosya veya resim eklenemez.
-<!--
-Benzer şekilde birim sorumluları (dekanlık, MYO müdürlükleri, bölümler gibi) birime kayıtlı tüm öğrencilere duyuru gönderebilir. Duyurular UZEP'in öğrenci arayüzünde ders duyruları ve genel duyurular şeklinde sınıflandırılmış olarak görülür.
 
-<img src="assets/images/duyuruOgr.png"/><br>
--->
+<img style="border:1px solid black" src="assets/images/duyuru.png"/>
+<p style="text-align: center;">Şekil 1. Duyuru gönderme arayüzü. </p>
