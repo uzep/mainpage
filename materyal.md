@@ -11,14 +11,14 @@ author: ozmen
 4. Panelde materyal eklemek istenen ders seçilir (Örneğin Mat101 Matematik).<br>
 5. Menüden **Materyal** seçilir.<br>
 6. Panelden **Yeni Materyal** seçilir.
-4. Açılan pencerede materyal türü (dosya, video veya link) seçilir.
-5. **Browse** tıklanarak yüklenmek istenen dosya bulunur ve tıklanır.
-6. Arayüz üzerindeki **Ekle** butonu tıklanır.
-7. Yükleme işlemi tamamlanmıştır, derse kayıtlı tüm öğrenciler yüklenen dokümanlara erişebilir.
+7. Açılan pencerede materyal türü (dosya, video veya link) seçilir.
+8. **Browse** tıklanarak yüklenmek istenen dosya bulunur ve tıklanır.
+9. Arayüz üzerindeki **Ekle** butonu tıklanır.
+10. Yükleme işlemi tamamlanmıştır, derse kayıtlı tüm öğrenciler yüklenen dokümanlara erişebilir.
 
 **Not:** Belirlenen boyutlardan daha büyük dosyalar için yerel dosya sunucuları kullanılabilir, bu durumda dosyanın linki paylaşılabilir.
 
-<p style="text-align: center;">Tablo 1. Hafta ve dönem için en fazla materyal boyutları. </p>
+Tablo 1. Hafta ve dönem için en fazla materyal boyutları. <br>
 |Periyot | Doküman Boyutu |
 | :---|:---|
 | Hafta | 500 MB |
