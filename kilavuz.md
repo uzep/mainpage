@@ -39,7 +39,12 @@ Materyal paylaşımı ile ilgili yardım kılavuzuna erişmek için <a href="/uz
 
 **7. [Veri aktarımı](/veriAktarim.html):**
 
-Üniversite Yönetim Sistemlerinde var olan bazı verilerin UZEP'e aktarılması gerekmektedir. Bunlar sırasıyla: 1) Birimler, 2) Dersler, 3) Kullanıcılar (Öğrenci ve Öğretim elemanları), 4) Ders programları, 5) Ders katılımcıları.
+Üniversite Yönetim Sistemlerinde var olan bazı verilerin UZEP'e aktarılması gerekmektedir. Bu veriler ve açılamaları şöyledir: 
+1. Birimler: Üniversite hiyerarşisi içinde Fakülte, Meslek Yüksek Okulları (MYO), Enstitüler ve bunların altındaki bölümler ve programlar birimler olarak adlandırılmıştır. 
+2. Dersler: Üniversitenin tüm birimlerinde tanımlı ve bölümlerin ders planlarında yer alan dersler.
+3. Kullanıcılar (öğrenci, öğretim elemanları, herkes): Üniversitede ders veren öğretim elemanları ve kayıtlı öğrenciler. İstenirse dışarıdan davetli de derse katılabilir, bunun için bireysel olarak kullanıcı eklenmesi gerekmektedir. 
+4. Ders programları: Üniversite bölümlerinin haftalık ders programları. Ders programlarının sanal ders programı ile aynı olması gerekmez. Sisteme örgün bir program girilebilir, sanal dersler bu programa uygun veya farklı yerlerde icra edilebilir.
+5. Ders katılımcıları: Sanal derslere tanımlanan kullanıclar.
 
 Veri aktarımı ile ilgili detaylara erişmek için <a href="/veriAktarim.html">tıklayınız</a>.
 
