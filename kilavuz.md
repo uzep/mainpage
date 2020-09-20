@@ -23,7 +23,7 @@ UZEP'te tanımlanan sanal sınıf aktiviteleri kronolojik sıraya göre önce **
 
 **4. [Sanal sınıf oluşturma](/uzepSanalSinif.html):**
 
-Öğretim elemanı kendi dersleri için sanal sınıf tanımlayabilir, vakti geldiğinde canlı yayın dersi yürütülebilir. Öğretim elemanı kendi üzerine tanımlı bir dersin sanal sınıfına başka bir öğretici de tanımlayabilir. Başlama saati geçmiş sanal sınıflara da oturum sonlanmadığı sürece katılmak mümkündür.  
+Öğretim elemanı görevlendirildiği dersler için sanal sınıf oluşturabilir. Öğretim elemanı kendi üzerine tanımlı bir dersin sanal sınıfına başka bir öğretici de tanımlayabilir. Vakti geldiğinde canlı yayın derse katılabilir, başlama saati geçmiş sanal sınıflara da oturum sonlanmadığı sürece katılmak mümkündür.  
 
 Sanal sınıf oluşturma, silme ve güncelleme işlemlerinin anlatıldığı kılavuz için <a href="/uzepSanalSinif.html">tıklayınız</a>.
 
