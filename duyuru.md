@@ -3,7 +3,7 @@ layaout: default
 title: About
 author: ozmen
 ---
-# Duyuru
+# Duyuru Modülü
 
 Öğretim elemanı dersine kayıtlı öğrencilere metin tabanlı duyuru gönderebilir. 
 
