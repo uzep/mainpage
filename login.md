@@ -7,8 +7,8 @@ author: ozmen
 
 1. UZEP'e sıkça kullanılan Chrome, Firefox, Opera, Safari gibi web tarayıcıları ile girilebilir. UZEP'e cep telefonundaki tarayıcılardan da girilebilir.  
 2. Web tarayıcısı adres çubuğuna _https://\*.uzep.org_ yazılır. '\*' yerine üniversitenin kısa adı yazılmalıdır, örneğin "Sakarya Üniversitesi" için _"https://sakarya.uzep.org"_ gibi. <br>
-<img style="border:1px solid black" src="assets/images/login.png" height="350"/> 
-<p style="text-align: center;"> **Şekil 1.** UZEP login sayfası. </p>
+<img style="border:1px solid black" src="assets/images/login.png" height="400"/> 
+<p style="text-align: center;"> <b>Şekil 1. </b>UZEP login sayfası. </p>
 
 
 <br>
