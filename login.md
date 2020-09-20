@@ -14,7 +14,7 @@ UZEP'e sıkça kullanılan Chrome, Firefox, Opera, Safari gibi web tarayıcılar
 2. Açılan sayfada **Kullanıcı adı** yerine tanımlı kullanıcı adı girilir. Genel olarak üniversite bilgi sistemine kayıtlı kullanıcı adı UZEP için de tanımlanmaktadır. Kullanıcı adı büyük/küçük harf duyarlıdır.
 3. **Şifre** penceresine tanımlı şifrenizi girebilirsiniz Sistem tarafından tanımlı şifreler ilk girişte değiştirilmelidir.
 4. **Giriş Yap** butonuna basılarak giriş yapılır.
-5. **Şifre değişikliği** için açılan sayafada sağ üst köşede isminizi barındıran ikon tıklanır. Açılan pencerede şifre değişikliği yapılır (Bkz.  **Şekil 2 ve 3**).
+5. **Şifre değişikliği** için açılan sayafada sağ üst köşede isminizi barındıran ikon tıklanır. **Hesabım** tıklanır ve açılan pencerede şifre değişikliği yapılır (Bkz. **Şekil 2 ve Şekil 3**).
 6. UZEP'ten çıkış için sağ üst köşedeki isminizi barındıran ikon tıklanır, açılan pencerede **Çıkış Yap** butonu tıklanarak sistemden çıkılır (Bkz.  **Şekil 2**). <br>
 <img style="border:1px solid black" src="assets/images/sifreCikis.png" height="400" />
 <p style="text-align: center;">Şekil 2. Şifre değişikliği veya çıkış işlemi. </p>
