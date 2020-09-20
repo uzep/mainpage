@@ -42,3 +42,9 @@ Materyal paylaşımı ile ilgili yardım kılavuzuna erişmek için <a href="/uz
 Üniversite Yönetim Sistemlerinde var olan bazı verilerin UZEP'e aktarılması gerekmektedir. Bunlar sırasıyla: 1) Birimler, 2) Dersler, 3) Kullanıcılar (Öğrenci ve Öğretim elemanları), 4) Ders programları, 5) Ders katılımcıları.
 
 Veri aktarımı ile ilgili detaylara erişmek için <a href="/veriAktarim.html">tıklayınız</a>.
+
+**8. [Raporlama](/rapor.html):**
+
+UZEP hem yöneticiler ve hem de öğretim elemanları için sistem üzerinde yürütülen faaliyetlerle, kaynakların durumu ile ilgili çeşitli raporlar üretmektedir. Raporların bir kısmına sadece yöneticiler ulaşabilir, diğer bir kısmına ise ders öğretim elemanları erişebilmektedir.
+
+Raporlar ile ilgili detaylara erişmek için <a href="/rapor.html">tıklayınız</a>.
