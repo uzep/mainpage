@@ -16,6 +16,7 @@ Yöneticiler dönem başında öğretim elemanlarının tüm derslerinin haftal�
 6. **Oturum Adı** olarak sanal sınıfa bir isim verilir. Örneğin **1. Hafta sanal sınıf** gibi.<br>
 7. **Başlangıç Tarihi** ilişkilendirilen **Takvim** programından otomatik getirilir. Arzu edilmez ama istenildiğinde veya gerektiğinde bu tarih/saat değiştirilebilir.<br>
 8. **Süre** dakika olarak girilir. Örneğin, üniversite tarafından **1 saatlik örgün ders için 30 dakika yapılır** kararı alındıysa ve 3 saatlik bir ders için işlem yapılıyorsa, buraya 90 girilir.<br>
+**Not:** Süre girişine en fazla 120 dakika girilecek şekilde kısıt konmuştur. 120 dakikadan fazla sanal sınıf ihtiyacı varsa, aynı takvim olayına iki ayrı oturum açılabilir. <br>
 9. **Ekle** butonuna basılarak sanal sınıf oluşturulur.<br>
 10. Sanal sınıf oluşturduktan sonra tekrar bir önceki sayfaya dönülür. Bu sayfada ayrıca daha önceden açılmış ve sürdürülebilecek sanal sınıflar görülür. **Başlat** butonu tıklanarak yeni açılan veya daha önce tanımlanmış ve henüz oturumu sona ermemiş sanal sınıf başlatılabilir. <br>
 11. Aynı sayfada daha önce oturumu sona ermiş sanal sınıflar izlenebilir.<br>
