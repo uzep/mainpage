@@ -21,7 +21,7 @@ Veri aktarım kılavuzu için [tıklayınız.](/veriAktarim.html).<br>
 ### Haftalık sanal sınıfların oluşturulması:
 Haftalık sanal sınıf programları oluşturulmadan önce, sanal derslerin tüm üniversite içinde günlere ve gün içindeki saatlere dengeli dağılmasının gözetilmesi faydalı olacaktır. Sanal sınıflar merkezden UZEM tarafından haftalık olacak şekilde tüm üniversite için hazırlanabileceği gibi her bir öğretim elemanı kendi dersi için sistem üzerinden sanal sınıf oluşturabilecektir. Sanal sınıflar, ekran paylaşımı, uygulama pencersinin paylaşımı veya beyaz tahta paylaşımı şeklinde yürütülebilmektedir. 
 
-UZEP üzerinde **Sanal Sınıf Oluşturma** kılavuzu için [tıklayınız.](/uzepSanalSinif.html).
+UZEP üzerinde **Sanal Sınıf Oluşturma** kılavuzu için [tıklayınız.](/sanalSinif.html).
 <!--Şekilde sanal sınıf oluşturma arayüzü görülmektedir.-->
 
 <!--img src="assets/images/sanalSinif.png"/><br-->
