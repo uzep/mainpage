@@ -7,8 +7,6 @@ author: ozmen
 
 Öğretim elemanı dersine kayıtlı öğrencilere metin tabanlı duyuru gönderebilir. 
 
-<img src="assets/images/duyuru.png"/><br>
-
 **İşlemler:**
 1. Ana sayfada menü üzerinden **Dersler** seçilir.<br>
 2. Panelde duyuru gönderilmek istenen ders seçilir (Örneğin Mat101 Matematik).<br>
