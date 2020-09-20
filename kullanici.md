@@ -1,6 +1,6 @@
 # Kullanıcı ekleme/silme, kayıt düzenleme
 
-Yönetici rolüne sahip kişiler aşağıdaki adımları takip ederek UZEP'e kullanıcı ekleyebilir, silebilir veya kayıtları düzenleyebilir. Kullanıc adı üzerinde değişiklik yapılamaz, değişiklik yapılması gerektiği durumlarda mevcut kullanıcı silinip, yeni kullanıcı açılabilir.
+Yönetici rolüne sahip kişiler aşağıdaki adımları takip ederek UZEP'e kullanıcı ekleyebilir, silebilir veya kayıtları düzenleyebilir. Daha önce tanımlanmış bir kullanıcının **Kullanıcı adı** üzerinde değişiklik yapılamaz, değişiklik yapılması gerektiği durumlarda mevcut kullanıcı silinip, yeni kullanıcı açılabilir.
 
 **İşlemler:**
 1. Menüden **Kullanıcılar** seçilir.
