@@ -17,16 +17,16 @@ author: ozmen
 Aktarılacak verilerin biçimleri örnek olarak aşağıdaki şekillerde verilmiştir.<br>
 
 <br><img style="border:1px solid black" src="assets/images/birim.png"/> 
-<p style="text-align: center;">Şekil 1. Birimler dosyası biçimi (Fakülteler, MYO'lar, Enstitüler ve bu birimlerin altında bulunan bölümler/programlar). </p> 
-<img style="border:1px solid black" src="assets/images/dersler.png"/> <br>
-<p style="text-align: center;">Şekil 2. Dersler dosyası biçimi (Baz dersler ve şube dersler). </p>
-<img style="border:1px solid black" src="assets/images/kullanicilar.png"/> <br>
-<p style="text-align: center;">Şekil 3. Kullanıcılar dosyası (Yöneticiler, öğretim elemanları ve öğrenciler). </p>
-<img style="border:1px solid black" src="assets/images/hprog.png"/> <br> 
-<p style="text-align: center;">Şekil 4. Ders takvimi dosya biçimi (Haftalık ders programları). </p>
-<img style="border:1px solid black" src="assets/images/dersKullanici.png"/> <br>
-<p style="text-align: center;">Şekil 5. Ders katılımcıları dosyası biçimi (Derslere kaydolmuş öğrenciler veya öğretici olarak görevlendirilmiş öğretim elemanları). </p>
-<img style="border:1px solid black" src="assets/images/veriAktarim.png"/> <br>  
+<p style="text-align: center;">Şekil 1. Birimler dosyası biçimi (Fakülteler, MYO'lar, Enstitüler ve bu birimlerin altında bulunan bölümler/programlar). </p> <br>
+<img style="border:1px solid black" src="assets/images/dersler.png"/> 
+<p style="text-align: center;">Şekil 2. Dersler dosyası biçimi (Baz dersler ve şube dersler). </p><br>
+<img style="border:1px solid black" src="assets/images/kullanicilar.png"/> 
+<p style="text-align: center;">Şekil 3. Kullanıcılar dosyası (Yöneticiler, öğretim elemanları ve öğrenciler). </p><br>
+<img style="border:1px solid black" src="assets/images/hprog.png" height="400"/> 
+<p style="text-align: center;">Şekil 4. Ders takvimi dosya biçimi (Haftalık ders programları). </p><br>
+<img style="border:1px solid black" src="assets/images/dersKullanici.png"/> 
+<p style="text-align: center;">Şekil 5. Ders katılımcıları dosyası biçimi (Derslere kaydolmuş öğrenciler veya öğretici olarak görevlendirilmiş öğretim elemanları). </p><br>
+<img style="border:1px solid black" src="assets/images/veriAktarim.png"/>  
 <p style="text-align: center;">Şekil 6. UZEP'e Excel dosya kullanarak veri aktarım arayüzü. </p>
 
 **İşlem basamakları:**
