@@ -6,7 +6,6 @@ author: ozmen
 # Materyal Paylaşımı
 
 1. Sisteme yüklenencek doküman yerel makinada (bilgisayar, cep telefonu veya tablet olabilir) hazır edilir. Hazırlanan dokümanın biçiminin önemi yoktur. 
-
 2. Sistem üzerinde yüklenebilecek doküman boyutu ile kısıtlar bulunmaktadır. Mevcut durumda bu kısıtlar bir ders içn şöyledir:
 
 |Periyot | Doküman Boyutu |
