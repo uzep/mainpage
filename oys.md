@@ -46,4 +46,6 @@ Bir dersin arayüzü ile ilgili detaylara erişmek için [tıklayınız.](/dersl
 
 
 ### Sanal sınıf aktivitelerinin izlenmesi:
-Anlatılacak.
+Öğretim elemanı dersi ne zaman yapmıi ne kadar kalmış, öğrencilerin canlı yayına katılımları, kaç defa sonradan izleme yapmışlar gibi istatistiki veriler sistemden rapor olarak alınabilir. Ayrıca anlık olarak sistem yükü, devam eden canlı yayınların adedi sağlanan arayüzden görülebilir.
+
+Raporlar ile ilgili detaylı bilgilere erişmek için [tıklayınız](/rapor.html).
