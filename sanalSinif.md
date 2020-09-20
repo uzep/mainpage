@@ -5,7 +5,7 @@ author: ozmen
 ---
 # Sanal Sınıf Oluşturma, Silme ve Düzenleme
 
-UZEP üzerinde öğretim elemanı ile ilişkili, tanımlı tüm sanal sınıflar **Takvim** sayfasında görülür. 
+Yöneticiler dönem başında öğretim elemanlarının tüm derslerinin haftalık programlarını UZEP - Takvime veri aktarma yoluyla girerler. Öğretim elemanı UZEP'e girdiğinde **Takvim**de kendi derslerinin programını aylık/haftalık veya günlük ölçekte görür (Bkz. [Takvim](/takvim.html)). Zamanı yaklaşan sanal sınıflar takvime bağlı olarak öğretim elemanı tarafından oluşturulur ve vakti geldiğinde yürütülür. Eğer öğretim elemanı sanal sınıf oluşturmazsa veya oluşturmayı unutursa planlanan saatte canlı ders yapılamaz, öğrenciler derse katılamaz. O nedenle **Takvim**de tanımlı haftalık programa uygun sanal sınıf mutlaka öğretim elemanı tarafından belirlenen saaten önce oluşturulmalıdır.  
 
 **Sanal sınıf oluşturma adımları:**
 1. Ana sayfada menü üzerinden **Dersler** seçilir.
