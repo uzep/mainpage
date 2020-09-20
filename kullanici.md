@@ -2,7 +2,7 @@
 
 Yönetici rolüne sahip kişiler aşağıdaki adımları takip ederek UZEP'e kullanıcı ekleyebilir, silebilir veya kayıtları düzenleyebilir. Daha önce tanımlanmış bir kullanıcının **Kullanıcı Adı** üzerinde değişiklik yapılamaz, değişiklik yapılması gerektiği durumlarda mevcut kullanıcı silinip, yeni kullanıcı açılabilir.
 
-**İşlemler:**
+**İşlemler (Aşağıdaki işlemleri sadece yönetici rolünde olanlar yapabilir):**
 1. Menüden **Kullanıcılar** seçilir.
 2. Sağ üst köşedeki **Yeni Kullanıcı** butonu tıklanır.
 3. Açılan pencerde:
@@ -11,8 +11,9 @@ Yönetici rolüne sahip kişiler aşağıdaki adımları takip ederek UZEP'e kul
 - TC No,
 - Eposta,
 - Kullanıcı adı,
-- Şifre bilgileri girilir ve **Ekle** butonuna basılır.
+- Geçici şifre bilgileri girilir ve **Ekle** butonuna basılır.
 
-Kullanıcı sisteme eklenmiştir.
+Kullanıcı UZEP'e eklenmiştir.
 
-<br><img style="border:1px solid black" src="assets/images/kullanici.png"/> <br>
+<img style="border:1px solid black" src="assets/images/kullanici.png"/>
+<p style="text-align: center;">Şekil 1. Yeni kullanıcı ekleme ekranı. </p>
