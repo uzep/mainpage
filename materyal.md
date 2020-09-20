@@ -7,9 +7,9 @@ author: ozmen
 
 1. Sisteme yüklenenecek doküman yerel makinada (bilgisayar, cep telefonu veya tablet olabilir) hazır edilir. Hazırlanan dokümanın biçiminin önemi yoktur. 
 2. Sistem üzerinde yüklenebilecek doküman boyutu ile kısıtlar bulunmaktadır. Mevcut durumda bu kısıtlar aşağıdaki tabloda verilmiştir.
-3. Ana sayfada menü üzerinden **Dersler** seçilir.<br>
-4. Panelde materyal eklemek istenen ders seçilir (Örneğin Mat101 Matematik).<br>
-5. Menüden **Materyal** seçilir.<br>
+3. Ana sayfada menü üzerinden **Dersler** seçilir.
+4. Panelde materyal eklemek istenen ders seçilir (Örneğin Mat101 Matematik).
+5. Menüden **Materyal** seçilir.
 6. Panelden **Yeni Materyal** seçilir.
 7. Açılan pencerede materyal türü (dosya, video veya link) seçilir.
 8. **Browse** tıklanarak yüklenmek istenen dosya bulunur ve tıklanır.
@@ -18,7 +18,8 @@ author: ozmen
 
 **Not:** Belirlenen boyutlardan daha büyük dosyalar için yerel dosya sunucuları kullanılabilir, bu durumda dosyanın linki paylaşılabilir.
 
-Tablo 1. Hafta ve dönem için en fazla materyal boyutları. <br>
+Tablo 1. Hafta ve dönem için en fazla materyal boyutları. 
+
 |Periyot | Doküman Boyutu |
 | :---|:---|
 | Hafta | 500 MB |
