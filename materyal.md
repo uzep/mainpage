@@ -25,6 +25,8 @@ Tablo 1. Hafta ve dönem için en fazla materyal boyutları.
 | Hafta | 500 MB |
 | Dönem | 10 GB |
 
+<br>
+
 <img style="border:1px solid black" src="assets/images/materyal.png"/>
 <p style="text-align: center;">Şekil 1. Materyal ekleme. </p>
 <img style="border:1px solid black" src="assets/images/materyal2.png"/>
