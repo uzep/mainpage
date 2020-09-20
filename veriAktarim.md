@@ -1,6 +1,6 @@
 # Veri aktarımı
 
-Üniveriste Yönetim Sisteminden veri aktarımı için iki yol bulunmaktadır. Bunlardan birisi sağlanan web servislerini kullanmak, diğeri ise dosya üzerine indirip UZEP'e yüklemek şeklindedir. Bu dönem veri aktarımı için Excel dosya üzerinden transfer yöntemi kullanılacaktır. 
+Üniveriste Yönetim Sistemi'nden (ÜYS) veri aktarımı için iki yol bulunmaktadır. Bunlardan birisi ÜYS ile UZEP arasında yapılan protokol ile sağlanan web servislerini kullanmak, diğeri ise kayıtların ÜYS'den dosyaya (Excel) indirilip, gerekli düzenlemelri yaptıktan sonra UZEP'e yüklemek şeklindedir. Bu dönem veri aktarımı için Excel dosya üzerinden transfer yöntemi kullanılacaktır. Sorunsuz bir veri aktarımı için Excel dosyalarındaki verilerin UZEP'in beklediği biçimde olması gerekmektedir. UZEP veri akatarımı kısmında veri yükleme kısmında örnek Excel dosyalar bulunmaktadır. Bu dosyalar sistemin beklediği şekilde biçimlendirilmiştir, dolayısı ile önce bu dosyaları indirip ÜYS'den başka Excel dosyalara indirilen verileri kopyalayarak kolonları dikkatlice gözeterek bu dosyalara yapıştırmak en uygun yol olacaktır.  
 
 UZEP'te sanal sınıfların oluşturulabilmesi için beş farklı veriye ihtiyaç vardır.<br>
 **1. Birim isimleri (Fakülteler, MYO'lar, Enstitüler ve bu birimlerin altında bulunan bölümler/programlar):**
@@ -21,8 +21,8 @@ Aşağıdaki şekilde veri aktarım arayüzü görülmektedir. <br>
 **İşlem basamakları:**
 1. Veri aktarımını doğru bir şekilde yapabilmek için UZEP arayüzündeki örnek dosyayı indirin.
 2. Bu dosya içindeki ilk satırı (başlık satırını) koruyarak diğer verileri silin.
-3. Üniveriste Yönetim Sisteminden (örneğin Proliz, Ünipa vb.) örnek dosyada istenen verileri başka bir Excel sayfasında hazır edin.
-4. Hazır edilen sayfayı kontrol ettikten sonra (gerekiyorsa düzenleme yaparak) UZEP'ten indirilen sayfaya yapıştırın.
+3. Üniveriste Yönetim Sisteminden indirdiğiniz verileri başka bir Excel sayfasında hazır edin.
+4. Hazır edilen sayfayı kontrol ettikten sonra (gerekiyorsa düzenleme yaparak) UZEP'ten indirilen sayfaya, kolonları gözeterek yapıştırın.
 5. Excel dosyayı **İçeri Aktar** butonunu kullanarak UZEP'e yükleyin.
 
 Tüm veriler aktarldığında UZEP dönem için kullanıma hazır olacaktır. Bu noktadan sonra tekil değişiklikler UZEP-Admin arayüzlerinden yapılabilir.
