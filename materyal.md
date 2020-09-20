@@ -5,17 +5,24 @@ author: ozmen
 ---
 # Materyal Paylaşımı
 
-1. Sisteme yüklenencek doküman yerel makinada (bilgisayar, cep telefonu veya tablet olabilir) hazır edilir. Hazırlanan dokümanın biçiminin önemi yoktur. 
-2. Sistem üzerinde yüklenebilecek doküman boyutu ile kısıtlar bulunmaktadır. Mevcut durumda bu kısıtlar bir ders içn şöyledir:
+1. Sisteme yüklenenecek doküman yerel makinada (bilgisayar, cep telefonu veya tablet olabilir) hazır edilir. Hazırlanan dokümanın biçiminin önemi yoktur. 
+2. Sistem üzerinde yüklenebilecek doküman boyutu ile kısıtlar bulunmaktadır. Mevcut durumda bu kısıtlar aşağıdaki tabloda verilmiştir.
+3. Ana sayfada menü üzerinden **Dersler** seçilir.<br>
+4. Panelde materyal eklemek istenen ders seçilir (Örneğin Mat101 Matematik).<br>
+5. Menüden **Materyal** seçilir.<br>
+6. Panelden **Yeni Materyal** seçilir.
+4. Açılan pencerede materyal türü (dosya, video veya link) seçilir.
+5. **Browse** tıklanarak yüklenmek istenen dosya bulunur ve tıklanır.
+6. Arayüz üzerindeki **Ekle** butonu tıklanır.
+7. Yükleme işlemi tamamlanmıştır, derse kayıtlı tüm öğrenciler yüklenen dokümanlara erişebilir.
 
+**Not:** Belirlenen boyutlardan daha büyük dosyalar için yerel dosya sunucuları kullanılabilir, bu durumda dosyanın linki paylaşılabilir.
+
+<p style="text-align: center;">Tablo 1. Hafta ve dönem için en fazla materyal boyutları. </p>
 |Periyot | Doküman Boyutu |
 | :---|:---|
 | Hafta | 500 MB |
 | Dönem | 10 GB |
 
-Bu boyutlardan daha büyük dosyalar için yerel dosya sunucuları kullanılabilir, bu durumda dosyanın linki paylaşılabilir.
-
-4. Arayüz üzerinde **Dosya seç** tıklanır.
-5. Açılan pencerede dosya bulunur ve tıklanır.
-6. Arayüz üzerindeki **Yükle** butonu tıklanır.
-7. Yükleme işlemi tamamlanmıştır, dersi alan tüm öğrenciler yüklenen dokümanlara erişebilir.
+<img style="border:1px solid black" src="assets/images/ders.png"/>
+<p style="text-align: center;">Şekil 1. Ders arayüzü. </p>
