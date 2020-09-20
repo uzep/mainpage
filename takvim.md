@@ -5,6 +5,8 @@ author: ozmen
 ---
 # Takvim
 
-**Takvim** seçildiğinde günlük, haftalık veya aylık ölçekte planlanmış faaliyetler görülür. **Takvim**e faaliyetler yöneticiler tarafından işlenir. Takvim üzerinde iler geri giderek inceleme yapmak mümkündür. Oluşturulacak bir sanal sınıf mutlaka takvimde var olan bir etkinlik ilişkilendirilmelidir.
+**Takvim** seçildiğinde günlük, haftalık veya aylık ölçekte planlanmış faaliyetler görülür. Kullanıcı tarafından tanımlanan veya yönetici tarafından tanımlanan faaliyetler **Takvim**de görülür. Takvim üzerinde ay, hafta veya gün ölçeğinde ileri-geri giderek inceleme yapmak mümkündür. 
+
+Sanal sınıflar oluşturuldukça **Takvim** üzerinde görülürler.
 
 <img style="border:1px solid black" src="assets/images/takvim.png"/> <br> 

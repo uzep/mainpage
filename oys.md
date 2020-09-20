@@ -38,7 +38,7 @@ UZEP'e veri aktarım işlemleri detaylarına erişmek için [tıklayınız.](/ve
 ### Öğretim elemanlarının sanal sınıflara tahsisi:
 Öğrenci kayıtlarının çekilmesi gibi öğretim elemanlarının bilgileri de üniversite bilgi sisteminden çekilir. Çekilen veri içinde öğretim elemanınlarının dönemsel eğitim görevlendirme bilgileri de bulunmaktadır. Bu bilgiler UZEP tarafından otomatik olarak sınıflarla eşleştirilir. Dönem içi değişiklikler için sistem üzerinde atama değişikliği için arayüzler bulunmaktadır. Dersin öğretim elemanı sisteme girdiğinde, o dönem yürüteceği dersleri otomatik olarak kendi arayüzünde görür. Derslere tıkladığında, ders ile ilgili sanal sınıflara ve duyurulara erişmek için butonlar bulunmaktadır. 
 
-Bir dersin arayüzü ile ilgili detaylara erişmek için [tıklayınız.](/anasayfa.html).
+Bir dersin arayüzü ile ilgili detaylara erişmek için [tıklayınız.](/dersler.html).
 
 <!--img src="assets/images/ogrElemArayuz.png"/><br-->
 

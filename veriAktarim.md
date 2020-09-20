@@ -1,3 +1,8 @@
+---
+layaout: default
+title: Veri Akatrımı
+author: ozmen
+---
 # Veri aktarımı
 
 Üniveriste Yönetim Sistemi'nden (ÜYS) veri aktarımı için iki yol bulunmaktadır. Bunlardan birisi ÜYS ile UZEP arasında yapılan protokol ile sağlanan web servislerini kullanmak, diğeri ise kayıtların ÜYS'den dosyaya (Excel) indirilip, gerekli düzenlemeleri yaptıktan sonra UZEP'e yüklemek şeklindedir. Bu dönem veri aktarımı için Excel dosya üzerinden transfer yöntemi kullanılacaktır. Sorunsuz bir veri aktarımı için Excel dosyalarındaki verilerin UZEP'in beklediği biçimde olması gerekmektedir. UZEP veri akatarımı kısmında veri yükleme kısmında örnek Excel dosyalar bulunmaktadır. Bu dosyalar sistemin beklediği şekilde biçimlendirilmiştir, dolayısı ile önce bu dosyaları indirip ÜYS'den başka Excel dosyalara indirilen verileri kopyalayarak kolonları dikkatlice gözeterek bu dosyalara yapıştırmak en uygun yol olacaktır.  
