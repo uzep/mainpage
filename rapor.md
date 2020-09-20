@@ -3,7 +3,7 @@ layaout: default
 title: Rapor
 author: ozmen
 ---
-# Raporlama modülü:
+# Raporlama modülü
 
 UZEP raporlama modülü aşağıdaki raporları üretebilir.
 
