@@ -1,17 +1,24 @@
 # Veri aktarımı
 
-Üniveriste Yönetim Sistemi'nden (ÜYS) veri aktarımı için iki yol bulunmaktadır. Bunlardan birisi ÜYS ile UZEP arasında yapılan protokol ile sağlanan web servislerini kullanmak, diğeri ise kayıtların ÜYS'den dosyaya (Excel) indirilip, gerekli düzenlemelri yaptıktan sonra UZEP'e yüklemek şeklindedir. Bu dönem veri aktarımı için Excel dosya üzerinden transfer yöntemi kullanılacaktır. Sorunsuz bir veri aktarımı için Excel dosyalarındaki verilerin UZEP'in beklediği biçimde olması gerekmektedir. UZEP veri akatarımı kısmında veri yükleme kısmında örnek Excel dosyalar bulunmaktadır. Bu dosyalar sistemin beklediği şekilde biçimlendirilmiştir, dolayısı ile önce bu dosyaları indirip ÜYS'den başka Excel dosyalara indirilen verileri kopyalayarak kolonları dikkatlice gözeterek bu dosyalara yapıştırmak en uygun yol olacaktır.  
+Üniveriste Yönetim Sistemi'nden (ÜYS) veri aktarımı için iki yol bulunmaktadır. Bunlardan birisi ÜYS ile UZEP arasında yapılan protokol ile sağlanan web servislerini kullanmak, diğeri ise kayıtların ÜYS'den dosyaya (Excel) indirilip, gerekli düzenlemeleri yaptıktan sonra UZEP'e yüklemek şeklindedir. Bu dönem veri aktarımı için Excel dosya üzerinden transfer yöntemi kullanılacaktır. Sorunsuz bir veri aktarımı için Excel dosyalarındaki verilerin UZEP'in beklediği biçimde olması gerekmektedir. UZEP veri akatarımı kısmında veri yükleme kısmında örnek Excel dosyalar bulunmaktadır. Bu dosyalar sistemin beklediği şekilde biçimlendirilmiştir, dolayısı ile önce bu dosyaları indirip ÜYS'den başka Excel dosyalara indirilen verileri kopyalayarak kolonları dikkatlice gözeterek bu dosyalara yapıştırmak en uygun yol olacaktır.  
 
-UZEP'te sanal sınıfların oluşturulabilmesi için beş farklı veriye ihtiyaç vardır.<br>
-**1. Birim isimleri (Fakülteler, MYO'lar, Enstitüler ve bu birimlerin altında bulunan bölümler/programlar):**
+Aktarılacak veriler ve açıklamaları şöyledir: 
+**1. Birimler:** Üniversite hiyerarşisi içinde Fakülte, Meslek Yüksek Okulları (MYO), Enstitüler ve bunların altındaki bölümler ve programlar birimler olarak adlandırılmıştır. 
+**2. Dersler:** Üniversitenin tüm birimlerinde tanımlı ve bölümlerin ders planlarında yer alan dersler.
+**3. Kullanıcılar (öğrenci, öğretim elemanları, herkes):** Üniversitede ders veren öğretim elemanları ve kayıtlı öğrenciler. İstenirse dışarıdan davetli de derse katılabilir, bunun için bireysel olarak kullanıcı eklenmesi gerekmektedir. 
+**4. Ders takvimi:** Üniversite bölümlerinin haftalık ders programları. Ders programlarının sanal ders programı ile aynı olması gerekmez. Sisteme örgün bir program girilebilir, sanal dersler bu programa uygun veya farklı yerlerde icra edilebilir.
+**5. Ders katılımcıları:** Sanal derslere tanımlanan kullanıclar, öğrenciler ve öğretim elemanları.
+
+Aktarılacak verilerin biçimleri örnek olarak aşağıdaki şekillerde verilmiştir.<br>
+**1. Birimler (Fakülteler, MYO'lar, Enstitüler ve bu birimlerin altında bulunan bölümler/programlar):**
 <br><img style="border:1px solid black" src="assets/images/birim.png"/> <br> 
 **2. Dersler (Baz dersler ve şubeleri):**
 <br><img style="border:1px solid black" src="assets/images/dersler.png"/> <br> 
+**3. Kullanıcılar (Öğretim elemanları ve öğrenciler):**
+<br><img style="border:1px solid black" src="assets/images/kullanicilar.png"/> <br>
 **3. Ders takvimi (Haftalık ders programları):**
 <br><img style="border:1px solid black" src="assets/images/hprog.png"/> <br> 
-**4. Kullanıcılar (Öğretim elemanları ve öğrenciler):**
-<br><img style="border:1px solid black" src="assets/images/kullanicilar.png"/> <br>
-**5. Dersin katılımcıları (Derslere atanmış veya tahsis edilmiş öğrenciler, öğretim elemanları):**
+**5. Ders katılımcıları (Derslere kaydolmuş öğrenciler veya öğretici olarak görevlendirilmiş öğretim elemanları):**
 <br><img style="border:1px solid black" src="assets/images/dersKullanici.png"/> <br>
 
 Aşağıdaki şekilde veri aktarım arayüzü görülmektedir. <br>
