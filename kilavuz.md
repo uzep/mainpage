@@ -39,13 +39,13 @@ UZEP üzerinden her türlü (doc, pdf, ppt, mp4 vb.) dijital materyal paylaşım
 
 Materyal paylaşımı ile ilgili yardım kılavuzuna erişmek için <a href="/materyal.html">tıklayınız</a>.
 
-**7. [Veri aktarımı](/veriAktarim.html):**
+**7. [Veri aktarımı (Yönetici)](/veriAktarim.html):**
 
 Üniversite Yönetim Sistemlerinde var olan bazı verilerin UZEP'e aktarılması gerekmektedir. 
 
 Veri aktarımı ile ilgili detaylara erişmek için <a href="/veriAktarim.html">tıklayınız</a>.
 
-**8. [Raporlama](/rapor.html):**
+**8. [Raporlama (Yönetici, Öğretim Elemanı)](/rapor.html):**
 
 UZEP hem yöneticiler ve hem de öğretim elemanları için sistem üzerinde yürütülen faaliyetlerle, kaynakların durumu ile ilgili çeşitli raporlar üretmektedir. Raporların bir kısmına sadece yöneticiler ulaşabilir, diğer bir kısmına ise ders öğretim elemanları erişebilmektedir.
 
