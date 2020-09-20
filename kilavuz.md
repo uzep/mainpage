@@ -19,11 +19,11 @@ Ders detaylarının anlatıldığı kılavuz için <a href="/anasayfa.html">tık
 
 **3. [Takvim](/takvim.html):**
 
-UZEP'te yürütülecek sanal sınıf aktiviteleri kronolojik sıraya göre önce **Takvim**e işlenmelidir. **Takvim** hakkında detaylar için <a href="/takvim.html">tıklayınız</a>.
+UZEP'te tanımlanan sanal sınıf aktiviteleri kronolojik sıraya göre önce **Takvim**de görülür. **Takvim** hakkında detaylar için <a href="/takvim.html">tıklayınız</a>.
 
 **4. [Sanal sınıf oluşturma](/uzepSanalSinif.html):**
 
-Öğretim elemanı ders altında görülen sanal sınıf linkine tıklayarak, canlı yayın dersi yürütülebilir. Başlama saati geçmiş sanal sınıflara da katılmak mümkündür, eksik kalan kısımlar daha sonra oluşturulan ilave sanal sınıflar ile telafi edilebilir. Telafi derslerinin, asıl ders takvimine ilişkilendirilmesi ile hangi dersin telafisinin yapıldığının kolaylıkla anlaşılması sağlanır.
+Öğretim elemanı kendi dersleri için sanal sınıf tanımlayabilir, vakti geldiğinde canlı yayın dersi yürütülebilir. Öğretim elemanı kendi üzerine tanımlı bir dersin sanal sınıfına başka bir öğretici de tanımlayabilir. Başlama saati geçmiş sanal sınıflara da oturum sonlanmadığı sürece katılmak mümkündür.  
 
 Sanal sınıf oluşturma, silme ve güncelleme işlemlerinin anlatıldığı kılavuz için <a href="/uzepSanalSinif.html">tıklayınız</a>.
 
@@ -39,12 +39,7 @@ Materyal paylaşımı ile ilgili yardım kılavuzuna erişmek için <a href="/uz
 
 **7. [Veri aktarımı](/veriAktarim.html):**
 
-Üniversite Yönetim Sistemlerinde var olan bazı verilerin UZEP'e aktarılması gerekmektedir. Bu veriler ve açılamaları şöyledir: 
-1. Birimler: Üniversite hiyerarşisi içinde Fakülte, Meslek Yüksek Okulları (MYO), Enstitüler ve bunların altındaki bölümler ve programlar birimler olarak adlandırılmıştır. 
-2. Dersler: Üniversitenin tüm birimlerinde tanımlı ve bölümlerin ders planlarında yer alan dersler.
-3. Kullanıcılar (öğrenci, öğretim elemanları, herkes): Üniversitede ders veren öğretim elemanları ve kayıtlı öğrenciler. İstenirse dışarıdan davetli de derse katılabilir, bunun için bireysel olarak kullanıcı eklenmesi gerekmektedir. 
-4. Ders programları: Üniversite bölümlerinin haftalık ders programları. Ders programlarının sanal ders programı ile aynı olması gerekmez. Sisteme örgün bir program girilebilir, sanal dersler bu programa uygun veya farklı yerlerde icra edilebilir.
-5. Ders katılımcıları: Sanal derslere tanımlanan kullanıclar.
+Üniversite Yönetim Sistemlerinde var olan bazı verilerin UZEP'e aktarılması gerekmektedir. 
 
 Veri aktarımı ile ilgili detaylara erişmek için <a href="/veriAktarim.html">tıklayınız</a>.
 
