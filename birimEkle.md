@@ -9,7 +9,7 @@ Yönetici rolüne sahip kişiler aşağıdaki adımları takip ederek UZEP'e bir
 1. Menüden **Birimler** seçilir.
 2. Sağ üst köşedeki **Yeni Birim** butonu tıklanır.
 3. Açılan pencerde:
-- Fakülte (String yapısında olup ayırdedici olmalı),
+- Fakülte (Fakülte, MYO veya Enstitü adı. String yapısında olup ayırdedici olmalı),
 - Birim (Bölüm veya program adı olabilir),
 - Dış Sistem Id (Tamsayı) bilgileri girilir ve **Ekle** butonuna basılır.
 Birim UZEP'e eklenmiştir.
