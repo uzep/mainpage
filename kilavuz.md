@@ -51,7 +51,7 @@ Sisteme veri aktarımı yoluyla üniversitedeki tüm birimler tanımlanabilir, b
 
 Birim ekleme ile ilgili yardım kılavuzuna erişmek için <a href="/birimEkle.html">tıklayınız</a>.
 
-**8. [Ders ekleme (Yönetici)](/dersEkle.html):**
+**9. [Ders ekleme (Yönetici)](/dersEkle.html):**
 
 Sisteme veri aktarımı yoluyla üniversitedeki tüm dersler tanımlanabilir. Bunun dışında tekil olarak eklemek ve silmek de mümkündür.
 
