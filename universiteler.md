@@ -6,6 +6,7 @@ author: ozmen
 
 <br>
 <table class="unv">
+  <br><br>
   <tr>
     <th style="background-color: #0020C2; border: 10px solid #FFFFFF"><a href="https://test.uzep.org">SAKARYA ÜNİVERSİTESİ</a></th>
     <th style="background-color: #488AC7; border: 10px solid #FFFFFF"><a href="https://uzep.org">AĞRI İBRAHİM ÇEÇEN ÜNİVERSİTESİ</a></th>
