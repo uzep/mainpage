@@ -3,6 +3,8 @@ layaout: default
 title: Birim Ekle
 author: ozmen
 ---
+# UZEP'e birim/bölüm eklemek
+
 Yönetici rolüne sahip kişiler aşağıdaki adımları takip ederek UZEP'e birim (Fakülte, Bölüm veya Program) ekleyebilir, silebilir veya kayıtları düzenleyebilir. 
 
 **İşlemler (Aşağıdaki işlemleri sadece yönetici rolünde olanlar yapabilir):**

@@ -63,11 +63,11 @@ Veri aktarımı yoluyla topluca haftalık ders programı girme dışında manuel
 
 Ders takvimi ekleme ile ilgili yardım kılavuzuna erişmek için <a href="/dersTakvim.html">tıklayınız</a>.
 
-**11. [Ders-kullanıcı ilişkilendirme (Yönetici)](/dersKullaniciEkle.html):**
+**11. [Ders-kullanıcı ilişkilendirme (Yönetici)](/dersKullanici.html):**
 
 Sistemde tanımlı dersler ile kullanıcıların topluca ilşkilendirilmesi yanında bireysel olarak da bir kullanıcıyı dersleri ile ilişkilendirmek mümkündür.
 
-Ders-kullanıcı ilişkilendirme ile ilgili yardım kılavuzuna erişmek için <a href="/dersKullaniciEkle.html">tıklayınız</a>. 
+Ders-kullanıcı ilişkilendirme ile ilgili yardım kılavuzuna erişmek için <a href="/dersKullanici.html">tıklayınız</a>. 
 
 **12. [Veri aktarımı (Yönetici)](/veriAktarim.html):**
 

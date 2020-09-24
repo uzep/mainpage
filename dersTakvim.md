@@ -3,6 +3,9 @@ layaout: default
 title: Ders Takvimi
 author: ozmen
 ---
+
+# UZEP'e takvim eklemek
+
 Yönetici rolüne sahip kişiler aşağıdaki adımları takip ederek bir alt dersin **Takvim**ini girebilir veya düzenleyebilir. 
 
 **İşlemler (Aşağıdaki işlemleri sadece yönetici rolünde olanlar yapabilir):**
