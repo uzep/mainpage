@@ -12,8 +12,8 @@ Yönetici rolüne sahip kişiler aşağıdaki adımları takip ederek bir derse 
 2. Açılan sayfada o derse kayıtlı öğretim elemanları ve öğrenciler görülür.
 3. Sağ üst köşede "Yeni Kullanıcı" butonu tıklanır.
 4. Açılan pencerede aşağıdaki veriler girilir:
-- Kullanıcı adı (user name),
-- Kullanıcı tipi (öğretici veya öğrenci).
+- **Kullanıcı adı** (user name),
+- **Kullanıcı tipi** (öğretici veya öğrenci) (Bkz. Şekil 2).
 
 <img style="border:1px solid black" src="assets/images/dersKullanici1.png"/>
 <p style="text-align: center;">Şekil 1. Alt derse kullanıcı ekleme. </p>
