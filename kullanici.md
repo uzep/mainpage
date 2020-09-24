@@ -11,9 +11,10 @@ Yönetici rolüne sahip kişiler aşağıdaki adımları takip ederek UZEP'e kul
 - TC No,
 - Eposta,
 - Kullanıcı adı,
-- Geçici şifre bilgileri girilir ve **Ekle** butonuna basılır.
+- Geçici şifre,
+- Rol bilgileri girilir ve **Ekle** butonuna basılır.
 
 Kullanıcı UZEP'e eklenmiştir.
 
-<img style="border:1px solid black" src="assets/images/kullanici.png"/>
+<img style="border:1px solid black" src="assets/images/kullaniciEkle.png"/>
 <p style="text-align: center;">Şekil 1. Yeni kullanıcı ekleme ekranı. </p>
