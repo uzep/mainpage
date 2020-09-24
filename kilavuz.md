@@ -39,13 +39,43 @@ UZEP üzerinden her türlü (doc, pdf, ppt, mp4 vb.) dijital materyal paylaşım
 
 Materyal paylaşımı ile ilgili yardım kılavuzuna erişmek için <a href="/materyal.html">tıklayınız</a>.
 
-**7. [Veri aktarımı (Yönetici)](/veriAktarim.html):**
+**7. [Kullanıcı ekleme (Yönetici)](/kullaniciEkle.html):**
+
+Sisteme veri aktarımı yoluyla topluca tanımlamalar dışında tekil kullanıcılar da eklenebilir.
+
+Kullanıcı ekleme ile ilgili yardım kılavuzuna erişmek için <a href="/kullaniciEkle.html">tıklayınız</a>.
+
+**8. [Birim ekleme (Yönetici)](/birimEkle.html):**
+
+Sisteme veri aktarımı yoluyla üniversitedeki tüm birimler tanımlanabilir, bunun dışında tekil kullanıcılar sonradan da eklenebilir.
+
+Birim ekleme ile ilgili yardım kılavuzuna erişmek için <a href="/birimEkle.html">tıklayınız</a>.
+
+**8. [Ders ekleme (Yönetici)](/dersEkle.html):**
+
+Sisteme veri aktarımı yoluyla üniversitedeki tüm dersler tanımlanabilir. Bunun dışında tekil olarak eklemek ve silmek de mümkündür.
+
+Ders ekleme ile ilgili yardım kılavuzuna erişmek için <a href="/dersEkle.html">tıklayınız</a>.
+
+**10. [Ders takvimi girme (Yönetici)](/dersTakvim.html):**
+
+Veri aktarımı yoluyla topluca haftalık ders programı girme dışında manuel olarak da ders takvimi girilebilir.
+
+Ders takvimi ekleme ile ilgili yardım kılavuzuna erişmek için <a href="/dersTakvim.html">tıklayınız</a>.
+
+**11. [Ders-kullanıcı ilişkilendirme (Yönetici)](/dersKullaniciEkle.html):**
+
+Sistemde tanımlı dersler ile kullanıcıların topluca ilşkilendirilmesi yanında bireysel olarak da bir kullanıcıyı dersleri ile ilişkilendirmek mümkündür.
+
+Ders-kullanıcı ilişkilendirme ile ilgili yardım kılavuzuna erişmek için <a href="/dersKullaniciEkle.html">tıklayınız</a>. 
+
+**12. [Veri aktarımı (Yönetici)](/veriAktarim.html):**
 
 Üniversite Yönetim Sistemlerinde var olan bazı verilerin UZEP'e aktarılması gerekmektedir. 
 
 Veri aktarımı ile ilgili detaylara erişmek için <a href="/veriAktarim.html">tıklayınız</a>.
 
-**8. [Raporlama (Yönetici, Öğretim Elemanı)](/rapor.html):**
+**13. [Raporlama (Yönetici, Öğretim Elemanı)](/rapor.html):**
 
 UZEP hem yöneticiler ve hem de öğretim elemanları için sistem üzerinde yürütülen faaliyetlerle, kaynakların durumu ile ilgili çeşitli raporlar üretmektedir. Raporların bir kısmına sadece yöneticiler ulaşabilir, diğer bir kısmına ise ders öğretim elemanları erişebilmektedir.
 
