@@ -39,11 +39,11 @@ UZEP üzerinden her türlü (doc, pdf, ppt, mp4 vb.) dijital materyal paylaşım
 
 Materyal paylaşımı ile ilgili yardım kılavuzuna erişmek için <a href="/materyal.html">tıklayınız</a>.
 
-**7. [Kullanıcı ekleme (Yönetici)](/kullaniciEkle.html):**
+**7. [Kullanıcı ekleme (Yönetici)](/kullanici.html):**
 
-Sisteme veri aktarımı yoluyla topluca tanımlamalar dışında tekil kullanıcılar da eklenebilir.
+Sisteme veri aktarımı yoluyla topluca kullanıcı tanımlamaları yapılabilir. Bunun dışında tekil kullanıcılar da eklenebilir veya kullanıcı kayıtları düzenlenebilir. Kullanıcı kayıtları içinde sadece **kullanıcı adı** değiştirilemez. Kullanıcı adı değiştirilmesi gerekiyorsa, silinir ve yeni kullanıcı oluşturulur.
 
-Kullanıcı ekleme ile ilgili yardım kılavuzuna erişmek için <a href="/kullaniciEkle.html">tıklayınız</a>.
+Kullanıcı ekleme ile ilgili yardım kılavuzuna erişmek için <a href="/kullanici.html">tıklayınız</a>.
 
 **8. [Birim ekleme (Yönetici)](/birimEkle.html):**
 
