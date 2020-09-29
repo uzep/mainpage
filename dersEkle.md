@@ -33,3 +33,4 @@ Baz dersin altına şube ders eklemek için baz derslerin görüldüğü sayfada
 - **Birim** bilgileri girilir ve **Ekle** butonuna basılır.
 
 <img style="border:1px solid black" src="assets/images/dersEkle.png"/>
+<p style="text-align: center;">Şekil 2. "Katı Atıklar ve Kontrolü" baz dersine yeni alt ders ekleme ekranı. </p>
