@@ -16,7 +16,7 @@ UZEP'e giriş ve çıkış işlemlerinin anlatıldığı videoya erişmek için 
 
 **2. [Dersler](/dersler.html):**
 
-UZEP'e öğretim elemanı rolü ile giriş yapıldığında menüde **Dersler** ve **Takvim** görülür. Ön tanımlı olarak **Dersler** menüsü seçilmiştir ve ana çerçevede öğretim elemanının yürüteceği dersler ve detayları (dersin kodu, adı, Fakülte/MYO ve Bölüm bilgileri) görülür. Bir ders seçilip tıklandığında, sol üst köşede ders tanıtım bilgileri (Dersin adı, bölümü, öğretim elemanlarının adları) görülür. Ders bilgileri altında **Takvim** bölümü yer alır. Burada henüz vakti gelmemiş ve tamamlanmış sanal sınıflar görülür. Sayfa üzerindeki butonlar kullanılarak canlı derse katılabilir veya tekrar izleme yapılabilir.  
+UZEP'e öğretim elemanı rolü ile giriş yapıldığında menüde **Dersler**, **Takvim** ve **Yardım** görülür. Ön tanımlı olarak **Dersler** menüsü seçilmiştir ve ana çerçevede öğretim elemanının yürüteceği dersler ve detayları (dersin kodu, adı, Fakülte/MYO ve Bölüm bilgileri) görülür. Bir ders seçilip tıklandığında, sol üst köşede ders tanıtım bilgileri (Dersin adı, bölümü, öğretim elemanlarının adları) görülür. Ders bilgileri altında **Takvim** bölümü yer alır. Burada henüz vakti gelmemiş ve tamamlanmış sanal sınıflar görülür. Sayfa üzerindeki butonlar kullanılarak canlı derse katılabilir veya tekrar izleme yapılabilir.  
 
 Ders detaylarının anlatıldığı kılavuz için <a href="/dersler.html">tıklayınız</a>.
 
