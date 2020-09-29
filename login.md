@@ -5,12 +5,12 @@ author: ozmen
 ---
 # UZEP Login / Logout
 
-UZEP'e sıkça kullanılan Chrome, Firefox, Opera, Safari gibi web tarayıcıları ile girilebilir. UZEP'e cep telefonundaki tarayıcılardan da girilebilir.  
+UZEP'e sıkça kullanılan Chrome, Firefox, Opera, Safari gibi web tarayıcıları ile girilebilir. UZEP'e cep telefonlarındaki tarayıcılardan da girilebilir. Ayrıca E-devlet entegrasyonu yapıldıysa, E-devlet arayüzünden de giriş yapılabilir.  
 
 <img style="border:1px solid black" src="assets/images/login.png" height="400"/> 
 <p style="text-align: center;">Şekil 1. UZEP login sayfası. </p>
 
-1. Web tarayıcısı adres çubuğuna _https://\*.uzep.org_ yazılır. '\*' yerine üniversitenin kısa adı yazılmalıdır, örneğin "Sakarya Üniversitesi" için _"https://sakarya.uzep.org"_ gibi.
+1. Web tarayıcısı adres çubuğuna _https://uzep.\*.edu.tr_ yazılır. '\*' yerine üniversitenin alan adını tamamlayıcı kelime yazılmalıdır, örneğin "Sakarya Üniversitesi" için _"https://uzep.sakarya.edu.tr"_ gibi.
 2. Açılan sayfada **Kullanıcı adı** yerine tanımlı kullanıcı adı girilir. Genel olarak üniversite bilgi sistemine kayıtlı kullanıcı adı UZEP için de tanımlanmaktadır. Kullanıcı adı büyük/küçük harf duyarlıdır.
 3. **Şifre** penceresine tanımlı şifrenizi girebilirsiniz Sistem tarafından tanımlı şifreler ilk girişte değiştirilmelidir.
 4. **Giriş Yap** butonuna basılarak giriş yapılır.
