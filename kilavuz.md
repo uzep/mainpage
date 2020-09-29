@@ -8,7 +8,11 @@ author: ozmen
 
 **1. [Sisteme giriş/çıkış](/login.html):**
 
-Öğrenciler, öğretim elemanları ve diğer yönetici düzeyindeki kullanıcıların sisteme giriş/çıkış yapabilmeleri için UZEP üzerinde hesap açılması gerekmektedir. Kullanıcı hesapları topluca açılabileceği gibi tekil olarak da açılabilir ve silinebilir (tek kullanıcı eklemek için <a href="/kullanici.html">tıklayınız</a>). Her kullanıcı sisteme tanımlandığında bir rol ile ilişkilendirilir, kullanıcı sisteme giriş yaptığında tanımlı rolüne uygun olarak sistem üzerindeki sayfalara, verilere erişebilir. Kullanıcıların rol değişim işlemleri sistem yöneticileri tarafından yapılabilmektedir. UZEP'e giriş ve çıkış işlemlerinin anlatıldığı kılavuza erişmek için <a href="/login.html">tıklayınız</a>.
+Öğrenciler, öğretim elemanları ve diğer yönetici düzeyindeki kullanıcıların sisteme giriş/çıkış yapabilmeleri için UZEP üzerinde hesap açılması gerekmektedir. Kullanıcı hesapları topluca açılabileceği gibi tekil olarak da açılabilir ve silinebilir (tek kullanıcı eklemek için <a href="/kullanici.html">tıklayınız</a>). Her kullanıcı sisteme tanımlandığında bir rol ile ilişkilendirilir, kullanıcı sisteme giriş yaptığında tanımlı rolüne uygun olarak sistem üzerindeki sayfalara, verilere erişebilir. Kullanıcıların rol değişim işlemleri sistem yöneticileri tarafından yapılabilmektedir. 
+
+UZEP'e giriş ve çıkış işlemlerinin anlatıldığı kılavuza erişmek için <a href="/login.html">tıklayınız</a>.
+
+UZEP'e giriş ve çıkış işlemlerinin anlatıldığı videoya erişmek için <a href="https://drive.google.com/drive/folders/1KmukwuqQWW4wMhZd5h8eooQ-h08v8ZJH">tıklayınız</a>.
 
 **2. [Dersler](/dersler.html):**
 
