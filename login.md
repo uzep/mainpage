@@ -5,7 +5,7 @@ author: ozmen
 ---
 # UZEP Login / Logout
 
-UZEP'e sıkça kullanılan Chrome, Firefox, Opera, Safari gibi web tarayıcıları ile girilebilir. UZEP'e cep telefonlarındaki tarayıcılardan da girilebilir. Ayrıca E-devlet entegrasyonu yapıldıysa, E-devlet arayüzünden de giriş yapılabilir.  
+UZEP'e sıkça kullanılan Chrome, Firefox, Opera, Safari gibi web tarayıcıları ile girilebilir. UZEP'e cep telefonlarındaki tarayıcılardan da girilebilir. Ayrıca **E-devlet**entegrasyonu yapıldıysa, **E-devlet** arayüzünden de giriş yapılabilir.  
 
 <img style="border:1px solid black" src="assets/images/login.png" height="400"/> 
 <p style="text-align: center;">Şekil 1. UZEP login sayfası. </p>
