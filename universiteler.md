@@ -8,7 +8,7 @@ author: ozmen
 <table class="unv">
   <br><br>
   <tr>
-    <th style="background-color: #0020C2; border: 10px solid #FFFFFF"><a href="https://test.uzep.org">SAKARYA ÜNİVERSİTESİ</a></th>
+    <th style="background-color: #0020C2; border: 10px solid #FFFFFF"><a href="https://uzep.sakarya.edu.tr">SAKARYA ÜNİVERSİTESİ</a></th>
     <th style="background-color: #488AC7; border: 10px solid #FFFFFF"><a href="https://uzep.agri.edu.tr">AĞRI İBRAHİM ÇEÇEN ÜNİVERSİTESİ</a></th>
     <th style="background-color: #008080; border: 10px solid #FFFFFF"><a href="https://uzep.artvin.edu.tr">ARTVİN ÇORUH ÜNİVERSİTESİ</a></th>
     <th style="background-color: #3B9C9C; border: 10px solid #FFFFFF"><a href="https://uzep.batman.edu.tr">BATMAN ÜNİVERSİTESİ</a></th>
