@@ -19,10 +19,7 @@ Sorun bildir sistemi github üzerinde yapılandırılmıştır. Sorun-bildir sis
 6. **Submit new issue** (metin yazılan yerin altında yeşil bir buton) butonu ile sorun bildirme tamamlanmış olur (Bkz. Şekil 1).
 7. Girilen sorunu UZEP geliştiricileri görürler. Bildirilen sorun UZEP ekibinden kimin alanına giriyorsa, **hata** veya **iyileştirme önerisi** gibi türünü de etiketleyerek kendi üzerine alır. Sorun bildiren kişi, kimin çözüm için çalıştığını sistem üzerinden görebilir. 
 8. Bildirilen sorun çözüldüğünde süreç sisteme kayıtlı herkes tarafından görülebilir (Bkz. Şekil 2).  
-<!--
-<br><img style="border:1px solid black" src="assets/images/issueTracker1.png"/>
-<p style="text-align: center;">Şekil 1. Sorun bildirme işlemi başlangıcı. </p>
--->
+
 <br><img style="border:1px solid black" src="assets/images/issueTracker2.png"/>
 <p style="text-align: center;">Şekil 1. Sorun bildir sistemine mesaj, resim giriş arayüzü. </p>
 
