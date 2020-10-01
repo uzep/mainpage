@@ -7,7 +7,24 @@ author: ozmen
 
 UZEP hakkında sıkçça sorulan sorular ve cevapları burada derlenmiştir.
 
-**1. Excel ile veri yüklerken başarısız oldum.**
+
+**1. Sorun-bildir (issue-tracker) nasıl kullanılır?**
+
+Sorun bildir sistemi github üzerinde yapılandırılmıştır. Sorun-bildir sisteme tanımlı **yöneticiler** "https://github.com/uzep/takip" adresine girerek sorun bildirebilirler, sorunun giderilmes sürecini izleyebilirler. Sorun bildirmek için aşağıdaki adımlar takip edilmelidir:
+1. Herhangi bir web tarayıcısı ile "https://github.com/uzep/takip" adersine girilir.
+2. Açılan sayfada menüden **issues** sekmesi tıklanır.
+3. Sağ üst tarafta **New issue** (yeşil bir buton) tıklanır (Bkz. Şekil 1)
+4. Açılan pencerede iki kısım vardır. **Title** kısmına sorunun adı veya kısaca tanımı yazılır. **Write** sekmesi altındaki pencereye de sorunun detaylı tarifi yazılır. Metin yazdığınız kutu üzerine dosya sürükleyerek ekleme yapabilirsiniz. Bu dosya resim dosyası olabileceği gibi başka türden dosyalar da olabilir. 
+5. **Preview** sekmesi ile yazdığınız metnin (ve resim dosyası yüklediyseniz) nasıl görüneceğine bakabilirsiniz.
+6. **Submit new issue** (metin yazılan yerin altında yeşil bir buton) butonu ile sorun bildirme tamamlanmış olur (Bkz. Şekil 2).
+
+<br><img style="border:1px solid black" src="assets/images/issueTracker1.png"/>
+<p style="text-align: center;">Şekil 1. Sorun bildirme işlemi başlangıcı. </p>
+
+<br><img style="border:1px solid black" src="assets/images/issueTracker2.png"/>
+<p style="text-align: center;">Şekil 2. Sorun bildir sistemine mesaj, resim giriş arayüzü. </p>
+
+**2. Excel ile veri yüklerken başarısız oldum.**
 
 UZEP'e Excel dosyaları ile veri yüklerken sistemden indirilen Excel dosyaları kullanılmalı ve ilk satı muhafaza edilmelidir. Dosyaya farklı yerlerden veri kopyalarken biçim bilgisi kopyalanmamalıdır. Koyalama sonrasında hücrelerin biçim bilgisi silinmelidir. 
 
