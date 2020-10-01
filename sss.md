@@ -27,7 +27,7 @@ Sorun bildir sistemi github üzerinde yapılandırılmıştır. Sorun-bildir sis
 <p style="text-align: center;">Şekil 2. Sorun bildir sistemine mesaj, resim giriş arayüzü. </p>
 
 <br><img style="border:1px solid black" src="assets/images/issueTracker3.png"/>
-<p style="text-align: center;">Şekil 3. Tamamlanmış bir sorun-bildir süreci. Örnek olarak "osmantuna" kullanıcısı tarafından sorun bildirilmiş, listede ikinci sorun "hata (bug)" olarak etiketlenmiş ve **Assignee** kısmında kim tarafından çözülmüş olduğu görülüyor. </p>
+<p style="text-align: center;">Şekil 3. Tamamlanmış bir sorun-bildir süreci. Örnek olarak "osmantuna" kullanıcısı tarafından sorun bildirilmiş, listede ikinci sorun "hata (bug)" olarak etiketlenmiş ve "Assignee" kısmında kim tarafından çözülmüş olduğu görülüyor. </p>
 
 
 
