@@ -10,7 +10,7 @@ UZEP hakkında sıkçça sorulan sorular ve cevapları burada derlenmiştir.
 
 **1. Sorun-bildir (issue-tracker) nasıl kullanılır?**
 
-Sorun bildir sistemi github üzerinde yapılandırılmıştır. Sorun-bildir sisteme tanımlı **yöneticiler** "https://github.com/uzep/takip" adresine girerek sorun bildirebilirler, sorunun giderilmes sürecini izleyebilirler. Sorun bildirmek için aşağıdaki adımlar takip edilmelidir:
+Sorun bildir sistemi github üzerinde yapılandırılmıştır. Sorun-bildir sisteme tanımlı **yöneticiler** [https://github.com/uzep/takip](https://github.com/uzep/takip) adresine girerek sorun bildirebilirler, sorunun giderilmes sürecini izleyebilirler. Sorun bildirmek için aşağıdaki adımlar takip edilmelidir:
 1. Herhangi bir web tarayıcısı ile "https://github.com/uzep/takip" adersine girilir.
 2. Açılan sayfada menüden **issues** sekmesi tıklanır.
 3. Sağ üst tarafta **New issue** (yeşil bir buton) tıklanır (Bkz. Şekil 1)
