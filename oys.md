@@ -16,7 +16,7 @@ Her iki yöntemde de üniversitelerimizin hassas verileri hiçbir süretle yaban
 
 Veri aktarım kılavuzu için [tıklayınız.](/veriAktarim.html).<br>
 
-[![Veri aktarım yardım videosu](http://img.youtube.com/vi/kZTF7wIykk4/0.jpg)](http://www.youtube.com/watch?v=kZTF7wIykk4)<br>
+[![Veri aktarım yardım videosu](http://img.youtube.com/vi/kZTF7wIykk4/0.jpg)](https://www.youtube.com/watch?v=IGX8_7mBlpY&list=PLrX4FlRljtXNG8PJSkIdddhN466QjaXRW&index=7)<br>
 
 ### Haftalık sanal sınıfların oluşturulması:
 Haftalık sanal sınıf programları oluşturulmadan önce, sanal derslerin tüm üniversite içinde günlere ve gün içindeki saatlere dengeli dağılmasının gözetilmesi faydalı olacaktır. Sanal sınıflar merkezden UZEM tarafından haftalık olacak şekilde tüm üniversite için hazırlanabileceği gibi her bir öğretim elemanı kendi dersi için sistem üzerinden sanal sınıf oluşturabilecektir. Sanal sınıflar, ekran paylaşımı, uygulama pencersinin paylaşımı veya beyaz tahta paylaşımı şeklinde yürütülebilmektedir. 

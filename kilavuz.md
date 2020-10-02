@@ -12,7 +12,7 @@ author: ozmen
 
 UZEP'e giriş ve çıkış işlemlerinin anlatıldığı kılavuza erişmek için <a href="/login.html">tıklayınız</a>.
 
-UZEP'e giriş ve çıkış işlemlerinin anlatıldığı videoya erişmek için <a href="https://drive.google.com/drive/folders/1KmukwuqQWW4wMhZd5h8eooQ-h08v8ZJH">tıklayınız</a>.
+[![UZEP'e giriş ve çıkış işlemlerinin anlatıldığı videosu](https://www.youtube.com/watch?v=Hb_HU_qcjxc&list=PLrX4FlRljtXNG8PJSkIdddhN466QjaXRW&index=1)<br>
 
 **2. [Dersler](/dersler.html):**
 
