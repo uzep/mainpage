@@ -5,7 +5,7 @@ author: ozmen
 ---
 # UZEP Kullanım Kılavuzları
 
-Bu sayfa dinamik olarak sürekli güncellenerek yeni bilgiler, kılavuzlar ve yardım videoları eklenmektedir. Bu sayfadaki linkler tüm rollere hitap etmektedir, özel olarak sadece bir role hitap eden açıklamlar başlık kısmında parantez içinde belirtilmiştir. 
+Bu sayfa dinamik olarak sürekli güncellenerek yeni bilgiler, kılavuzlar ve yardım videoları eklenmektedir. Bu sayfadaki linkler tüm rollere hitap etmektedir, özel olarak sadece bir role hitap eden açıklamalar başlık kısmında parantez içinde belirtilmiştir. 
 
 Öğrenciler için hazırlanmış ve UZEP kullanımı ile ilgili temel öğelerin yer aldığı PDF kılavuzlara ise aşağıdaki linklerden erişilebilir:  
 
