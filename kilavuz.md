@@ -3,7 +3,6 @@ layout: default
 title: Uzaktan Eğitim Platformu (UZEP)
 author: ozmen
 ---
-
 # UZEP Kullanım Kılavuzları
 
 **1. [Sisteme giriş/çıkış](/login.html):**

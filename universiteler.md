@@ -3,7 +3,6 @@ layaout: default
 title: Üniversiteler
 author: ozmen
 ---
-
 <br>
 <table class="unv">
   <br><br>
