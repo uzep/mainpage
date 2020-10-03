@@ -1,6 +1,6 @@
 ---
 layaout: default
-title: Video
+title: SSS
 author: ozmen
 ---
 # UZEP Sıkça Sorulan Sorular

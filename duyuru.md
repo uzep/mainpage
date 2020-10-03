@@ -1,6 +1,6 @@
 ---
 layaout: default
-title: About
+title: Duyurular
 author: ozmen
 ---
 # Duyuru Modülü

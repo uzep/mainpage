@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Öğrenme Yönetim Sistemi
+title: Öğrenme Yönetim Sistemi (ÖYS)
 author: ozmen
 ---
 
