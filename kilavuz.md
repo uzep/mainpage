@@ -9,8 +9,8 @@ Bu sayfa dinamik olarak sürekli güncellenerek yeni bilgiler, kılavuzlar ve ya
 
 Öğrenciler için hazırlanmış ve UZEP kullanımı ile ilgili temel öğelerin yer aldığı PDF kılavuzlara ise aşağıdaki linklerden erişilebilir:  
 
-PDF biçiminde hazırlanmış öğrenci kılavuzu için [tıklayınız.](assets/files/pdf/Ogr_Manual.pdf)<br>
-PDF biçiminde hazırlanmış sanal sınıf kılavuzu için [tıklayınız.](assets/files/pdf/SS_Manual.pdf)
+PDF biçiminde hazırlanmış UZEP öğrenci kılavuzu için [tıklayınız.](assets/files/pdf/Ogr_Manual.pdf)<br>
+PDF biçiminde hazırlanmış öğrenci/öğretim elemanı sanal sınıf kılavuzu için [tıklayınız.](assets/files/pdf/SS_Manual.pdf)
 
 
 **1. [UZEP'e giriş ve çıkış](/login.html):**
