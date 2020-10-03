@@ -3,7 +3,7 @@ layaout: default
 title: Sorun-bildir
 author: ozmen
 ---
-# Sorun-bildir (issue-tracker) nasıl kullanılır?**
+# Sorun-bildir nasıl kullanılır?**
 
 Sorun bildir sistemi github üzerinde yapılandırılmıştır. Sorun-bildir sisteme tanımlı **yöneticiler** [https://github.com/uzep/takip](https://github.com/uzep/takip) adresine girerek sorun bildirebilirler, sorunun giderilmes sürecini izleyebilirler. Sorun bildirmek için aşağıdaki adımlar takip edilmelidir:
 1. Herhangi bir web tarayıcısı ile "https://github.com/uzep/takip" adresine kullanıcı adı ve şifre ile giriş yapılır.
