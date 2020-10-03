@@ -9,8 +9,8 @@ Bu sayfa dinamik olarak sürekli güncellenerek yeni bilgiler, kılavuzlar ve ya
 
 **PDF kılavuzlar:** Öğrenciler ve öğretim elemanları için hazırlanmış _UZEP_ ve _Sanal Sınıf Kılavuzlarına_ aşağıdaki linklerden erişilebilir:  
 
-- Öğrenciler için hazırlanmış **UZEP Kılavuzu** için [tıklayınız.](assets/files/pdf/Ogr_Manual.pdf)<br>
-- Öğrenci/öğretim elemanları için hazırlanmış **Sanal Sınıf Kılavuzu** için [tıklayınız.](assets/files/pdf/SS_Manual.pdf)
+- Öğrenciler için hazırlanmış pdf **UZEP Kılavuzu** için [tıklayınız.](assets/files/pdf/Ogr_Manual.pdf)<br>
+- Öğrenci ve öğretim elemanları için hazırlanmış pdf **Sanal Sınıf Kılavuzu** için [tıklayınız.](assets/files/pdf/SS_Manual.pdf)
 
 
 **1. [UZEP'e giriş ve çıkış](/login.html):**
