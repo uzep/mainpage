@@ -20,7 +20,7 @@ Sorun bildir sistemi (issue-tracker) github üzerinde yapılandırılmıştır. 
 9. Kapatılmış süreçleri görmek için panelde "Closed" etiketi tıklanmalıdır. Aşağıdaki pencerede daha önce çözülmüş problemler ve detayları görülebilir (Bkz. Şekil 2).  
 
 <br><img style="border:1px solid black" src="assets/images/issueTracker2.png"/>
-<p style="text-align: center;">Şekil 1. Sorun bildir sistemine mesaj, resim giriş arayüzü. </p>
+<p style="text-align: center;">Şekil 1. Sorun bildirim arayüzü. Orta yerdeki mavi çerçeveli kısma mesaj girilebilir veya sürkleme yoluyla resim, dosya yüklenebilir. "Submit new issue" butonu (yeşil buton) tıklandığında sorun bildirimi yapılmış olur.</p>
 
 <br><img style="border:1px solid black" src="assets/images/issueTracker3.png"/>
 <p style="text-align: center;">Şekil 2. Tamamlanmış sorun-bildir süreçleri listesi. Bu arayüzden "New issue" butonu ile sorun bildirilebilir veya devam eden (Open), tamamlanmış bildirimler (Closed) görülebilir. Bildirimler listesinde kalın yazı (bold) ile sorunun kısa tanımı ile beraber etiketi, ikinci satırda ise bildirim anından şimdiye kadar geçen süre ve bildirenin kullanıcı adı görülür. "Assignee" kısmında ise sorunun kim tarafından ele alındığı görülür. </p>
