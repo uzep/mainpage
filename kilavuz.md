@@ -5,11 +5,11 @@ author: ozmen
 ---
 # UZEP Kullanım Kılavuzları
 
+Bu sayfa dinamik olarak sürekli güncellenerek yeni bilgiler, kılavuzlar ve yardım videoları eklenmektedir. Bu sayfadaki linkler tüm rollere hitap etmektedir, özel olarak sadece bir role hitap eden açıklamlar başlık kısmında parantez içinde belirtilmiştir. 
 
-UZEP kullanımı ile ilgili temel öğelerin yer aldığı PDF kılavuzlar aşağıdaki linklerden indirilebilir. Bunun yanında bu sayfa dinamik olarak sürekli güncellenerek yeni bilgiler eklenmektedir.
+Öğrenciler için hazırlanmış ve UZEP kullanımı ile ilgili temel öğelerin yer aldığı PDF kılavuzlara ise aşağıdaki linklerden erişilebilir:  
 
-PDF biçiminde hazırlanmış öğrenci kılavuzu için [tıklayınız.](assets/files/pdf/Ogr_Manual.pdf)
-
+PDF biçiminde hazırlanmış öğrenci kılavuzu için [tıklayınız.](assets/files/pdf/Ogr_Manual.pdf)<br>
 PDF biçiminde hazırlanmış sanal sınıf kılavuzu için [tıklayınız.](assets/files/pdf/SS_Manual.pdf)
 
 
