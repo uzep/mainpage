@@ -110,3 +110,9 @@ Veri aktarımı ile ilgili yardım videosu için [tıklayınız.](https://www.yo
 UZEP hem yöneticiler ve hem de öğretim elemanları için sistem üzerinde yürütülen faaliyetlerle, kaynakların durumu ile ilgili çeşitli raporlar üretmektedir. Raporların bir kısmına sadece yöneticiler ulaşabilir, diğer bir kısmına ise ders öğretim elemanları erişebilmektedir.
 
 Raporlar ile ilgili detaylara erişmek için <a href="/rapor.html">tıklayınız</a>.
+
+**14. [Sorun-bildir (Yönetici)](/sorunBildir.html):**
+
+ Tanımlı kişiler **"Sorun-Bildirim"** aracı ile UZEP geliştiricilerine bildirimde bulunabilir. Bu amaçla üniversitelerin yönetici rolüne sahip temsilcileri sisteme tanımlanmıştır. 
+
+ Sorun-bildir ile ilgili detaylara erişmek için <a href="/sorunBildir.html">tıklayınız</a>.
