@@ -23,4 +23,4 @@ Sorun bildir sistemi (issue-tracker) github üzerinde yapılandırılmıştır. 
 <p style="text-align: center;">Şekil 1. Sorun bildir sistemine mesaj, resim giriş arayüzü. </p>
 
 <br><img style="border:1px solid black" src="assets/images/issueTracker3.png"/>
-<p style="text-align: center;">Şekil 2. Tamamlanmış sorun-bildir süreçleri listesi. Bu arayüzden "New issue" butonu ile sorun bildirilebilir veya tamamlanmış bildirimler görülebilir. Bildirimler listesinde örnek olarak ikinci sorun "osmantuna" kullanıcısı tarafından bildirilmiş, "hata (bug)" olarak etiketlenmiş ve "Assignee" kısmında kim tarafından çözülmüş olduğu görülüyor. </p>
+<p style="text-align: center;">Şekil 2. Tamamlanmış sorun-bildir süreçleri listesi. Bu arayüzden "New issue" butonu ile sorun bildirilebilir veya devam eden (Open), tamamlanmış bildirimler (Closed) görülebilir. Bildirimler listesinde kalın yazı (bold) ile sorunun kısa tanımı ile beraber etiketi, ikinci satırda ise bildirim anından şimdiye kadar geçen süre ve bildirenin kullanıcı adı görülür. "Assignee" kısmında ise sorunun kim tarafından ele alındığı görülür. </p>
