@@ -39,6 +39,7 @@ Sanal sınıf oluşturma, silme ve güncelleme işlemlerinin anlatıldığı kı
 
 Sanal sınıf oluşturma ile ilgili yardım videosu için [tıklayınız.](https://www.youtube.com/watch?v=qzc9iMVMtq0&list=PLrX4FlRljtXPSl5vKxTHrkxvteyBC003s&index=3)
 
+
 **5. [Duyuru gönderme](/duyuru.html):**
 
 Öğretim elemanları veya sistem yöneticileri UZEP üzerinden öğrencilere duyuru gönderebilirler. Duyurular başlık ve gövdesi olan metin tabanlı mesajlardır. Duyurulara resim konulamaz. Öğrenciler güncel duyuralı genel ve ders duyurusu pencerelerinde sisteme ilk girdiklerinde başlık ve özet bilgi olarak görürler. Detaylarını görmek için üzerine tıklamaları yeterlidir. 
