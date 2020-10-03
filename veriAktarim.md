@@ -35,6 +35,6 @@ Aktarılacak verilerin biçimleri örnek olarak aşağıdaki şekillerde verilmi
 3. Üniveriste Yönetim Sisteminden indirdiğiniz verileri başka bir Excel sayfasında hazır edin.
 4. Hazır edilen sayfayı kontrol ettikten sonra (gerekiyorsa düzenleme yaparak) UZEP'ten indirilen sayfaya, kolonları gözeterek yapıştırın.
 5. Excel dosyayı **İçeri Aktar** butonunu kullanarak UZEP'e yükleyin.
-6. **Tümünü Sil** butonu kullanılarak herhangi bir bölümün verisi tamamen silinebilir. Bu buton eylemi geri alınamaz, bu nedenlekullanılmadan evvel mutlaka veriler yedeklenmelidir.
+6. **Tümünü Sil** butonu kullanılarak herhangi bir bölümün verisi tamamen silinebilir. Bu buton eylemi geri alınamaz, bu nedenle kullanılmadan evvel mutlaka veriler yedeklenmelidir.
 
 Tüm veriler aktarldığında UZEP dönem için kullanıma hazır olacaktır. Bu noktadan sonra tekil değişiklikler UZEP-Admin arayüzlerinden yapılabilir.
