@@ -3,7 +3,7 @@ layaout: default
 title: Veri Akatrımı
 author: ozmen
 ---
-# Veri aktarımı <blink> YENİ </blink>
+# Veri aktarımı
 
 Üniveriste Yönetim Sistemi'nden (ÜYS) veri aktarımı için iki yol bulunmaktadır. Bunlardan birisi ÜYS ile UZEP arasında yapılan protokol ile sağlanan web servislerini kullanmak, diğeri ise kayıtların ÜYS'den dosyaya (Excel) indirilip, gerekli düzenlemeleri yaptıktan sonra UZEP'e yüklemek şeklindedir. Bu dönem veri aktarımı için Excel dosya üzerinden transfer yöntemi kullanılacaktır. Sorunsuz bir veri aktarımı için Excel dosyalarındaki verilerin UZEP'in beklediği biçimde olması gerekmektedir. UZEP veri akatarımı kısmında örnek Excel dosyalar bulunmaktadır. Bu örnek dosyalar sistemin beklediği şekilde biçimlendirilmiştir, dolayısı ile önce bu dosyalar indirilmelidir. ÜYS'den başka Excel dosyalara indirilen verileri kopyalayarak ve kolonları dikkatlice gözeterek bu dosyalara yapıştırmak veri transferi için en uygun yol olacaktır.  
 
@@ -66,7 +66,7 @@ Aktarılacak verilerin biçimleri örnek olarak aşağıdaki şekillerde verilmi
 **Username:** Derse katılacak öğrencinin kullanıcı adı. <br>
 **CourseExternalId:** Dersin şube kodu. Şube ders ile ilgili açıklamalar yukarıda Şekil 2 nin altında var.<br>
 **EnumCourseUserType:** Derse katılan kişinin öğrenci veya öğretmen olduğu bilgisidir. 0: Öğretmen, 1: Öğrenci. <br>
-**MetaData:** Derse katılanlar ile ilgili ilave bilgi için kullanılmak üzere ayrılmış bir alan. Örneğin bir sanal sınıf iki şubenin birleştirilmesinden oluşturulabilir. Böyle bir durumda, derse katılan öğrencilerin nereden geldiklerini ayrıştırmak için kullanılabilir, yani öğrenci bölüm kodu burada kullanılabilir. Bu kısım tamamen serbest olarak kullanılabilir, Excel dosyada _sayı_ veya _metin_ biçiminde olabilir. <br><br>
+**MetaData:** Derse katılanlar ile ilgili ilave bilgi girişi için ayrılmış bir alandır. Örneğin bir sanal sınıf iki şubenin birleştirilmesinden oluşturulabilir. Böyle bir durumda, derse katılan öğrencilerin nereden geldiklerini ayrıştırmak için kullanılabilir, yani öğrenci bölüm kodu burada kullanılabilir. Bu kısım tamamen serbest olarak kullanılabilir, Excel dosyada _sayı_ veya _metin_ biçiminde olabilir. <br><br>
 
 **İki veya daha fazla şubenin birleştirilerek ders yürütülmesi:**
 
