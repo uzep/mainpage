@@ -49,15 +49,28 @@ Aktarılacak verilerin biçimleri örnek olarak aşağıdaki şekillerde verilmi
 **Name:** Kullanıcının ilk adı. İki isimli olanlar için iki kelime veya daha fazlası olabilir.<br>
 **Surname:** Kullanıcının soyadı.<br>
 **SocialNumber:** Kullancıının TC numarası veya herhangi bir numara girilebilir. Tekil olmak zorunda değildir.<br> 
-**Password:** Kullanıcıya verilen şifre. İlk kullanımda değişitirilir (değişitirilmelidir).
-**Role:** Kullanıcıya verilen rol.<br><br>
+**Password:** Kullanıcıya verilen şifre. İlk kullanımda değişitirilir (değişitirilmelidir).<br>
+**Role:** Kullanıcıya verilen rol. Sistemde tanımlı roller _Süper Yönetici_, _Yönetici_, _İstatistik Bilgi_, _Öğretim elemanı_ ve _Öğrenci_ şeklindedir. Arayüzler üzerinden kullanıcı tanımlandığında rolsüz olarak oluşmaktadır. Arayüz üzerinden tekil olarak tanımşanmış bir kullanıcının sistemden yararlanabilmesi için ayrıca rol tanımlanması gerekir.<br><br>
 
 <img style="border:1px solid black" src="assets/images/hprog.png" height="400"/> 
 <p style="text-align: center;">Şekil 4. Ders takvimi dosya biçimi (Haftalık ders programları). </p><br>
+
+**CourseExternalId:** Dersin şube kodu. Şube ders ile ilgili açıklamalar yukarıda Şekil 2 nin altında var.<br>
+**Start:** Dersin başlama tarihi ve zamanı.<br>
+**End:** Dersin bitiş tarihi ve zamanı.<br>
+**Username:** Dersin öğretim elemanı. Eğer dersi yürüten birden fazla öğretim elemanı varsa, ders için oluşturulan _Takvim_ satırları kopyalanıp aynı Excel dosyanın altına ilave edilir. İlave gelen satırlarda tek değişen kısım _Username_ kısmı olacaktır. Buraya ikinci öğretim elemanının kullanıcı adı yazılacaktır. Derse daha fazla öğretim elelmanı ilave edilecekse işlem her bir öğretim elemanı için tekrarlanır. Örneğin misafir bir öğretim elemanı sadece bir oturuma katılacaksa, bu dosyaya sadece bir satır ilave edilir.<br><br>
+
 <img style="border:1px solid black" src="assets/images/dersKullanici.png"/> 
 <p style="text-align: center;">Şekil 5. Ders katılımcıları dosyası biçimi (Derslere kaydolmuş öğrenciler veya öğretici olarak görevlendirilmiş öğretim elemanları). </p><br>
+
+**Username:** Derse katılacak öğrencinin kullanıcı adı. <br>
+**CourseExternalId:** Dersin şube kodu. Şube ders ile ilgili açıklamalar yukarıda Şekil 2 nin altında var.<br>
+**EnumCourseUserType:** Derse katılan kişinin öğrenci veya öğretmen olduğu bilgisidir. 0: Öğretmen, 1: Öğrenci. <br>
+**MetaData:** Derse katılanlar ile ilgili ilave bilgi için kullanılmak üzere ayrılmış bir alan. Örneğin bir sanal sınıf iki şubenin birleştirilmesinden oluşturulabilir. Böyle bir durumda, derse katılan öğrencilerin nereden geldiklerini ayrıştırmak için kullanılabilir, yani öğrenci bölüm kodu burada kullanılabilir. Bu kısım tamamen serbest olarak kullanılabilir, Excel dosyada _sayı_ veya _metin_ biçiminde olabilir. <br><br>
+
 <img style="border:1px solid black" src="assets/images/veriAktarim.png"/>  
 <p style="text-align: center;">Şekil 6. UZEP'e Excel dosya kullanarak veri aktarım arayüzü. </p>
+
 
 **İşlem basamakları:**
 1. Veri aktarımını doğru bir şekilde yapabilmek için UZEP arayüzündeki örnek dosyayı indirin.
