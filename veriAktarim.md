@@ -57,6 +57,8 @@ Aktarılacak verilerin biçimleri örnek olarak aşağıdaki şekillerde verilmi
 
 **Surname:** Kullanıcının soyadı.<br>
 
+**Email:** Kullanıcının email adresi. <br>
+
 **SocialNumber:** Kullancıının TC numarası veya herhangi bir numara girilebilir. Tekil olmak zorunda değildir.<br> 
 
 **Password:** Kullanıcıya verilen geçici şifredir, ilk girişte kullanıcı tarafından değişitirilmelidir (sistem değişim için uyarı mesajı verir).<br>
