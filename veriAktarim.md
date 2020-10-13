@@ -68,7 +68,7 @@ Aktarılacak verilerin biçimleri örnek olarak aşağıdaki şekillerde verilmi
 **EnumCourseUserType:** Derse katılan kişinin öğrenci veya öğretmen olduğu bilgisidir. 0: Öğretmen, 1: Öğrenci. <br>
 **MetaData:** Derse katılanlar ile ilgili ilave bilgi girişi için ayrılmış bir alandır. Örneğin bir sanal sınıf iki şubenin birleştirilmesinden oluşturulabilir. Böyle bir durumda, derse katılan öğrencilerin nereden geldiklerini ayrıştırmak için kullanılabilir, yani öğrenci bölüm kodu burada kullanılabilir. Bu kısım tamamen serbest olarak kullanılabilir, Excel dosyada _sayı_ veya _metin_ biçiminde olabilir. <br><br>
 
-**İki veya daha fazla şubenin birleştirilerek ders yürütülmesi:**
+**İki veya daha fazla şubenin birleştirilmesi:**
 
 İki veya daha fazla ders içindeki öğrenciler tek bir sanal sınıfta ders yapmak istiyorsa aşağıdaki işlemleri yapmalısınız:
 1. Birleştirilecek dersler için aynı baz ders altında yeni bir şube ders oluşturun. Birleştirilmesi planlanan dersler farklı baz dersler altında ise, her hangi bir baz ders altında yeni bir şube ders oluşturun.
