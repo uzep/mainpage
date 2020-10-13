@@ -76,7 +76,7 @@ Aktarılacak verilerin biçimleri örnek olarak aşağıdaki şekillerde verilmi
 
 **End:** Sanal dersin bitiş tarihi ve zamanıdır.<br>
 
-**Username:** Dersin öğretim elemanıdır. Eğer dersi yürüten birden fazla öğretim elemanı varsa, ders için oluşturulan _Takvim_ satırları kopyalanıp aynı Excel dosyanın altına ilave edilmelidir. Kopyalanan satırlarda tek değişen kısım _Username_ kısmı olacaktır. Buraya ikinci öğretim elemanının kullanıcı adı yazılmalıdır. Derse daha fazla öğretim elelmanı ilave edilecekse işlem her bir öğretim elemanı için tekrarlanmalıdır. Örneğin misafir bir öğretim elemanı sadece bir oturuma katılacaksa, o durumda bu dosyaya sadece bir satır ilave edilmelidir.<br><br>
+**Username:** Dersin öğretim elemanıdır. Eğer dersi yürüten birden fazla öğretim elemanı varsa, ders için oluşturulan _Takvim_ satırları kopyalanıp aynı Excel dosyanın altına ilave edilmelidir. Kopyalanan satırlarda tek değişen kısım _Username_ kısmı olacaktır. Buraya ikinci öğretim elemanının kullanıcı adı yazılmalıdır. Derse daha fazla öğretim elemanı ilave edilecekse işlem her bir öğretim elemanı için tekrarlanmalıdır. Örneğin misafir bir öğretim elemanı sadece bir oturuma katılacaksa, o durumda bu dosyaya sadece bir satır ilave edilmelidir.<br><br>
 
 <img style="border:1px solid black" src="assets/images/dersKullanici.png"/> 
 <p style="text-align: center;">Şekil 5. Ders katılımcıları dosyası biçimi (Derslere kaydolmuş öğrenciler veya öğretici olarak görevlendirilmiş öğretim elemanları). </p><br>
