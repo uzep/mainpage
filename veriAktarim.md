@@ -70,8 +70,8 @@ Aktarılacak verilerin biçimleri örnek olarak aşağıdaki şekillerde verilmi
 
 **İki veya daha fazla şubenin birleştirilmesi:**
 
-İki veya daha fazla ders içindeki öğrenciler tek bir sanal sınıfta ders yapmak istiyorsa aşağıdaki işlemleri yapmalısınız:
-1. Birleştirilecek dersler için aynı baz ders altında yeni bir şube ders oluşturun. Birleştirilmesi planlanan dersler farklı baz dersler altında ise, her hangi bir baz ders altında yeni bir şube ders oluşturun.
+İki veya daha fazla derse kayıtlı öğrenciler tek bir sanal sınıfa taşınmak isteniyorsa:
+1. Birleştirilecek dersler için aynı baz ders altında yeni bir şube ders oluşturun. Birleştirilmesi planlanan şube dersler farklı baz dersler altında ise, her hangi bir baz ders altında yeni bir şube ders oluşturun.
 2. Şekil 5.'teki gibi yeni bir Excel dosyaya birleştirmek istediğiniz derslerdeki öğrencileri (varsa öğretim elemanlarını) ekleyin. 
 3. Bu dosyada "CourseExternalId" olarak yeni oluştruduğunuz dersin numarasını girin. 
 4. Daha sonra öğrencilerin hangi şubeden geldiğini bulmak için "MetaData" kolonuna getirildikleri şubenin kodunu girin. 
