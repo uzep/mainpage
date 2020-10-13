@@ -36,7 +36,7 @@ Aktarılacak verilerin biçimleri örnek olarak aşağıdaki şekillerde verilmi
 
 **BaseCourseExternalId:** Baz dersin ayırdedici numarasıdır ve üniversitedeki baz dersler içinde tekil olmalıdır. Baz dersler Eğitim Bilgi Sisteminde (EBS) var olan ders planlarındaki derslerdir. Bazı baz dersler fakültede tekil olabilir, örneğin Matematik dersi gibi. Bazı dersler de tüm üniversitede tekil olabilir, örneğin Türkçe gibi. Dolayısıyla, sisteme işlenecek her bir baz dersin mutlaka ayırdedici bir kodu olmalıdır. Benzer şekilde baz dersten türetilen şube derslere de baz ders kodundan farklı kodlar verilmelidir. Excel tabloya **sayı** veya **metin** olarak girilebilir. <br>
 
-**BaseCourseName:** Baz (temel) dersin adıdır. Baz ders ile şube derslerin adları genelde aynı olur (zorunlu değil), ancak biz onları A şubesi, B şubesi veya sabah şubesi, gece şubesi diye biliriz. Örneğin _Matematik_ dersi için 4 şube açılsa, tüm şube derslerinin adları da yine _Matematik_ olur. Ancak bazen farklı durumlar da olabilir: Örneğin baz dersin adı _İngilizce_ iken şube derslerin adları _İngilizce (Başlangıç)_, _İngilizce (Orta)_ ve _İngilizce (İleri)_ olabilir. Sistem her iki durumu da tanımlamaya uygundur.<br>
+**BaseCourseName:** Baz (temel) dersin adıdır. Bölüm ders planlarındaki derslerin adlarıdır. Baz ders ile şube derslerin adları genelde aynı olur (zorunlu değil).<br>
 
 **CourseDepartmentExternalId:** Baz dersten türetilen şube dersin açılacağı bölümün kodudur. Örneğin baz ders üniversite ölçeğinde bir ders _Türkçe_ olsun. Bu ders Bilgisayar Mühendisliği bölümünde açılmak istenirse, bölümün kodu buraya girilmlidir. Şekil 2.'deki örnekte Bilişim Sistemleri Mühendisliği Bölümünün kodu _456_ dır, yani baz ders ve şube ders aynı bölüme bağlıdır. Excel tabloya **sayı** veya **metin** olarak girilebilir.<br>
 
@@ -44,7 +44,7 @@ Aktarılacak verilerin biçimleri örnek olarak aşağıdaki şekillerde verilmi
 
 **CourseCode:** Dersin EBS ders planında görünen ve bilinen kodu, örneğin _MAT101_ gibi. Excel tabloya metin biçiminde girilmelidir.<br>
 
-**CourseName:** Şube dersin adıdır, genelde baz ders adı ile aynıdır (olmak zorunda değil). <br><br>
+**CourseName:** Şube dersin adıdır, genelde baz ders adı ile aynıdır (olmak zorunda değil). Şube dersler genelde bir dersin A şubesi, B şubesi veya sabah şubesi, gece şubesi diye bilinir. Örneğin _Matematik_ dersi için 4 şube açılsa, tüm şube derslerinin adları da yine baz dersin adı, yani _Matematik_ olur. Ancak bazen farklı durumlar da olabilir: Örneğin, yabancı dil baz dersin adı _İngilizce_ iken şube derslerinin adları _İngilizce (Başlangıç)_, _İngilizce (Orta)_ ve _İngilizce (İleri)_ olabilir. Sistem her iki durumu da tanımlamaya uygundur.<br><br>
 
 <img style="border:1px solid black" src="assets/images/kullanicilar.png"/> 
 <p style="text-align: center;">Şekil 3. Kullanıcılar dosyası (Yöneticiler, öğretim elemanları ve öğrenciler). </p><br>
