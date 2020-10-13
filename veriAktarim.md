@@ -68,6 +68,15 @@ Aktarılacak verilerin biçimleri örnek olarak aşağıdaki şekillerde verilmi
 **EnumCourseUserType:** Derse katılan kişinin öğrenci veya öğretmen olduğu bilgisidir. 0: Öğretmen, 1: Öğrenci. <br>
 **MetaData:** Derse katılanlar ile ilgili ilave bilgi için kullanılmak üzere ayrılmış bir alan. Örneğin bir sanal sınıf iki şubenin birleştirilmesinden oluşturulabilir. Böyle bir durumda, derse katılan öğrencilerin nereden geldiklerini ayrıştırmak için kullanılabilir, yani öğrenci bölüm kodu burada kullanılabilir. Bu kısım tamamen serbest olarak kullanılabilir, Excel dosyada _sayı_ veya _metin_ biçiminde olabilir. <br><br>
 
+**İki veya daha fazla şubenin birleştirilerek ders yürütülmesi:**
+
+İki veya daha fazla ders içindeki öğrenciler tek bir sanal sınıfta ders yapmak istiyorsa aşağıdaki işlemleri yapmalısınız:
+1. Birleştirilecek dersler için aynı baz ders altında yeni bir şube ders oluşturun. Birleştirilmesi planlanan dersler farklı baz dersler altında ise, her hangi bir baz ders altında yeni bir şube ders oluşturun.
+2. Şekil 5.'teki gibi yeni bir Excel dosyaya birleştirmek istediğiniz derslerdeki öğrencileri (varsa öğretim elemanlarını) ekleyin. 
+3. Bu dosyada "CourseExternalId" olarak yeni oluştruduğunuz dersin numarasını girin. 
+4. Daha sonra öğrencilerin hangi şubeden geldiğini bulmak için "MetaData" kolonuna getirildikleri şubenin kodunu girin. 
+
+
 <img style="border:1px solid black" src="assets/images/veriAktarim.png"/>  
 <p style="text-align: center;">Şekil 6. UZEP'e Excel dosya kullanarak veri aktarım arayüzü. </p>
 
