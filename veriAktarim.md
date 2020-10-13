@@ -18,8 +18,16 @@ Aktarılacak verilerin biçimleri örnek olarak aşağıdaki şekillerde verilmi
 
 <br><img style="border:1px solid black" src="assets/images/birim.png"/> 
 <p style="text-align: center;">Şekil 1. Birimler dosyası biçimi (Fakülteler, MYO'lar, Enstitüler ve bu birimlerin altında bulunan bölümler/programlar). </p> <br>
+
+
+**DepartmentExternalId:** Bir bölüm/programın numarası, bu numara tüm üniversite içinde tekil (ayırdedici) olmalıdır. Excel tabloya **sayı** olarak girilmelidir.
+**FacultyName:** Bölüm/programın bağlı olduğu fakülte/enstitü veya MYO adı. Excel tabloya **metin** olarak girilmelidir.
+**DepartmentName:** Bölüm/program adı. Excel tabloya **metin** olarak girilmelidir.
+
 <img style="border:1px solid black" src="assets/images/dersler.png"/> 
 <p style="text-align: center;">Şekil 2. Dersler dosyası biçimi (Baz dersler ve şube dersler). </p><br>
+
+
 <img style="border:1px solid black" src="assets/images/kullanicilar.png"/> 
 <p style="text-align: center;">Şekil 3. Kullanıcılar dosyası (Yöneticiler, öğretim elemanları ve öğrenciler). </p><br>
 <img style="border:1px solid black" src="assets/images/hprog.png" height="400"/> 
