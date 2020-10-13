@@ -76,6 +76,7 @@ Aktarılacak verilerin biçimleri örnek olarak aşağıdaki şekillerde verilmi
 3. Bu dosyada "CourseExternalId" olarak yeni oluştruduğunuz dersin numarasını girin. 
 4. Daha sonra öğrencilerin hangi şubeden geldiğini bulmak için "MetaData" kolonuna getirildikleri şubenin kodunu girin. 
 
+<br><br>
 
 <img style="border:1px solid black" src="assets/images/veriAktarim.png"/>  
 <p style="text-align: center;">Şekil 6. UZEP'e Excel dosya kullanarak veri aktarım arayüzü. </p>
