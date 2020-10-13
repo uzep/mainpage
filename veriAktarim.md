@@ -19,12 +19,11 @@ Aktarılacak verilerin biçimleri örnek olarak aşağıdaki şekillerde verilmi
 <br><img style="border:1px solid black" src="assets/images/birim.png"/> 
 <p style="text-align: center;">Şekil 1. Birimler dosyası biçimi (Fakülteler, MYO'lar, Enstitüler ve bu birimlerin altında bulunan bölümler/programlar). </p> <br>
 
-
 **DepartmentExternalId:** Bir bölüm/programın numarası, bu numara tüm üniversite içinde tekil (ayırdedici) olmalıdır. Excel tabloya **sayı** olarak girilmelidir.<br>
 
 **FacultyName:** Bölüm/programın bağlı olduğu fakülte/enstitü veya MYO adı. Excel tabloya **metin** olarak girilmelidir.<br>
 
-**DepartmentName:** Bölüm/program adı. Excel tabloya **metin** olarak girilmelidir.<br>
+**DepartmentName:** Bölüm/program adı. Excel tabloya **metin** olarak girilmelidir.<br><br>
 
 <img style="border:1px solid black" src="assets/images/dersler.png"/> 
 <p style="text-align: center;">Şekil 2. Dersler dosyası biçimi (Baz dersler ve şube dersler). </p><br>
@@ -41,12 +40,17 @@ Aktarılacak verilerin biçimleri örnek olarak aşağıdaki şekillerde verilmi
 
 **CourseCode:** Dersin bilinen kodu, örneğin _MAT101_ gibi. Excel tabloya metin biçiminde konulmalıdır.<br>
 
-**CourseName:** Dersin adı, genelde baz ders adı ile şube ders adı aynıdır. <br>
+**CourseName:** Dersin adı, genelde baz ders adı ile şube ders adı aynıdır. <br><br>
 
 <img style="border:1px solid black" src="assets/images/kullanicilar.png"/> 
 <p style="text-align: center;">Şekil 3. Kullanıcılar dosyası (Yöneticiler, öğretim elemanları ve öğrenciler). </p><br>
 
-
+**Username:** Kullanıcı adı. Üniversite Yönetim Sistemindeki (ÜYS) kullanıcı adı kullanılabilir. Sistem açısından herhangi bir sorun olmamakla beraber, kullanıcı adı olarak TC numarasının seçilmesi önerilmez. Öğretim elemanı sınıf listesi alıp yayınladığında KVKK açısından sıkıntı oluşturabilir.<br>
+**Name:** Kullanıcının ilk adı. İki isimli olanlar için iki kelime veya daha fazlası olabilir.<br>
+**Surname:** Kullanıcının soyadı.<br>
+**SocialNumber:** Kullancıının TC numarası veya herhangi bir numara girilebilir. Tekil olmak zorunda değildir.<br> 
+**Password:** Kullanıcıya verilen şifre. İlk kullanımda değişitirilir (değişitirilmelidir).
+**Role:** Kullanıcıya verilen rol.<br><br>
 
 <img style="border:1px solid black" src="assets/images/hprog.png" height="400"/> 
 <p style="text-align: center;">Şekil 4. Ders takvimi dosya biçimi (Haftalık ders programları). </p><br>
