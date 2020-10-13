@@ -19,6 +19,8 @@ Aktarılacak verilerin biçimleri örnek olarak aşağıdaki şekillerde verilmi
 <br><img style="border:1px solid black" src="assets/images/birim.png"/> 
 <p style="text-align: center;">Şekil 1. Birimler dosyası biçimi (Fakülteler, MYO'lar, Enstitüler ve bu birimlerin altında bulunan bölümler/programlar). </p> <br>
 
+**Tabloya ait açıklamalar:**<br>
+
 **DepartmentExternalId:** Bir bölüm/programın numarası, bu numara tüm üniversite içinde tekil (ayırdedici) olmalıdır. Excel tabloya **sayı** olarak girilmelidir.<br>
 
 **FacultyName:** Bölüm/programın bağlı olduğu fakülte/enstitü veya MYO adı. Excel tabloya **metin** olarak girilmelidir.<br>
@@ -27,6 +29,8 @@ Aktarılacak verilerin biçimleri örnek olarak aşağıdaki şekillerde verilmi
 
 <img style="border:1px solid black" src="assets/images/dersler.png"/> 
 <p style="text-align: center;">Şekil 2. Dersler dosyası biçimi (Baz dersler ve şube dersler). </p><br>
+
+**Tabloya ait açıklamalar:**<br>
 
 **BaseCourseDepartmentExternalId:** Baz (temel) dersin bağlı olduğu birim/bölüm numarası. Örneğin Mukavemmet dersi Makine bölümüne bağlı ise Makine bölüm numarası buraya girilmelidir. Şeki,ldeki örnekte _456_ numaralı bölüme bağlı _Sistem Yöneticiliği_ dersi görülmektedir. _456_ numaralı bölüm _Bilişim Sistemleri Mühendisliği_ bölümüdür. Bu tabloda aynı bölüme bağlı çok sayıda ders olabilir. Excel tabloya **metin** olarak girilmelidir.<br>
 
@@ -45,28 +49,46 @@ Aktarılacak verilerin biçimleri örnek olarak aşağıdaki şekillerde verilmi
 <img style="border:1px solid black" src="assets/images/kullanicilar.png"/> 
 <p style="text-align: center;">Şekil 3. Kullanıcılar dosyası (Yöneticiler, öğretim elemanları ve öğrenciler). </p><br>
 
+**Tabloya ait açıklamalar:**<br>
+
 **Username:** Kullanıcı adı. Üniversite Yönetim Sistemindeki (ÜYS) kullanıcı adı kullanılabilir. Sistem açısından herhangi bir sorun olmamakla beraber, kullanıcı adı olarak TC numarasının seçilmesi önerilmez. Öğretim elemanı sınıf listesi alıp yayınladığında KVKK açısından sıkıntı oluşturabilir.<br>
+
 **Name:** Kullanıcının ilk adı. İki isimli olanlar için iki kelime veya daha fazlası olabilir.<br>
+
 **Surname:** Kullanıcının soyadı.<br>
+
 **SocialNumber:** Kullancıının TC numarası veya herhangi bir numara girilebilir. Tekil olmak zorunda değildir.<br> 
+
 **Password:** Kullanıcıya verilen şifre. İlk kullanımda değişitirilir (değişitirilmelidir).<br>
+
 **Role:** Kullanıcıya verilen rol. Sistemde tanımlı roller _Süper Yönetici_, _Yönetici_, _İstatistik Bilgi_, _Öğretim elemanı_ ve _Öğrenci_ şeklindedir. Arayüzler üzerinden kullanıcı tanımlandığında rolsüz olarak oluşmaktadır. Arayüz üzerinden tekil olarak tanımşanmış bir kullanıcının sistemden yararlanabilmesi için ayrıca rol tanımlanması gerekir.<br><br>
 
 <img style="border:1px solid black" src="assets/images/hprog.png" height="400"/> 
 <p style="text-align: center;">Şekil 4. Ders takvimi dosya biçimi (Haftalık ders programları). </p><br>
 
+**Tabloya ait açıklamalar:**<br>
+
 **CourseExternalId:** Dersin şube kodu. Şube ders ile ilgili açıklamalar yukarıda Şekil 2 nin altında var.<br>
+
 **Start:** Dersin başlama tarihi ve zamanı.<br>
+
 **End:** Dersin bitiş tarihi ve zamanı.<br>
+
 **Username:** Dersin öğretim elemanı. Eğer dersi yürüten birden fazla öğretim elemanı varsa, ders için oluşturulan _Takvim_ satırları kopyalanıp aynı Excel dosyanın altına ilave edilir. İlave gelen satırlarda tek değişen kısım _Username_ kısmı olacaktır. Buraya ikinci öğretim elemanının kullanıcı adı yazılacaktır. Derse daha fazla öğretim elelmanı ilave edilecekse işlem her bir öğretim elemanı için tekrarlanır. Örneğin misafir bir öğretim elemanı sadece bir oturuma katılacaksa, bu dosyaya sadece bir satır ilave edilir.<br><br>
 
 <img style="border:1px solid black" src="assets/images/dersKullanici.png"/> 
 <p style="text-align: center;">Şekil 5. Ders katılımcıları dosyası biçimi (Derslere kaydolmuş öğrenciler veya öğretici olarak görevlendirilmiş öğretim elemanları). </p><br>
 
+**Tabloya ait açıklamalar:**<br>
+
 **Username:** Derse katılacak öğrencinin kullanıcı adı. <br>
+
 **CourseExternalId:** Dersin şube kodu. Şube ders ile ilgili açıklamalar yukarıda Şekil 2 nin altında var.<br>
+
 **EnumCourseUserType:** Derse katılan kişinin öğrenci veya öğretmen olduğu bilgisidir. 0: Öğretmen, 1: Öğrenci. <br>
+
 **MetaData:** Derse katılanlar ile ilgili ilave bilgi girişi için ayrılmış bir alandır. Örneğin bir sanal sınıf iki şubenin birleştirilmesinden oluşturulabilir. Böyle bir durumda, derse katılan öğrencilerin nereden geldiklerini ayrıştırmak için kullanılabilir, yani öğrenci bölüm kodu burada kullanılabilir. Bu kısım tamamen serbest olarak kullanılabilir, Excel dosyada _sayı_ veya _metin_ biçiminde olabilir. <br><br>
+
 
 **İki veya daha fazla şubenin birleştirilmesi:**
 
