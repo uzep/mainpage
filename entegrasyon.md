@@ -29,9 +29,9 @@ author: ozmen
 
 Tüm veriler aktarıldığında UZEP dönem için kullanıma hazır olacaktır. Bu noktadan sonra tekil değişiklikler UZEP-Yönetici arayüzlerinden yapılabilir.
 
-##Entegrasyon için aktarılacak veriler hakkında açıklayıcı bilgiler:
+### Entegrasyon için aktarılacak veriler hakkında açıklayıcı bilgiler:
 
-###Birimler Dosyası:
+### Birimler Dosyası:
 
 <br><img style="border:1px solid black" src="assets/images/birim.png"/> 
 <p style="text-align: center;">Şekil 1. Birimler dosyası biçimi (Fakülteler, MYO'lar, Enstitüler ve bu birimlerin altında bulunan bölümler/programlar). </p> <br>
@@ -44,7 +44,7 @@ Tüm veriler aktarıldığında UZEP dönem için kullanıma hazır olacaktır. 
 
 **DepartmentName:** Bölüm/program adı. Excel tabloya **metin** olarak girilmelidir.<br><br>
 
-###Dersler dosyası:
+### Dersler dosyası:
 
 <img style="border:1px solid black" src="assets/images/dersler.png"/> 
 <p style="text-align: center;">Şekil 2. Dersler dosyası biçimi (Baz dersler ve şube dersler). </p><br>
@@ -65,7 +65,7 @@ Tüm veriler aktarıldığında UZEP dönem için kullanıma hazır olacaktır. 
 
 **CourseName:** Şube dersin adıdır, genelde baz ders adı ile aynıdır (olmak zorunda değil). Şube dersler genelde bir dersin A şubesi, B şubesi veya sabah şubesi, gece şubesi diye bilinir. Örneğin _Matematik_ dersi için 4 şube açılsa, tüm şube derslerinin adları da yine baz dersin adı, yani _Matematik_ olur. Ancak bazen farklı durumlar da olabilir: Örneğin, yabancı dil baz dersin adı _İngilizce_ iken şube derslerinin adları _İngilizce (Başlangıç)_, _İngilizce (Orta)_ ve _İngilizce (İleri)_ olabilir. Sistem her iki durumu da tanımlamaya uygundur.<br><br>
 
-###Kullanıcılar dosyası:
+### Kullanıcılar dosyası:
 
 <img style="border:1px solid black" src="assets/images/kullanicilar.png"/> 
 <p style="text-align: center;">Şekil 3. Kullanıcılar dosyası (Yöneticiler, öğretim elemanları ve öğrenciler). </p><br>
@@ -101,7 +101,7 @@ Tüm veriler aktarıldığında UZEP dönem için kullanıma hazır olacaktır. 
 
 **Username:** Dersin öğretim elemanıdır. Eğer dersi yürüten birden fazla öğretim elemanı varsa, ders için oluşturulan _Takvim_ satırları kopyalanıp aynı Excel dosyanın altına ilave edilmelidir. Kopyalanan satırlarda tek değişen kısım _Username_ kısmı olacaktır. Buraya ikinci öğretim elemanının kullanıcı adı yazılmalıdır. Derse daha fazla öğretim elemanı ilave edilecekse işlem her bir öğretim elemanı için tekrarlanmalıdır. Örneğin misafir bir öğretim elemanı sadece bir oturuma katılacaksa, o durumda bu dosyaya sadece bir satır ilave edilmelidir.<br><br>
 
-###Katılımcılar dosyası:
+### Katılımcılar dosyası:
 
 <img style="border:1px solid black" src="assets/images/dersKullanici.png"/> 
 <p style="text-align: center;">Şekil 5. Ders katılımcıları dosyası biçimi (Derslere kaydolmuş öğrenciler veya öğretici olarak görevlendirilmiş öğretim elemanları). </p><br>
@@ -117,7 +117,7 @@ Tüm veriler aktarıldığında UZEP dönem için kullanıma hazır olacaktır. 
 **MetaData:** Derse katılanlar (öğretmen, öğrenci veya misafir olabilir) ile ilgili ilave bilgi girişi için ayrılmış bir alandır. Örneğin, iki şube dersin birleştirilmesi ile yeni bir şube oluşturulabilir. Bu durumda, derse katılan öğrencilerin hangi şubeden (veya bölümden) geldiklerini ayrıştırmak için kullanılabilir, yani öğrencinin bölüm kodu burada kullanılabilir. Bu kısım tamamen serbest olarak kullanılabilir, Excel dosyada **sayı** veya **metin** biçiminde olabilir. <br><br>
 
 
-##İki veya daha fazla şubenin birleştirilmesi:
+## İki veya daha fazla şubenin birleştirilmesi:
 
 İki veya daha şubede bulunan öğrenciler tek bir şubede birleştirilebilir. Bunun için şu işlemler yapılmalıdır:
 1. Birleştirilecek şube dersler için aynı baz ders altında yeni bir şube ders oluşturulur. Farklı baz dersler altındaki şubeler de birleştirilebilir. Bu durumda her hangi bir baz ders altında yeni bir şube ders oluşturulur.
