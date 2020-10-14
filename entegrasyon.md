@@ -33,7 +33,7 @@ Tüm veriler aktarıldığında UZEP dönem için kullanıma hazır olacaktır. 
 
 ### Birimler Dosyası:
 
-<br><img style="border:1px solid black" src="assets/images/birim.png"/> 
+<img style="border:1px solid black" src="assets/images/birim.png"/> 
 <p style="text-align: center;">Şekil 1. Birimler dosyası biçimi (Fakülteler, MYO'lar, Enstitüler ve bu birimlerin altında bulunan bölümler/programlar). </p> <br>
 
 **Tabloya ait açıklamalar:**<br>
