@@ -15,7 +15,8 @@ Uygulama Programı Arayüzü (API) kullanarak UZEP içine veri yüklemek veya ve
 
 ## 1. İstemci yetkilendirme (client authorization) için aşağıdaki işlemler yapılır:
 1. Süper yönetici rolündeki kişiler, UZEP ana menüsünde yer alan "Ayarlar" sekmesini tıkladığında, açılan sayfada API işlemleri kısmında **Client Tanımlama** ve **Swagger** butonları bulunmaktadır (Bkz. Şekil 1). Buradaki **Client Tanımlama** butonu tıklanır. 
-- İstemci tanımlamak için arayüze girilmesi gereken bilgiler:
+
+İstemci tanımlamak için arayüze girilmesi gereken bilgiler:
 * **İstemci ID:** Harflerden oluşan ayırdedici bir kelime. Kendi alanınızda aynı ID ile iki istemci olamaz. Türkçe karakter kullanılmamalıdır. 
 * **İstemci adı:** Geliştirdiğiniz uygulamanın adı veya kullanım amacınıza uygun bir ad olabilir. Birkaç kelimeden oluşabilir, Türkçe karakter barındırabilir.
 * **Secret:** Gizli kelime, bilgilerin belirli bir algoritma ile şifrelenmesi için kullanılıyor. UZEP bunu otomatik üretiyor, isterseniz değiştirebilirisiniz.
@@ -52,12 +53,12 @@ Postman Platformu üzerinden test için Şekil 4.'te verilen örnek istemci (ve 
 2. Postman istemci üzerinde hesap oluşturulur ve giriş yapılır.
 3. Sayfanın ortasındaki menüden "Authorization" şeçilir. **TYPE** olarak "OAuth 2.0" ve **Add Authorization data to** "Request Headers" olarak seçilir. 
 4. Sağ tarafta "Get New Access Token" butonu tıklanır (Bkz. Şekil 5). Açılan pencereye aşağıdaki değerler girilir:
-..* **Token Name:** Token için herhangi bir isim verebilirsniz. Biz bu örnekte "dersTestToken" ismini verdik.
-..* **Grant Type:** "Client Credentials" seçilmelidir.
-..* **Access Token URL:** Üniversitenizdeki UZEP url adı sonuna "/login/connect/token" girilmeldir. Bu örnek uyglamada "https://test.uzep.org" üzerinde çalıştığımız için https://test.uzep.org/login/connect/token" girildi. 
-..* **Client ID:** UZEP tarafında client oluştururken verilen isim buraya girilmelidir. Bu örnekte daha önce oluşturulan "dersApi" adlı istemci ID'si girilmiştir.
-..* **Client Secret:** UZEP tarafında client oluştururken girilen secret buraya girilmelidir. Bu örnekte "2acf891b-4a89-433d-b758-12f8197609e9" secret kullanılmıştır, UZEP'te oluşturulan ile aynı olmalıdır.
-..* **Client Autehentication:** "Send as Basic Auth header" seçilmelidir.
+* **Token Name:** Token için herhangi bir isim verebilirsniz. Biz bu örnekte "dersTestToken" ismini verdik.
+* **Grant Type:** "Client Credentials" seçilmelidir.
+* **Access Token URL:** Üniversitenizdeki UZEP url adı sonuna "/login/connect/token" girilmeldir. Bu örnek uyglamada "https://test.uzep.org" üzerinde çalıştığımız için https://test.uzep.org/login/connect/token" girildi. 
+* **Client ID:** UZEP tarafında client oluştururken verilen isim buraya girilmelidir. Bu örnekte daha önce oluşturulan "dersApi" adlı istemci ID'si girilmiştir.
+* **Client Secret:** UZEP tarafında client oluştururken girilen secret buraya girilmelidir. Bu örnekte "2acf891b-4a89-433d-b758-12f8197609e9" secret kullanılmıştır, UZEP'te oluşturulan ile aynı olmalıdır.
+* **Client Autehentication:** "Send as Basic Auth header" seçilmelidir.
 <br><img style="border:1px solid black" src="assets/images/authorization.png"/> 
 <p style="text-align: center;">Şekil 5. Token isteğinin başlatılması. </p> <br>
 
