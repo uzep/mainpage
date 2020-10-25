@@ -3,14 +3,14 @@ layaout: default
 title: Excel Dosya ile Entegrasyon
 author: ozmen
 ---
-#Excel dosyaları yardımıyla entegrasyon:
+# Excel dosyaları yardımıyla entegrasyon:
 
 Veri aktarımı için Excel dosyalarındaki verilerin UZEP’in beklediği biçimde olması gerekmektedir. UZEP veri akatarımı arayüzünde (bkz. Şekil 1) örnek Excel dosyalar bulunmaktadır. Bu örnek dosyalar sistemin beklediği şekilde biçimlendirilmiştir, dolayısı ile önce bu dosyalar indirilmeli, ÜYS’den indirilen veriler buraya kopyalanarak entegrasyon yapılmalıdır.
 
 <img style="border:1px solid black" src="assets/images/veriAktarim.png"/>  
 <p style="text-align: center;">Şekil 1. Excel dosyalar ile entegrasyon arayüzü. </p>
 
-##2. Excel tabloları ile entegrasyon işlem basamakları:
+## Excel tabloları ile entegrasyon işlem basamakları:
 1. Entegrasyonu doğru bir şekilde yapabilmek için  UZEP'in "veri akatarımı" arayüzündeki örnek dosyaları indirin.
 2. Dosyalar içindeki ilk satırı (başlık satırını) koruyarak diğer verileri silin.
 3. Üniveriste Yönetim Sisteminden (ÜYS) indirdiğiniz verileri başka bir Excel sayfasında hazır edin.
