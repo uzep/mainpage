@@ -4,7 +4,7 @@ title: API ile Entegrasyon
 author: ozmen
 ---
 
-# API kullanarak entegrasyon:
+# API kullanarak entegrasyon veya yedekleme:
 
 Uygulama Programı Arayüzü (API) kullanarak UZEP içine veri yüklemek veya veri çekmek, yedekleme yapmak mümkündür. Bu işlemleri yapmak için istemci yazılımlar veya betikler (script) geliştirilebilir. İstemci yazılımların veya betiklerin geliştirilmesi kullanıcı üniversitelere bırakılmıştır. UZEP token (jeton) bazlı yetkilendirme (authorization) yapısı kullanmaktadır, bu nedenle geliştirceğiniz istemci yazılımlarının öncelikle UZEP'e tanımlanması (yetkilendirilmesi) gerekmektedir. Yetkilendirme sadece **Süper Yönetici** rolündeki bir kullanıcı tarafından yapılabilir.
 
