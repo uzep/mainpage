@@ -67,7 +67,7 @@ UZEP veritabanında var olan derslerin yedeklenmesi için örnek bir uygulama ol
 
 5. İstek sonucu gelen token ekranda görülür, "Use Token" butonu tıklanarak devamında yapılacak API istekleri için bu token kullanılabilir (Bkz. Şekil 7). **Token asla paylaşılmamalıdır.**
 <br><img style="border:1px solid black" src="assets/images/useToken.png"/> 
-<p style="text-align: center;">Şekil 7. İstek sonucu UZEP tarafından döndürülen "Token" **Asla paylaşılmamalıdır**. </p> <br>
+<p style="text-align: center;">Şekil 7. "Token" asla paylaşılmamalıdır. </p> <br>
 
 6. Token elde edildikten sonra API'ler çalıştırılabilir. Bunun için Postman masaüstü uygulamasında orta yerde görünen pencerede API metodu seçilir (Örneğin GET veya POST gibi). 
 7. "Enter request URL" yazan yere "https://test.uzep.org/api/api/Course/GetAll" girin. Başka bir API kullanılacaksa, Süper yönetici rolünde iken "UZEP" --> "Ayarlar" kısmından, "Api işlemleri" satırında "Swagger" tıklanarak uygun API seçilmelidir. Örneğin Sakarya Üniversitesi için tüm baz dersleri getiren URL "https://uzep.sakarya.edu.tr/api/api/BaseCourse/GetAll" şeklinde olacaktır.
