@@ -19,7 +19,7 @@ API ile veri transferi işlemlerinde ihtiyaç duyacağınız detaylı bilgilere 
 
 Veri aktarımı için Excel dosyalarına UZEP’in beklediği biçimde verilerin yüklenmesi gerekmektedir. Excel dosyaları manuel doldurulabilir, ancak bu zor ve zahmetli ve hat ihtimali yüksek bir iş olacaktır. Bunun yerine ÜYS'den elde edilmesi hem işlemleri hızlandıracak ve yüksek doğruluykta bie entegrasyon yapılmış olacaktır. UZEP veri akatarımı arayüzünde (bkz. Şekil 1) örnek Excel dosyalar bulunmaktadır. Bu örnek dosyalar sistemin beklediği şekilde biçimlendirilmiştir, dolayısı ile önce bu dosyalar indirilmeli, ÜYS’den indirilen veriler buraya kopyalanarak entegrasyon yapılmalıdır.
 
-Excel dosyaları ile veri transferi işlemlerinde ihtiyaç duyacağınız detaylı bilgilere erişmek için [tıklayınız](/fileEnt.html "Excel ile Entegrasyon").
+Excel dosyaları ile veri transferi hakkında detaylı bilgilere erişmek için [tıklayınız](/fileEnt.html "Excel ile Entegrasyon").
 
 **Entegrasyon sırasında aktarılması gereken veriler şunlardır:** <br> 
 **1. Birimler:** Üniversite hiyerarşisi içinde Fakülte, Meslek Yüksek Okulları (MYO), Enstitüler ve bunların altındaki bölümler ve programlar birimler olarak adlandırılmıştır. <br>
