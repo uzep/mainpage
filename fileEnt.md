@@ -3,7 +3,7 @@ layaout: default
 title: Excel Dosya ile Entegrasyon
 author: ozmen
 ---
-# Excel dosyaları yardımıyla entegrasyon:
+# Excel dosyaları ile veri aktarımı
 
 Veri aktarımı için Excel dosyalarındaki verilerin UZEP’in beklediği biçimde olması gerekmektedir. UZEP veri akatarımı arayüzünde (bkz. Şekil 1) örnek Excel dosyalar bulunmaktadır. Bu örnek dosyalar sistemin beklediği şekilde biçimlendirilmiştir, dolayısı ile önce bu dosyalar indirilmeli, ÜYS’den indirilen veriler buraya kopyalanarak entegrasyon yapılmalıdır.
 
