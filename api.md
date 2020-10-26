@@ -45,7 +45,7 @@ UZEP API örneklerini anlatmak için [Postman Platformu](https://www.postman.com
 UZEP veritabanında var olan derslerin yedeklenmesi için örnek bir uygulama oluşturulmak istensin. İlk işlem, Şekil 4.'te gösterildiği gibi UZEP tarafında istemcinin oluşturulmasıdır. Daha sonra Postman uygulaması üzerinden token elde ederken burada girilen **Client ID**, ve **Secret** bilgilerine  ihtiyaç olacaktır. **Not:** "ClientId" ve "Secret" asla bir yerlerde yazılı bırakılmamalı ve başka kişilerle paylaşılmamalıdır. 
 
 <br><img style="border:1px solid black" src="assets/images/ornekIstemci.png"/> 
-<p style="text-align: center;">Şekil 4. UZEP tarafında örnek istemcinin oluşturulması. </p> <br>
+<p style="text-align: center;">Şekil 4. Örnek istemcinin oluşturulması. </p> <br>
 
 **Postman masaüstü ile API'lerin test edilmesi:**
 1. [Postman](https://www.postman.com/downloads/) web sitesinden masaüstü uygulama indirilir.
@@ -74,4 +74,4 @@ UZEP veritabanında var olan derslerin yedeklenmesi için örnek bir uygulama ol
 8. Çağrı parametresi olarak KEY kısmına "skip" VALUE kısmına 0 girin. Diğer bir parametre olarak KEY kısmına "take" VALUE kısmına da 100 girin. Girilen skip ve take parametreleri ile yapılan çağrı sonucunda, veritabanındaki verilerin başlangıç kısmından hiç atlanmadan en fazla 100 adet sonuç döndürülecektir (Bkz. Şekil 8). 
 
 <br><img style="border:1px solid black" src="assets/images/apiResult.png"/> 
-<p style="text-align: center;">Şekil 8. "/api/Course/GetAll" API çağrısı ile derslerin JSON formatında getirilmesi. </p> <br>
+<p style="text-align: center;">Şekil 8. JSON formatında "/api/Course/GetAll" API çağrısı ile derslerin getirilmesi. </p> <br>
