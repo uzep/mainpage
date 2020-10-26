@@ -3,7 +3,7 @@ layaout: default
 title: Entegrasyon
 author: ozmen
 ---
-# Entegrasyon
+# Diğer sistemlerle entegrasyon
 
 Üniveriste Yönetim Sistemi (ÜYS) ile UZEP entegrasyonu için iki yol bulunmaktadır:<br> 
 1. ÜYS ile UZEP arasında sağlanan web servislerini (API) kullanmak, 
