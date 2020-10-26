@@ -4,7 +4,7 @@ title: API ile Entegrasyon
 author: ozmen
 ---
 
-# API kullanarak entegrasyon veya yedekleme:
+# API kullanarak entegrasyon veya veri yedekleme
 
 Uygulama Programı Arayüzü (API) kullanarak UZEP içine veri yüklemek veya veri çekmek, yedekleme yapmak mümkündür. Bu işlemleri yapmak için istemci yazılımlar veya betikler (script) geliştirilebilir. İstemci yazılımların veya betiklerin geliştirilmesi kullanıcı üniversitelere bırakılmıştır. UZEP token (jeton) bazlı yetkilendirme (authorization) yapısı kullanmaktadır, bu nedenle geliştirceğiniz istemci yazılımlarının öncelikle UZEP'e tanımlanması (yetkilendirilmesi) gerekmektedir. Yetkilendirme sadece **Süper Yönetici** rolündeki bir kullanıcı tarafından yapılabilir.
 
@@ -57,17 +57,21 @@ UZEP veritabanında var olan derslerin yedeklenmesi için örnek bir uygulama ol
 * **Access Token URL:** Üniversitenizdeki UZEP url adı sonuna "/login/connect/token" girilmeldir. Bu örnek uyglamada "https://test.uzep.org" üzerinde çalıştığımız için https://test.uzep.org/login/connect/token" girildi. 
 * **Client ID:** UZEP tarafında client oluştururken verilen isim buraya girilmelidir. Bu örnekte daha önce oluşturulan "dersApi" adlı istemci ID'si girilmiştir.
 * **Client Secret:** UZEP tarafında client oluştururken girilen secret buraya girilmelidir. Bu örnekte "2acf891b-4a89-433d-b758-12f8197609e9" secret kullanılmıştır, UZEP'te oluşturulan ile aynı olmalıdır.
-* **Client Autehentication:** "Send as Basic Auth header" seçilmelidir.
+* **Client Autehentication:** "Send as Basic Auth header" seçilmelidir (Bkz. Şekil 6).
 
 <br><img style="border:1px solid black" src="assets/images/authorization.png"/> 
 <p style="text-align: center;">Şekil 5. Token isteğinin başlatılması. </p> <br>
 
-5. İstek sonucu gelen token ekranda görülür, "Use Token" butonu tıklanarak devamında yapılacak API istekleri için bu token kullanılabilir. **Token asla paylaşılmamalıdır.**
+<br><img style="border:1px solid black" src="assets/images/requestToken.png"/> 
+<p style="text-align: center;">Şekil 6. Token isteği için girilen bilgiler. </p> <br>
+
+5. İstek sonucu gelen token ekranda görülür, "Use Token" butonu tıklanarak devamında yapılacak API istekleri için bu token kullanılabilir (Bkz. Şekil 7). **Token asla paylaşılmamalıdır.**
 <br><img style="border:1px solid black" src="assets/images/useToken.png"/> 
-<p style="text-align: center;">Şekil 6. İstek sonucu UZEP tarafından döndürülen "Token" **Asla paylaşılmamalıdır**. </p> <br>
+<p style="text-align: center;">Şekil 7. İstek sonucu UZEP tarafından döndürülen "Token" **Asla paylaşılmamalıdır**. </p> <br>
 
 6. Token elde edildikten sonra API'ler çalıştırılabilir. Bunun için Postman masaüstü uygulamasında orta yerde görünen pencerede API metodu seçilir (Örneğin GET veya POST gibi). 
 7. "Enter request URL" yazan yere "https://test.uzep.org/api/api/Course/GetAll" girin. Başka bir API kullanılacaksa, Süper yönetici rolünde iken "UZEP" --> "Ayarlar" kısmından, "Api işlemleri" satırında "Swagger" tıklanarak uygun API seçilmelidir. Örneğin Sakarya Üniversitesi için tüm baz dersleri getiren URL "https://uzep.sakarya.edu.tr/api/api/BaseCourse/GetAll" şeklinde olacaktır.
-8. Çağrı parametresi olarak KEY kısmına "skip" VALUE kısmına 0 girin. Diğer bir parametre olarak KEY kısmına "take" VALUE kısmına da 100 girin. Girilen skip ve take parametreleri ile yapılan çağrı sonucunda, veritabanındaki verilerin başlangıç kısmından hiç atlanmadan en fazla 100 adet sonuç döndürülecektir (Bkz. Şekil 7). 
+8. Çağrı parametresi olarak KEY kısmına "skip" VALUE kısmına 0 girin. Diğer bir parametre olarak KEY kısmına "take" VALUE kısmına da 100 girin. Girilen skip ve take parametreleri ile yapılan çağrı sonucunda, veritabanındaki verilerin başlangıç kısmından hiç atlanmadan en fazla 100 adet sonuç döndürülecektir (Bkz. Şekil 8). 
+
 <br><img style="border:1px solid black" src="assets/images/apiResult.png"/> 
-<p style="text-align: center;">Şekil 7. "/api/Course/GetAll" API çağrısı ile derslerin JSON formatında getirilmesi. </p> <br>
+<p style="text-align: center;">Şekil 8. "/api/Course/GetAll" API çağrısı ile derslerin JSON formatında getirilmesi. </p> <br>
