@@ -7,7 +7,7 @@ author: ozmen
 
 Bu sayfa dinamik olarak sürekli güncellenerek yeni bilgiler, kılavuzlar ve yardım videoları eklenmektedir. Bu sayfadaki linkler tüm rollere hitap etmektedir, özel olarak sadece bir role hitap eden açıklamalar başlık kısmında parantez içinde belirtilmiştir. 
 
-**PDF kılavuzlar:** Öğrenciler ve öğretim elemanları için hazırlanmış _UZEP_ ve _Sanal Sınıf Kılavuzlarına_ aşağıdaki linklerden erişilebilir:  
+**PDF kılavuzlar:** Öğrenciler ve öğretim elemanları için hazırlanmış _UZEP_, _Sınav_ ve _Sanal Sınıf Kılavuzlarına_ aşağıdaki linklerden erişilebilir:  
 
 - Öğrenciler için hazırlanmış pdf **UZEP Kılavuzu** için [tıklayınız.](assets/files/pdf/Ogr_Manual.pdf)<br>
 - Öğrenciler için hazırlanmış pdf **UZEP Sınav Kılavuzu** için [tıklayınız.](assets/files/pdf/UZEPSinavOgrenci.pdf)<br>
