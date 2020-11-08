@@ -13,7 +13,7 @@ Uygulama Programı Arayüzü (API) kullanarak UZEP içine veri yüklemek veya ve
 2. Mevcut API'lerin görülmesi, işlevleri ve tanımlarının incelenmesi.
 3. API'lerin kullanımı.
 
-## 1. İstemci yetkilendirme (client authorization) için aşağıdaki işlemler yapılır:
+## 1. İstemci yetkilendirme (client authorization):
 1. Süper yönetici rolündeki kişiler, UZEP ana menüsünde yer alan "Ayarlar" sekmesini tıkladığında, açılan sayfada API işlemleri kısmında **Client Tanımlama** ve **Swagger** butonları bulunmaktadır (Bkz. Şekil 1). **Client Tanımlama** butonu tıklanır, açılan arayüzde girilmesi gereken bilgiler şunlardır:
 * **İstemci ID:** Harflerden oluşan ayırdedici bir kelime olmalıdır. Aynı ID ile iki istemci ID olamaz ve Türkçe karakter kullanılmamalıdır. 
 * **İstemci adı:** Geliştirdiğiniz uygulamanın adı veya kullanım amacınıza uygun bir ad olabilir. Birkaç kelimeden oluşabilir, Türkçe karakter kullanılabilir.
