@@ -1,4 +1,3 @@
-sinav.md
 ---
 layout: default
 title: UZEP Sınav modülü
