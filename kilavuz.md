@@ -89,8 +89,9 @@ Ana soru ile bağlantılı soru oluşturmak ile ilgili video için [tıklayını
 
 Eşdeğer soru grubu oluşturmak ile ilgili video için [tıklayınız.](https://youtu.be/P83KU7H_6D4)
 
+<!--
 Sınav oluşturma ile ilgili yardım videosu için [tıklayınız.](https://www.youtube.com/watch?v=niBI-gOsrZQ&list=PLrX4FlRljtXPSl5vKxTHrkxvteyBC003s&index=5)
-
+-->
 **8. [Kullanıcı ekleme (Yönetici)](/kullanici.html):**
 
 Sisteme veri aktarımı yoluyla topluca kullanıcı tanımlamaları yapılabilir. Bunun dışında tekil kullanıcılar da eklenebilir veya kullanıcı kayıtları düzenlenebilir. Kullanıcı kayıtları içinde sadece **kullanıcı adı** değiştirilemez. Kullanıcı adı değiştirilmesi gerekiyorsa, silinir ve yeni kullanıcı oluşturulur.

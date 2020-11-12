@@ -26,5 +26,6 @@ Açık uçlu soru türünde soru eklemek ile ilgili video için [tıklayınız.]
 Ana soru ile bağlantılı soru oluşturmak ile ilgili video için [tıklayınız.](https://youtu.be/iQHbqw--tR8)
 
 Eşdeğer soru grubu oluşturmak ile ilgili video için [tıklayınız.](https://youtu.be/P83KU7H_6D4)
-
+<!--
 Sınav oluşturma ile ilgili yardım videosu için [tıklayınız.](https://www.youtube.com/watch?v=niBI-gOsrZQ&list=PLrX4FlRljtXPSl5vKxTHrkxvteyBC003s&index=5)
+-->
