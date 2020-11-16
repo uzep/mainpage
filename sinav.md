@@ -32,7 +32,7 @@ Sınav modülüne geçince menü bandı koyu renk (siyah) olmaktadır. Sınav mo
 **Sınav Düzenleme**
 Sınav Düzenleme sayfasındaki bazı bilgiler (sınav adı ve sınav başlama tarihi ve saati gibi) UZEP ana sayfasından sınav oluşturulurken girilmektedir. Bu sayfada Şekil 1'de görülen diğer bilgiler girilmelidir. Yeni sınav oluşturulduğunda başlangıç ve bitiş tarihleri çakışık, süresi de 0 olarak gelmektedir. Burada düzenleme yapılarak oturum süresi ve sınav süresi dakika cinsinden girilmelidir. Öntanımlı olarak sorular ve şıkları herkese karışık gelecek şekilde ayarlıdır, istenirse bu değiştirlebilir. Ayrıca eşdeğer soruların da karışık gelmesi için sürgülü buton EVET'e çekilmelidir. Aşağıdaki butonlar vasıtasıyla sınav önizleme yapılabilir veya sorular düzenlenebilir. Soruları düzenleme seçildiğinde soru bankasındaki havuzlardan soru seçilebilir, puanlamalar ayarlanabilir. Sınavın tüm işlemleri tamamlandıysa (örneğin soru girişi ve diğer bilgilerin girişleri) "Sınavı Onayla" butonu tıklanmalıdır. Onaylama aşaması henüz gelmediyse yapılan değişiklikler kaydedilmelidir.
 
-<br><img style="border:1px solid black" src="assets/images/sinavDuzenle.png"/> 
+<br><img style="border:1px solid black" src="assets/images/sinavDuzenleme.png"/> 
 <p style="text-align: center;">Şekil 1. Sınav düzenleme sayfası. </p> <br>
 
 
