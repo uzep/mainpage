@@ -89,6 +89,10 @@ Ana soru ile bağlantılı soru oluşturmak ile ilgili video için [tıklayını
 
 Eşdeğer soru grubu oluşturmak ile ilgili video için [tıklayınız.](https://youtu.be/P83KU7H_6D4)
 
+Yönetici yetkisinde olanların sınav oturumlarını incelemesi ile ilgili video için [tıklayınız.](https://www.youtube.com/watch?v=ekwOSwOxrwk&list=PLrX4FlRljtXNG8PJSkIdddhN466QjaXRW)
+
+Not: Dersi veren öğretim elemanı bir öğrencinin sınav oturumunu incelemek isterse, yukarıdaki videonun 1:25 dakikasından sonrasını izlemesi yeterlidir.
+
 <!--
 Sınav oluşturma ile ilgili yardım videosu için [tıklayınız.](https://www.youtube.com/watch?v=niBI-gOsrZQ&list=PLrX4FlRljtXPSl5vKxTHrkxvteyBC003s&index=5)
 -->
