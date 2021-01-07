@@ -5,7 +5,9 @@ author: ozmen
 ---
 # Raporlama modülü
 
-UZEP raporlama modülü aşağıdaki raporları yapılma üretebilir.
+UZEP hem öğretim elemanları ve hem de yöneticiler için raporlar üretebilmektedir. Öğretim elemanları öğrencilerin katılımlarını sistem üzerinden her an takip edebilir veya bunu devam takip raporu olarak sistemden alabilir. Benzer şekilde yöneticiler de öğretim elemanlarının sanal dersleri ne zaman ve ne kadar yaptıklarını sistem üzerinden görebilir.
+
+Bunun dışında, belirlenen kaynaklara göre yük dağılımının görülebileceği bir “sanal sınıf yoğunluk haritası” arayüzü bulunmaktadır. Bu arayüz üzerinden sistemin yükü ile ilgili istatistik raporlar alınabilir. Sınav modülünde de çok sayıda raporlama bulunmaktadır. Örneğin, öğrenci notları, sorulara verilen doğru/yanlış cevap dağılımları veya öğrencilerin sınava nereden girdiği gibi bilgiler hem arayüz üzerinde anlık olarak görülebilir ve hem de istenildiğinde rapor alınabilir.
 
 **1. Öğretim elemanı canlı yayın ders süreleri:** Canlı yayın derslerin ne kadar yapıldığının raporlanması için hazırlanmıştır. Yöneticilerin erişimine açık bir raporlama şeklidir. Raporda, öğretim elemanının adı, soyadı, dersin kodu, adı, takvim, ne zaman yapılmış ve süre bilgileri bulunur. Ayrı bir raporla öğretim elemanının bir dönemde ne kadar materyal yüklediği raporlanır.
 
