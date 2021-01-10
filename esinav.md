@@ -30,8 +30,5 @@ E-sınav modülü üzerinde 1) Çoktan seçmeli, 2) Doğru yanlış, 3) Ucu aç�
 ## Sınavların yürütülmesi:
 Sınav soruları sisteme girildiğinde aktif olabilmesi için sınav tarihi ve saati girilerek onaylanması gerekir. Onaylanmamış sınavlar öğrenci arayüzünde görülmezler, bu bakımdan öğretim elemanları hazırladıkları sınavları onaylamayı unutmamalıdır. Sınav süresi ve oturum süresi farklı olarak tanımlanabilir. Örneğin, 90 dakikalık bir sınav için oturum süresi 120 dakika ayarlanabilir. Oturum süresi sınav süresinden kısa olamaz. Oturum süresini, sınav süresinden 5-10 dakika daha uzun belirlemek iyi bir pratiktir. Öğrenciler bazen sisteme girerken sorun yaşayabilir, böyle bir durumda mağduriyet önlenmiş olur. Oturum süresinin çok uzun belirlenmesi ise sınavdan erken çıkan öğrencilerin sınav sorularını farklı ortamlarda paylaşmasına neden olabilmektedir. Sınav başladıktan sonra öğrencilerin sınav oturumları sistem üzerinden izlenebilir.
 
-### Oturumların izlenmesi:
-	
-### "Ek süre" veya "Sınav hakkı" verme:
+Daha detaylı bilgi için  <a href="/sinav.html">tıklayınız</a>.
 
-## Sınav mazereti:

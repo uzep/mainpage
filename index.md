@@ -8,7 +8,7 @@ author: ozmen
 UZEP, Tübitak tarafından desteklenen proje ile ülke çapında tüm yükseköğretim kurumlarının istifade edeceği bir uzaktan eğitim platformudur (Proje no: 120K200). Sistemin donanım alt yapısı ULAKBİM tarafından sağlanırken, yazılım komponentleri Sakarya Üniversitesi tarafından geliştirilmiştir. Geliştirilen sistem üniversitelerin bilişim kaynaklarına ihtiyaç duymadığından, herhangi bir yükseköğretim kurumu için çok kısa sürede hizmete alınabilmektedir. <br>
 
 ### Projenin temel hedefleri:<br> 
-1. Yüksek performans ve İnternet band genişliği isteyen servisler için bilişim kaynaklarının yükseköğretim kurumları arasında paylaşımı yoluyla maliyetlerin azaltılması. <br>
+1. Yüksek performans ve İnternet bant genişliği isteyen servisler için bilişim kaynaklarının yükseköğretim kurumları arasında paylaşımı yoluyla maliyetlerin azaltılması. <br>
 2. Kişisel Verilerin Korunması Kanunu (KVKK) ile uyumlu olması. <br>
 3. Salgın veya doğal afet durumlarında yükseköğretim kurumlarında eğitimin sürekliliğinin sağlanması.<br>
 
