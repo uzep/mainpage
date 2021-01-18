@@ -4,10 +4,9 @@ title: İletişim
 author: ozmen
 ---
 
-**UZEP** TÜBİTAK-1001 projesi kapsamında geliştirilmiştir (Proje no: 120K200). <br><br>
+## UZEP, TÜBİTAK-1001 projesi kapsamında 2020 yılı içinde geliştirilmiştir (Proje no: 120K200). 
 
 |**Proje başlığı:** | Yükseköğretimde Yeni Bir Uzaktan Öğretim Modeli Ve Uygulama Platformu |
-|**Proje süresi:** | 1 Temmuz 2020 - 31 Aralık 2020 |
 
 ## Proje çalışanları:
 <table style="width:100%">
