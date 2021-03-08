@@ -3,7 +3,7 @@ layout: default
 title: UZEP Ödev modülü
 author: ozmen
 ---
-# UZEP Ödev Modülü
+# Ödev Modülü
 
 Ödev modülü uzun dönemli araştırma veya proje çalışmalarının sistematik olarak öğrencilere duyurulması, toplanması, değerlendirme sonuçlarının öğrencilere duyurulması için geliştirilmiştir. Ödev modülü ile UZEP'e doküman yüklerken 2 tarih-zaman bilgisinin girilmesi gerekir: 
 
