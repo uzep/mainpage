@@ -4,7 +4,14 @@ title: İletişim
 author: ozmen
 ---
 
-# UZEP, TÜBİTAK-1001 projesi kapsamında 2020 yılı içinde geliştirilmiştir (Proje no: 120K200). 
+Konu ile ilgili sorularınız için:<br>
+
+| **BAUM** | Prof.Dr. Ahmet Özmen <br>Email: _ozmen@sakarya.edu.tr_ <br>Tel: _(264) 295 7350_  |
+| **UZEM** | Prof.Dr. Mehmet Barış Horzum <br>Email: _mhorzum@sakarya.edu.tr_<br>Tel: _(264) 295 5141_ |
+| **Adres:** | Sakarya Üniversitesi, Bilgisayar Araştırma ve Uygulama Merkezi <br> Uzaktan Eğitim Merkezi (BAUM & UZEM), Esentepe Kampüsü, Serdivan, SAKARYA |
+
+
+UZEP, TÜBİTAK-1001 projesi kapsamında 2020 yılı içinde geliştirilmiştir (Proje no: 120K200). 
 
 |**Proje başlığı:** | Yükseköğretimde Yeni Bir Uzaktan Öğretim Modeli Ve Uygulama Platformu |
 
@@ -40,8 +47,3 @@ author: ozmen
   </tr>
  </table>
 
-Konu ile ilgili sorularınız için:<br>
-
-| **BAUM** | Prof.Dr. Ahmet Özmen <br>Email: _ozmen@sakarya.edu.tr_ <br>Tel: _(264) 295 7350_  |
-| **UZEM** | Prof.Dr. Mehmet Barış Horzum <br>Email: _mhorzum@sakarya.edu.tr_<br>Tel: _(264) 295 5141_ |
-| **Adres:** | Sakarya Üniversitesi, Bilgisayar Araştırma ve Uygulama Merkezi <br> Uzaktan Eğitim Merkezi (BAUM & UZEM), Esentepe Kampüsü, Serdivan, SAKARYA |
