@@ -4,7 +4,6 @@ title: Üniversiteler
 author: ozmen
 ---
 # UZEP Kullanan Üniversiteler
-
 <table class="unv">
   <br><br>
   <tr>
