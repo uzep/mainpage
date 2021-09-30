@@ -23,6 +23,9 @@ author: ozmen
     <th style="background-color: #1589FF; border: 10px solid #FFFFFF"><a href="https://uzep.kilis.edu.tr">KİLİS 7 ARALIK ÜNİVERSİTESİ</a></th>
     <!-- th style="background-color: #46C7C7; border: 10px solid #FFFFFF"><a href="https://uzep.munzur.edu.tr">MUNZUR ÜNİVERSİTESİ</a></th>-->
   </tr>
+   <tr>
+    <th style="background-color: #46C7C7; border: 10px solid #FFFFFF"><a href="https://uzep.munzur.edu.tr">MUNZUR ÜNİVERSİTESİ</a></th>
+  </tr>
   
 </table>
 
