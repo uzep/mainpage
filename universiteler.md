@@ -3,7 +3,7 @@ layaout: default
 title: Üniversiteler
 author: ozmen
 ---
-# UZEP Kullanan Üniversiteler
+# 2021 yılında UZEP Kullanan Üniversiteler
 <table class="unv">
   <br><br>
   <tr>
